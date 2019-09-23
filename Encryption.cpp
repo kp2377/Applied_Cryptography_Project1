@@ -91,6 +91,7 @@ int main()
     {
         for(int m=0;m<alphabet_weight[l];m++)
         {
+            if(counter == 76 ){counter = 95;}
             *(key+(KEY_COLUMN*l)+m) = random_array[counter];
             cout<<*(key+(KEY_COLUMN*l)+m)<<'\n';
             counter++;
