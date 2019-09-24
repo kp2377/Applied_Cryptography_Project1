@@ -1,0 +1,1333 @@
+the initial weight is: 
+Number: 0 Value :19
+Number: 1 Value :7
+Number: 2 Value :1
+Number: 3 Value :2
+Number: 4 Value :4
+Number: 5 Value :10
+Number: 6 Value :2
+Number: 7 Value :2
+Number: 8 Value :5
+Number: 9 Value :6
+Number: 10 Value :1
+Number: 11 Value :1
+Number: 12 Value :3
+Number: 13 Value :2
+Number: 14 Value :6
+Number: 15 Value :6
+Number: 16 Value :2
+Number: 17 Value :1
+Number: 18 Value :5
+Number: 19 Value :5
+Number: 20 Value :7
+Number: 21 Value :2
+Number: 22 Value :1
+Number: 23 Value :2
+Number: 24 Value :1
+Number: 25 Value :2
+Number: 26 Value :1
+The key initialized is : 76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+The Value Finally received is: 101
+101 :random_array[random_number], 0 :random_array[temp1], 101 :temp2, 0 :temp1
+The Value Finally received is: 2
+2 :random_array[random_number], 1 :random_array[temp1], 2 :temp2, 1 :temp1
+The Value Finally received is: 21
+21 :random_array[random_number], 1 :random_array[temp1], 21 :temp2, 2 :temp1
+The Value Finally received is: 101
+0 :random_array[random_number], 3 :random_array[temp1], 0 :temp2, 3 :temp1
+The Value Finally received is: 47
+47 :random_array[random_number], 4 :random_array[temp1], 47 :temp2, 4 :temp1
+The Value Finally received is: 60
+60 :random_array[random_number], 5 :random_array[temp1], 60 :temp2, 5 :temp1
+The Value Finally received is: 24
+24 :random_array[random_number], 6 :random_array[temp1], 24 :temp2, 6 :temp1
+The Value Finally received is: 59
+59 :random_array[random_number], 7 :random_array[temp1], 59 :temp2, 7 :temp1
+The Value Finally received is: 29
+29 :random_array[random_number], 8 :random_array[temp1], 29 :temp2, 8 :temp1
+The Value Finally received is: 42
+42 :random_array[random_number], 9 :random_array[temp1], 42 :temp2, 9 :temp1
+The Value Finally received is: 101
+3 :random_array[random_number], 10 :random_array[temp1], 3 :temp2, 10 :temp1
+The Value Finally received is: 70
+70 :random_array[random_number], 11 :random_array[temp1], 70 :temp2, 11 :temp1
+The Value Finally received is: 67
+67 :random_array[random_number], 12 :random_array[temp1], 67 :temp2, 12 :temp1
+The Value Finally received is: 35
+35 :random_array[random_number], 13 :random_array[temp1], 35 :temp2, 13 :temp1
+The Value Finally received is: 14
+14 :random_array[random_number], 14 :random_array[temp1], 14 :temp2, 14 :temp1
+The Value Finally received is: 74
+74 :random_array[random_number], 15 :random_array[temp1], 74 :temp2, 15 :temp1
+The Value Finally received is: 12
+67 :random_array[random_number], 16 :random_array[temp1], 67 :temp2, 16 :temp1
+The Value Finally received is: 24
+6 :random_array[random_number], 17 :random_array[temp1], 6 :temp2, 17 :temp1
+The Value Finally received is: 2
+21 :random_array[random_number], 18 :random_array[temp1], 21 :temp2, 18 :temp1
+The Value Finally received is: 95
+95 :random_array[random_number], 19 :random_array[temp1], 95 :temp2, 19 :temp1
+The Value Finally received is: 52
+52 :random_array[random_number], 20 :random_array[temp1], 52 :temp2, 20 :temp1
+The Value Finally received is: 66
+66 :random_array[random_number], 1 :random_array[temp1], 66 :temp2, 21 :temp1
+The Value Finally received is: 102
+102 :random_array[random_number], 22 :random_array[temp1], 102 :temp2, 22 :temp1
+The Value Finally received is: 101
+10 :random_array[random_number], 23 :random_array[temp1], 10 :temp2, 23 :temp1
+The Value Finally received is: 21
+66 :random_array[random_number], 17 :random_array[temp1], 66 :temp2, 24 :temp1
+The Value Finally received is: 73
+73 :random_array[random_number], 25 :random_array[temp1], 73 :temp2, 25 :temp1
+The Value Finally received is: 48
+48 :random_array[random_number], 26 :random_array[temp1], 48 :temp2, 26 :temp1
+The Value Finally received is: 36
+36 :random_array[random_number], 27 :random_array[temp1], 36 :temp2, 27 :temp1
+The Value Finally received is: 75
+75 :random_array[random_number], 28 :random_array[temp1], 75 :temp2, 28 :temp1
+The Value Finally received is: 30
+30 :random_array[random_number], 8 :random_array[temp1], 30 :temp2, 29 :temp1
+The Value Finally received is: 37
+37 :random_array[random_number], 8 :random_array[temp1], 37 :temp2, 30 :temp1
+The Value Finally received is: 36
+27 :random_array[random_number], 31 :random_array[temp1], 27 :temp2, 31 :temp1
+The Value Finally received is: 63
+63 :random_array[random_number], 32 :random_array[temp1], 63 :temp2, 32 :temp1
+The Value Finally received is: 55
+55 :random_array[random_number], 33 :random_array[temp1], 55 :temp2, 33 :temp1
+The Value Finally received is: 72
+72 :random_array[random_number], 34 :random_array[temp1], 72 :temp2, 34 :temp1
+The Value Finally received is: 25
+73 :random_array[random_number], 13 :random_array[temp1], 73 :temp2, 35 :temp1
+The Value Finally received is: 102
+22 :random_array[random_number], 31 :random_array[temp1], 22 :temp2, 36 :temp1
+The Value Finally received is: 40
+40 :random_array[random_number], 8 :random_array[temp1], 40 :temp2, 37 :temp1
+The Value Finally received is: 69
+69 :random_array[random_number], 38 :random_array[temp1], 69 :temp2, 38 :temp1
+The Value Finally received is: 97
+97 :random_array[random_number], 39 :random_array[temp1], 97 :temp2, 39 :temp1
+The Value Finally received is: 52
+20 :random_array[random_number], 8 :random_array[temp1], 20 :temp2, 40 :temp1
+The Value Finally received is: 7
+59 :random_array[random_number], 41 :random_array[temp1], 59 :temp2, 41 :temp1
+The Value Finally received is: 30
+37 :random_array[random_number], 9 :random_array[temp1], 37 :temp2, 42 :temp1
+The Value Finally received is: 59
+7 :random_array[random_number], 43 :random_array[temp1], 7 :temp2, 43 :temp1
+The Value Finally received is: 58
+58 :random_array[random_number], 44 :random_array[temp1], 58 :temp2, 44 :temp1
+The Value Finally received is: 54
+54 :random_array[random_number], 45 :random_array[temp1], 54 :temp2, 45 :temp1
+The Value Finally received is: 25
+13 :random_array[random_number], 46 :random_array[temp1], 13 :temp2, 46 :temp1
+The Value Finally received is: 25
+46 :random_array[random_number], 4 :random_array[temp1], 46 :temp2, 47 :temp1
+The Value Finally received is: 37
+40 :random_array[random_number], 26 :random_array[temp1], 40 :temp2, 48 :temp1
+The Value Finally received is: 74
+15 :random_array[random_number], 49 :random_array[temp1], 15 :temp2, 49 :temp1
+The Value Finally received is: 101
+23 :random_array[random_number], 50 :random_array[temp1], 23 :temp2, 50 :temp1
+The Value Finally received is: 0
+101 :random_array[random_number], 51 :random_array[temp1], 101 :temp2, 51 :temp1
+The Value Finally received is: 75
+28 :random_array[random_number], 8 :random_array[temp1], 28 :temp2, 52 :temp1
+The Value Finally received is: 8
+29 :random_array[random_number], 53 :random_array[temp1], 29 :temp2, 53 :temp1
+The Value Finally received is: 31
+27 :random_array[random_number], 45 :random_array[temp1], 27 :temp2, 54 :temp1
+The Value Finally received is: 45
+54 :random_array[random_number], 33 :random_array[temp1], 54 :temp2, 55 :temp1
+The Value Finally received is: 46
+13 :random_array[random_number], 56 :random_array[temp1], 13 :temp2, 56 :temp1
+The Value Finally received is: 49
+15 :random_array[random_number], 57 :random_array[temp1], 15 :temp2, 57 :temp1
+The Value Finally received is: 50
+23 :random_array[random_number], 44 :random_array[temp1], 23 :temp2, 58 :temp1
+The Value Finally received is: 3
+0 :random_array[random_number], 43 :random_array[temp1], 0 :temp2, 59 :temp1
+The Value Finally received is: 104
+104 :random_array[random_number], 5 :random_array[temp1], 104 :temp2, 60 :temp1
+The Value Finally received is: 17
+6 :random_array[random_number], 61 :random_array[temp1], 6 :temp2, 61 :temp1
+The Value Finally received is: 60
+104 :random_array[random_number], 62 :random_array[temp1], 104 :temp2, 62 :temp1
+The Value Finally received is: 26
+48 :random_array[random_number], 32 :random_array[temp1], 48 :temp2, 63 :temp1
+The Value Finally received is: 24
+66 :random_array[random_number], 64 :random_array[temp1], 66 :temp2, 64 :temp1
+The Value Finally received is: 31
+45 :random_array[random_number], 65 :random_array[temp1], 45 :temp2, 65 :temp1
+The Value Finally received is: 6
+24 :random_array[random_number], 1 :random_array[temp1], 24 :temp2, 66 :temp1
+The Value Finally received is: 38
+69 :random_array[random_number], 12 :random_array[temp1], 69 :temp2, 67 :temp1
+The Value Finally received is: 32
+63 :random_array[random_number], 68 :random_array[temp1], 63 :temp2, 68 :temp1
+The Value Finally received is: 23
+10 :random_array[random_number], 38 :random_array[temp1], 10 :temp2, 69 :temp1
+The Value Finally received is: 65
+45 :random_array[random_number], 11 :random_array[temp1], 45 :temp2, 70 :temp1
+The Value Finally received is: 10
+3 :random_array[random_number], 71 :random_array[temp1], 3 :temp2, 71 :temp1
+The Value Finally received is: 40
+20 :random_array[random_number], 34 :random_array[temp1], 20 :temp2, 72 :temp1
+The Value Finally received is: 37
+26 :random_array[random_number], 25 :random_array[temp1], 26 :temp2, 73 :temp1
+The Value Finally received is: 40
+34 :random_array[random_number], 49 :random_array[temp1], 34 :temp2, 74 :temp1
+The Value Finally received is: 46
+56 :random_array[random_number], 19 :random_array[temp1], 56 :temp2, 95 :temp1
+The Value Finally received is: 50
+44 :random_array[random_number], 96 :random_array[temp1], 44 :temp2, 96 :temp1
+The Value Finally received is: 17
+61 :random_array[random_number], 39 :random_array[temp1], 61 :temp2, 97 :temp1
+The Value Finally received is: 17
+39 :random_array[random_number], 98 :random_array[temp1], 39 :temp2, 98 :temp1
+The Value Finally received is: 22
+102 :random_array[random_number], 99 :random_array[temp1], 102 :temp2, 99 :temp1
+The Value Finally received is: 66
+24 :random_array[random_number], 100 :random_array[temp1], 24 :temp2, 100 :temp1
+The Value Finally received is: 68
+63 :random_array[random_number], 50 :random_array[temp1], 63 :temp2, 101 :temp1
+The Value Finally received is: 57
+15 :random_array[random_number], 31 :random_array[temp1], 15 :temp2, 102 :temp1
+The Value Finally received is: 97
+61 :random_array[random_number], 103 :random_array[temp1], 61 :temp2, 103 :temp1
+The Value Finally received is: 11
+70 :random_array[random_number], 5 :random_array[temp1], 70 :temp2, 104 :temp1
+The Value Finally received is: 12
+16 :random_array[random_number], 105 :random_array[temp1], 16 :temp2, 105 :temp1
+The Value Finally received is: 49
+57 :random_array[random_number], 51 :random_array[temp1], 57 :temp2, 0 :temp1
+The Value Finally received is: 26
+32 :random_array[random_number], 2 :random_array[temp1], 32 :temp2, 1 :temp1
+The Value Finally received is: 36
+22 :random_array[random_number], 18 :random_array[temp1], 22 :temp2, 2 :temp1
+The Value Finally received is: 6
+1 :random_array[random_number], 43 :random_array[temp1], 1 :temp2, 3 :temp1
+The Value Finally received is: 33
+55 :random_array[random_number], 47 :random_array[temp1], 55 :temp2, 4 :temp1
+The Value Finally received is: 38
+12 :random_array[random_number], 60 :random_array[temp1], 12 :temp2, 5 :temp1
+The Value Finally received is: 51
+101 :random_array[random_number], 43 :random_array[temp1], 101 :temp2, 6 :temp1
+The Value Finally received is: 71
+3 :random_array[random_number], 41 :random_array[temp1], 3 :temp2, 7 :temp1
+The Value Finally received is: 99
+102 :random_array[random_number], 53 :random_array[temp1], 102 :temp2, 8 :temp1
+The Value Finally received is: 42
+37 :random_array[random_number], 42 :random_array[temp1], 37 :temp2, 9 :temp1
+The Value Finally received is: 55
+54 :random_array[random_number], 71 :random_array[temp1], 54 :temp2, 10 :temp1
+The Value Finally received is: 102
+15 :random_array[random_number], 5 :random_array[temp1], 15 :temp2, 11 :temp1
+The Value Finally received is: 59
+0 :random_array[random_number], 105 :random_array[temp1], 0 :temp2, 12 :temp1
+The Value Finally received is: 97
+103 :random_array[random_number], 35 :random_array[temp1], 103 :temp2, 13 :temp1
+The Value Finally received is: 37
+25 :random_array[random_number], 14 :random_array[temp1], 25 :temp2, 14 :temp1
+The Value Finally received is: 43
+7 :random_array[random_number], 74 :random_array[temp1], 7 :temp2, 15 :temp1
+The Value Finally received is: 29
+30 :random_array[random_number], 67 :random_array[temp1], 30 :temp2, 16 :temp1
+The Value Finally received is: 3
+1 :random_array[random_number], 98 :random_array[temp1], 1 :temp2, 17 :temp1
+The Value Finally received is: 61
+6 :random_array[random_number], 21 :random_array[temp1], 6 :temp2, 18 :temp1
+The Value Finally received is: 1
+32 :random_array[random_number], 95 :random_array[temp1], 32 :temp2, 19 :temp1
+The Value Finally received is: 5
+12 :random_array[random_number], 52 :random_array[temp1], 12 :temp2, 20 :temp1
+The Value Finally received is: 50
+96 :random_array[random_number], 17 :random_array[temp1], 96 :temp2, 21 :temp1
+The Value Finally received is: 1
+95 :random_array[random_number], 99 :random_array[temp1], 95 :temp2, 22 :temp1
+The Value Finally received is: 103
+61 :random_array[random_number], 38 :random_array[temp1], 61 :temp2, 23 :temp1
+The Value Finally received is: 44
+58 :random_array[random_number], 64 :random_array[temp1], 58 :temp2, 24 :temp1
+The Value Finally received is: 59
+105 :random_array[random_number], 4 :random_array[temp1], 105 :temp2, 25 :temp1
+The Value Finally received is: 20
+12 :random_array[random_number], 2 :random_array[temp1], 12 :temp2, 26 :temp1
+The Value Finally received is: 55
+71 :random_array[random_number], 36 :random_array[temp1], 71 :temp2, 27 :temp1
+The Value Finally received is: 103
+38 :random_array[random_number], 75 :random_array[temp1], 38 :temp2, 28 :temp1
+The Value Finally received is: 70
+45 :random_array[random_number], 67 :random_array[temp1], 45 :temp2, 29 :temp1
+The Value Finally received is: 8
+102 :random_array[random_number], 9 :random_array[temp1], 102 :temp2, 30 :temp1
+The Value Finally received is: 33
+47 :random_array[random_number], 65 :random_array[temp1], 47 :temp2, 31 :temp1
+The Value Finally received is: 2
+22 :random_array[random_number], 68 :random_array[temp1], 22 :temp2, 32 :temp1
+The Value Finally received is: 41
+59 :random_array[random_number], 65 :random_array[temp1], 59 :temp2, 33 :temp1
+The Value Finally received is: 103
+75 :random_array[random_number], 72 :random_array[temp1], 75 :temp2, 34 :temp1
+The Value Finally received is: 68
+50 :random_array[random_number], 73 :random_array[temp1], 50 :temp2, 35 :temp1
+The Value Finally received is: 72
+20 :random_array[random_number], 18 :random_array[temp1], 20 :temp2, 36 :temp1
+The Value Finally received is: 29
+45 :random_array[random_number], 14 :random_array[temp1], 45 :temp2, 37 :temp1
+The Value Finally received is: 50
+17 :random_array[random_number], 60 :random_array[temp1], 17 :temp2, 38 :temp1
+The Value Finally received is: 69
+10 :random_array[random_number], 97 :random_array[temp1], 10 :temp2, 39 :temp1
+The Value Finally received is: 14
+25 :random_array[random_number], 49 :random_array[temp1], 25 :temp2, 40 :temp1
+The Value Finally received is: 73
+26 :random_array[random_number], 65 :random_array[temp1], 26 :temp2, 41 :temp1
+The Value Finally received is: 32
+22 :random_array[random_number], 42 :random_array[temp1], 22 :temp2, 42 :temp1
+The Value Finally received is: 28
+38 :random_array[random_number], 74 :random_array[temp1], 38 :temp2, 43 :temp1
+The Value Finally received is: 67
+69 :random_array[random_number], 64 :random_array[temp1], 69 :temp2, 44 :temp1
+The Value Finally received is: 45
+33 :random_array[random_number], 33 :random_array[temp1], 33 :temp2, 45 :temp1
+The Value Finally received is: 29
+14 :random_array[random_number], 19 :random_array[temp1], 14 :temp2, 46 :temp1
+The Value Finally received is: 47
+46 :random_array[random_number], 46 :random_array[temp1], 46 :temp2, 47 :temp1
+The Value Finally received is: 50
+60 :random_array[random_number], 40 :random_array[temp1], 60 :temp2, 48 :temp1
+The Value Finally received is: 6
+101 :random_array[random_number], 51 :random_array[temp1], 101 :temp2, 49 :temp1
+The Value Finally received is: 47
+46 :random_array[random_number], 40 :random_array[temp1], 46 :temp2, 50 :temp1
+The Value Finally received is: 50
+46 :random_array[random_number], 43 :random_array[temp1], 46 :temp2, 51 :temp1
+The Value Finally received is: 33
+59 :random_array[random_number], 28 :random_array[temp1], 59 :temp2, 52 :temp1
+The Value Finally received is: 100
+24 :random_array[random_number], 29 :random_array[temp1], 24 :temp2, 53 :temp1
+The Value Finally received is: 0
+57 :random_array[random_number], 27 :random_array[temp1], 57 :temp2, 54 :temp1
+The Value Finally received is: 62
+104 :random_array[random_number], 36 :random_array[temp1], 104 :temp2, 55 :temp1
+The Value Finally received is: 64
+66 :random_array[random_number], 13 :random_array[temp1], 66 :temp2, 56 :temp1
+The Value Finally received is: 40
+25 :random_array[random_number], 31 :random_array[temp1], 25 :temp2, 57 :temp1
+The Value Finally received is: 21
+96 :random_array[random_number], 23 :random_array[temp1], 96 :temp2, 58 :temp1
+The Value Finally received is: 66
+100 :random_array[random_number], 4 :random_array[temp1], 100 :temp2, 59 :temp1
+The Value Finally received is: 19
+32 :random_array[random_number], 62 :random_array[temp1], 32 :temp2, 60 :temp1
+The Value Finally received is: 71
+41 :random_array[random_number], 21 :random_array[temp1], 41 :temp2, 61 :temp1
+The Value Finally received is: 99
+53 :random_array[random_number], 36 :random_array[temp1], 53 :temp2, 62 :temp1
+The Value Finally received is: 38
+17 :random_array[random_number], 48 :random_array[temp1], 17 :temp2, 63 :temp1
+The Value Finally received is: 54
+57 :random_array[random_number], 13 :random_array[temp1], 57 :temp2, 64 :temp1
+The Value Finally received is: 63
+17 :random_array[random_number], 11 :random_array[temp1], 17 :temp2, 65 :temp1
+The Value Finally received is: 33
+28 :random_array[random_number], 4 :random_array[temp1], 28 :temp2, 66 :temp1
+The Value Finally received is: 68
+73 :random_array[random_number], 64 :random_array[temp1], 73 :temp2, 67 :temp1
+The Value Finally received is: 31
+47 :random_array[random_number], 64 :random_array[temp1], 47 :temp2, 68 :temp1
+The Value Finally received is: 97
+35 :random_array[random_number], 97 :random_array[temp1], 35 :temp2, 69 :temp1
+The Value Finally received is: 52
+59 :random_array[random_number], 67 :random_array[temp1], 59 :temp2, 70 :temp1
+The Value Finally received is: 59
+100 :random_array[random_number], 21 :random_array[temp1], 100 :temp2, 71 :temp1
+The Value Finally received is: 58
+96 :random_array[random_number], 18 :random_array[temp1], 96 :temp2, 72 :temp1
+The Value Finally received is: 97
+97 :random_array[random_number], 65 :random_array[temp1], 97 :temp2, 73 :temp1
+The Value Finally received is: 15
+7 :random_array[random_number], 34 :random_array[temp1], 7 :temp2, 74 :temp1
+The Value Finally received is: 105
+16 :random_array[random_number], 56 :random_array[temp1], 16 :temp2, 95 :temp1
+The Value Finally received is: 73
+97 :random_array[random_number], 44 :random_array[temp1], 97 :temp2, 96 :temp1
+The Value Finally received is: 21
+23 :random_array[random_number], 65 :random_array[temp1], 23 :temp2, 97 :temp1
+The Value Finally received is: 6
+51 :random_array[random_number], 39 :random_array[temp1], 51 :temp2, 98 :temp1
+The Value Finally received is: 46
+14 :random_array[random_number], 36 :random_array[temp1], 14 :temp2, 99 :temp1
+The Value Finally received is: 71
+100 :random_array[random_number], 29 :random_array[temp1], 100 :temp2, 100 :temp1
+The Value Finally received is: 39
+10 :random_array[random_number], 63 :random_array[temp1], 10 :temp2, 101 :temp1
+The Value Finally received is: 40
+31 :random_array[random_number], 5 :random_array[temp1], 31 :temp2, 102 :temp1
+The Value Finally received is: 103
+72 :random_array[random_number], 72 :random_array[temp1], 72 :temp2, 103 :temp1
+The Value Finally received is: 102
+31 :random_array[random_number], 70 :random_array[temp1], 31 :temp2, 104 :temp1
+The Value Finally received is: 30
+102 :random_array[random_number], 56 :random_array[temp1], 102 :temp2, 105 :temp1
+The Value Finally received is: 37
+45 :random_array[random_number], 27 :random_array[temp1], 45 :temp2, 0 :temp1
+The Value Finally received is: 17
+1 :random_array[random_number], 99 :random_array[temp1], 1 :temp2, 1 :temp1
+The Value Finally received is: 23
+61 :random_array[random_number], 68 :random_array[temp1], 61 :temp2, 2 :temp1
+The Value Finally received is: 44
+69 :random_array[random_number], 98 :random_array[temp1], 69 :temp2, 3 :temp1
+The Value Finally received is: 68
+47 :random_array[random_number], 55 :random_array[temp1], 47 :temp2, 4 :temp1
+The Value Finally received is: 38
+48 :random_array[random_number], 52 :random_array[temp1], 48 :temp2, 5 :temp1
+The Value Finally received is: 58
+18 :random_array[random_number], 39 :random_array[temp1], 18 :temp2, 6 :temp1
+The Value Finally received is: 18
+6 :random_array[random_number], 3 :random_array[temp1], 6 :temp2, 7 :temp1
+The Value Finally received is: 39
+63 :random_array[random_number], 9 :random_array[temp1], 63 :temp2, 8 :temp1
+The Value Finally received is: 17
+99 :random_array[random_number], 37 :random_array[temp1], 99 :temp2, 9 :temp1
+The Value Finally received is: 102
+70 :random_array[random_number], 54 :random_array[temp1], 70 :temp2, 10 :temp1
+The Value Finally received is: 8
+63 :random_array[random_number], 15 :random_array[temp1], 63 :temp2, 11 :temp1
+The Value Finally received is: 65
+17 :random_array[random_number], 0 :random_array[temp1], 17 :temp2, 12 :temp1
+The Value Finally received is: 67
+73 :random_array[random_number], 103 :random_array[temp1], 73 :temp2, 13 :temp1
+The Value Finally received is: 103
+72 :random_array[random_number], 49 :random_array[temp1], 72 :temp2, 14 :temp1
+The Value Finally received is: 98
+51 :random_array[random_number], 34 :random_array[temp1], 51 :temp2, 15 :temp1
+The Value Finally received is: 55
+104 :random_array[random_number], 30 :random_array[temp1], 104 :temp2, 16 :temp1
+The Value Finally received is: 50
+43 :random_array[random_number], 37 :random_array[temp1], 43 :temp2, 17 :temp1
+The Value Finally received is: 104
+31 :random_array[random_number], 3 :random_array[temp1], 31 :temp2, 18 :temp1
+The Value Finally received is: 27
+71 :random_array[random_number], 62 :random_array[temp1], 71 :temp2, 19 :temp1
+The Value Finally received is: 47
+40 :random_array[random_number], 2 :random_array[temp1], 40 :temp2, 20 :temp1
+The Value Finally received is: 70
+59 :random_array[random_number], 65 :random_array[temp1], 59 :temp2, 21 :temp1
+The Value Finally received is: 100
+100 :random_array[random_number], 95 :random_array[temp1], 100 :temp2, 22 :temp1
+The Value Finally received is: 45
+33 :random_array[random_number], 68 :random_array[temp1], 33 :temp2, 23 :temp1
+The Value Finally received is: 98
+34 :random_array[random_number], 58 :random_array[temp1], 34 :temp2, 24 :temp1
+The Value Finally received is: 56
+66 :random_array[random_number], 105 :random_array[temp1], 66 :temp2, 25 :temp1
+The Value Finally received is: 8
+15 :random_array[random_number], 12 :random_array[temp1], 15 :temp2, 26 :temp1
+The Value Finally received is: 41
+26 :random_array[random_number], 62 :random_array[temp1], 26 :temp2, 27 :temp1
+The Value Finally received is: 5
+48 :random_array[random_number], 74 :random_array[temp1], 48 :temp2, 28 :temp1
+The Value Finally received is: 4
+47 :random_array[random_number], 19 :random_array[temp1], 47 :temp2, 29 :temp1
+The Value Finally received is: 100
+95 :random_array[random_number], 56 :random_array[temp1], 95 :temp2, 30 :temp1
+The Value Finally received is: 49
+101 :random_array[random_number], 64 :random_array[temp1], 101 :temp2, 31 :temp1
+The Value Finally received is: 67
+103 :random_array[random_number], 42 :random_array[temp1], 103 :temp2, 32 :temp1
+The Value Finally received is: 51
+46 :random_array[random_number], 4 :random_array[temp1], 46 :temp2, 33 :temp1
+The Value Finally received is: 102
+54 :random_array[random_number], 75 :random_array[temp1], 54 :temp2, 34 :temp1
+The Value Finally received is: 48
+60 :random_array[random_number], 50 :random_array[temp1], 60 :temp2, 35 :temp1
+The Value Finally received is: 36
+20 :random_array[random_number], 20 :random_array[temp1], 20 :temp2, 36 :temp1
+The Value Finally received is: 39
+9 :random_array[random_number], 27 :random_array[temp1], 9 :temp2, 37 :temp1
+The Value Finally received is: 30
+95 :random_array[random_number], 52 :random_array[temp1], 95 :temp2, 38 :temp1
+The Value Finally received is: 103
+49 :random_array[random_number], 27 :random_array[temp1], 49 :temp2, 39 :temp1
+The Value Finally received is: 21
+59 :random_array[random_number], 5 :random_array[temp1], 59 :temp2, 40 :temp1
+The Value Finally received is: 59
+21 :random_array[random_number], 62 :random_array[temp1], 21 :temp2, 41 :temp1
+The Value Finally received is: 22
+100 :random_array[random_number], 22 :random_array[temp1], 100 :temp2, 42 :temp1
+The Value Finally received is: 2
+61 :random_array[random_number], 38 :random_array[temp1], 61 :temp2, 43 :temp1
+The Value Finally received is: 3
+69 :random_array[random_number], 98 :random_array[temp1], 69 :temp2, 44 :temp1
+The Value Finally received is: 20
+40 :random_array[random_number], 68 :random_array[temp1], 40 :temp2, 45 :temp1
+The Value Finally received is: 62
+53 :random_array[random_number], 36 :random_array[temp1], 53 :temp2, 46 :temp1
+The Value Finally received is: 50
+37 :random_array[random_number], 2 :random_array[temp1], 37 :temp2, 47 :temp1
+The Value Finally received is: 16
+104 :random_array[random_number], 50 :random_array[temp1], 104 :temp2, 48 :temp1
+The Value Finally received is: 56
+105 :random_array[random_number], 64 :random_array[temp1], 105 :temp2, 49 :temp1
+The Value Finally received is: 21
+5 :random_array[random_number], 2 :random_array[temp1], 5 :temp2, 50 :temp1
+The Value Finally received is: 8
+12 :random_array[random_number], 4 :random_array[temp1], 12 :temp2, 51 :temp1
+The Value Finally received is: 38
+95 :random_array[random_number], 67 :random_array[temp1], 95 :temp2, 52 :temp1
+The Value Finally received is: 62
+36 :random_array[random_number], 24 :random_array[temp1], 36 :temp2, 53 :temp1
+The Value Finally received is: 44
+69 :random_array[random_number], 13 :random_array[temp1], 69 :temp2, 54 :temp1
+The Value Finally received is: 41
+21 :random_array[random_number], 30 :random_array[temp1], 21 :temp2, 55 :temp1
+The Value Finally received is: 70
+65 :random_array[random_number], 64 :random_array[temp1], 65 :temp2, 56 :temp1
+The Value Finally received is: 16
+50 :random_array[random_number], 25 :random_array[temp1], 50 :temp2, 57 :temp1
+The Value Finally received is: 98
+58 :random_array[random_number], 39 :random_array[temp1], 58 :temp2, 58 :temp1
+The Value Finally received is: 48
+104 :random_array[random_number], 62 :random_array[temp1], 104 :temp2, 59 :temp1
+The Value Finally received is: 43
+61 :random_array[random_number], 32 :random_array[temp1], 61 :temp2, 60 :temp1
+The Value Finally received is: 58
+58 :random_array[random_number], 41 :random_array[temp1], 58 :temp2, 61 :temp1
+The Value Finally received is: 17
+43 :random_array[random_number], 24 :random_array[temp1], 43 :temp2, 62 :temp1
+The Value Finally received is: 7
+6 :random_array[random_number], 11 :random_array[temp1], 6 :temp2, 63 :temp1
+The Value Finally received is: 23
+33 :random_array[random_number], 57 :random_array[temp1], 33 :temp2, 64 :temp1
+The Value Finally received is: 47
+37 :random_array[random_number], 0 :random_array[temp1], 37 :temp2, 65 :temp1
+The Value Finally received is: 36
+20 :random_array[random_number], 28 :random_array[temp1], 20 :temp2, 66 :temp1
+The Value Finally received is: 45
+40 :random_array[random_number], 42 :random_array[temp1], 40 :temp2, 67 :temp1
+The Value Finally received is: 32
+103 :random_array[random_number], 55 :random_array[temp1], 103 :temp2, 68 :temp1
+The Value Finally received is: 58
+41 :random_array[random_number], 35 :random_array[temp1], 41 :temp2, 69 :temp1
+The Value Finally received is: 35
+60 :random_array[random_number], 64 :random_array[temp1], 60 :temp2, 70 :temp1
+The Value Finally received is: 35
+64 :random_array[random_number], 29 :random_array[temp1], 64 :temp2, 71 :temp1
+The Value Finally received is: 12
+17 :random_array[random_number], 96 :random_array[temp1], 17 :temp2, 72 :temp1
+The Value Finally received is: 21
+2 :random_array[random_number], 44 :random_array[temp1], 2 :temp2, 73 :temp1
+The Value Finally received is: 17
+24 :random_array[random_number], 7 :random_array[temp1], 24 :temp2, 74 :temp1
+The Value Finally received is: 65
+37 :random_array[random_number], 16 :random_array[temp1], 37 :temp2, 95 :temp1
+The Value Finally received is: 30
+52 :random_array[random_number], 97 :random_array[temp1], 52 :temp2, 96 :temp1
+The Value Finally received is: 56
+65 :random_array[random_number], 23 :random_array[temp1], 65 :temp2, 97 :temp1
+The Value Finally received is: 21
+44 :random_array[random_number], 39 :random_array[temp1], 44 :temp2, 98 :temp1
+The Value Finally received is: 6
+18 :random_array[random_number], 14 :random_array[temp1], 18 :temp2, 99 :temp1
+The Value Finally received is: 26
+15 :random_array[random_number], 56 :random_array[temp1], 15 :temp2, 100 :temp1
+The Value Finally received is: 18
+31 :random_array[random_number], 10 :random_array[temp1], 31 :temp2, 101 :temp1
+The Value Finally received is: 96
+52 :random_array[random_number], 75 :random_array[temp1], 52 :temp2, 102 :temp1
+The Value Finally received is: 4
+19 :random_array[random_number], 27 :random_array[temp1], 19 :temp2, 103 :temp1
+The Value Finally received is: 10
+70 :random_array[random_number], 3 :random_array[temp1], 70 :temp2, 104 :temp1
+The Value Finally received is: 38
+67 :random_array[random_number], 102 :random_array[temp1], 67 :temp2, 105 :temp1
+The Value Finally received is: 14
+72 :random_array[random_number], 45 :random_array[temp1], 72 :temp2, 0 :temp1
+The Value Finally received is: 41
+30 :random_array[random_number], 1 :random_array[temp1], 30 :temp2, 1 :temp1
+The Value Finally received is: 104
+70 :random_array[random_number], 38 :random_array[temp1], 70 :temp2, 2 :temp1
+The Value Finally received is: 103
+19 :random_array[random_number], 98 :random_array[temp1], 19 :temp2, 3 :temp1
+The Value Finally received is: 48
+62 :random_array[random_number], 27 :random_array[temp1], 62 :temp2, 4 :temp1
+The Value Finally received is: 21
+39 :random_array[random_number], 74 :random_array[temp1], 39 :temp2, 5 :temp1
+The Value Finally received is: 98
+44 :random_array[random_number], 14 :random_array[temp1], 44 :temp2, 6 :temp1
+The Value Finally received is: 35
+29 :random_array[random_number], 11 :random_array[temp1], 29 :temp2, 7 :temp1
+The Value Finally received is: 37
+9 :random_array[random_number], 4 :random_array[temp1], 9 :temp2, 8 :temp1
+The Value Finally received is: 72
+17 :random_array[random_number], 99 :random_array[temp1], 17 :temp2, 9 :temp1
+The Value Finally received is: 102
+52 :random_array[random_number], 3 :random_array[temp1], 52 :temp2, 10 :temp1
+The Value Finally received is: 42
+100 :random_array[random_number], 63 :random_array[temp1], 100 :temp2, 11 :temp1
+The Value Finally received is: 33
+46 :random_array[random_number], 96 :random_array[temp1], 46 :temp2, 12 :temp1
+The Value Finally received is: 8
+9 :random_array[random_number], 73 :random_array[temp1], 9 :temp2, 13 :temp1
+The Value Finally received is: 63
+6 :random_array[random_number], 45 :random_array[temp1], 6 :temp2, 14 :temp1
+The Value Finally received is: 0
+72 :random_array[random_number], 51 :random_array[temp1], 72 :temp2, 15 :temp1
+The Value Finally received is: 19
+71 :random_array[random_number], 25 :random_array[temp1], 71 :temp2, 16 :temp1
+The Value Finally received is: 65
+16 :random_array[random_number], 7 :random_array[temp1], 16 :temp2, 17 :temp1
+The Value Finally received is: 53
+36 :random_array[random_number], 10 :random_array[temp1], 36 :temp2, 18 :temp1
+The Value Finally received is: 57
+50 :random_array[random_number], 25 :random_array[temp1], 50 :temp2, 19 :temp1
+The Value Finally received is: 42
+63 :random_array[random_number], 68 :random_array[temp1], 63 :temp2, 20 :temp1
+The Value Finally received is: 75
+8 :random_array[random_number], 74 :random_array[temp1], 8 :temp2, 21 :temp1
+The Value Finally received is: 11
+100 :random_array[random_number], 22 :random_array[temp1], 100 :temp2, 22 :temp1
+The Value Finally received is: 45
+42 :random_array[random_number], 57 :random_array[temp1], 42 :temp2, 23 :temp1
+The Value Finally received is: 18
+36 :random_array[random_number], 34 :random_array[temp1], 36 :temp2, 24 :temp1
+The Value Finally received is: 23
+42 :random_array[random_number], 66 :random_array[temp1], 42 :temp2, 25 :temp1
+The Value Finally received is: 16
+71 :random_array[random_number], 56 :random_array[temp1], 71 :temp2, 26 :temp1
+The Value Finally received is: 52
+95 :random_array[random_number], 26 :random_array[temp1], 95 :temp2, 27 :temp1
+The Value Finally received is: 60
+61 :random_array[random_number], 48 :random_array[temp1], 61 :temp2, 28 :temp1
+The Value Finally received is: 70
+60 :random_array[random_number], 47 :random_array[temp1], 60 :temp2, 29 :temp1
+The Value Finally received is: 54
+69 :random_array[random_number], 97 :random_array[temp1], 69 :temp2, 30 :temp1
+The Value Finally received is: 39
+49 :random_array[random_number], 101 :random_array[temp1], 49 :temp2, 31 :temp1
+The Value Finally received is: 62
+43 :random_array[random_number], 55 :random_array[temp1], 43 :temp2, 32 :temp1
+The Value Finally received is: 2
+70 :random_array[random_number], 96 :random_array[temp1], 70 :temp2, 33 :temp1
+The Value Finally received is: 60
+48 :random_array[random_number], 54 :random_array[temp1], 48 :temp2, 34 :temp1
+The Value Finally received is: 44
+13 :random_array[random_number], 11 :random_array[temp1], 13 :temp2, 35 :temp1
+The Value Finally received is: 20
+63 :random_array[random_number], 28 :random_array[temp1], 63 :temp2, 36 :temp1
+The Value Finally received is: 33
+70 :random_array[random_number], 4 :random_array[temp1], 70 :temp2, 37 :temp1
+The Value Finally received is: 71
+64 :random_array[random_number], 102 :random_array[temp1], 64 :temp2, 38 :temp1
+The Value Finally received is: 20
+28 :random_array[random_number], 101 :random_array[temp1], 28 :temp2, 39 :temp1
+The Value Finally received is: 30
+69 :random_array[random_number], 59 :random_array[temp1], 69 :temp2, 40 :temp1
+The Value Finally received is: 74
+24 :random_array[random_number], 1 :random_array[temp1], 24 :temp2, 41 :temp1
+The Value Finally received is: 36
+63 :random_array[random_number], 68 :random_array[temp1], 63 :temp2, 42 :temp1
+The Value Finally received is: 47
+0 :random_array[random_number], 32 :random_array[temp1], 0 :temp2, 43 :temp1
+The Value Finally received is: 42
+63 :random_array[random_number], 11 :random_array[temp1], 63 :temp2, 44 :temp1
+The Value Finally received is: 38
+64 :random_array[random_number], 57 :random_array[temp1], 64 :temp2, 45 :temp1
+The Value Finally received is: 22
+100 :random_array[random_number], 53 :random_array[temp1], 100 :temp2, 46 :temp1
+The Value Finally received is: 46
+100 :random_array[random_number], 32 :random_array[temp1], 100 :temp2, 47 :temp1
+The Value Finally received is: 99
+18 :random_array[random_number], 27 :random_array[temp1], 18 :temp2, 48 :temp1
+The Value Finally received is: 65
+7 :random_array[random_number], 105 :random_array[temp1], 7 :temp2, 49 :temp1
+The Value Finally received is: 104
+38 :random_array[random_number], 5 :random_array[temp1], 38 :temp2, 50 :temp1
+The Value Finally received is: 7
+29 :random_array[random_number], 12 :random_array[temp1], 29 :temp2, 51 :temp1
+The Value Finally received is: 50
+38 :random_array[random_number], 26 :random_array[temp1], 38 :temp2, 52 :temp1
+The Value Finally received is: 66
+20 :random_array[random_number], 10 :random_array[temp1], 20 :temp2, 53 :temp1
+The Value Finally received is: 31
+49 :random_array[random_number], 97 :random_array[temp1], 49 :temp2, 54 :temp1
+The Value Finally received is: 105
+67 :random_array[random_number], 21 :random_array[temp1], 67 :temp2, 55 :temp1
+The Value Finally received is: 34
+48 :random_array[random_number], 23 :random_array[temp1], 48 :temp2, 56 :temp1
+The Value Finally received is: 14
+6 :random_array[random_number], 25 :random_array[temp1], 6 :temp2, 57 :temp1
+The Value Finally received is: 33
+4 :random_array[random_number], 35 :random_array[temp1], 4 :temp2, 58 :temp1
+The Value Finally received is: 100
+15 :random_array[random_number], 104 :random_array[temp1], 15 :temp2, 59 :temp1
+The Value Finally received is: 3
+19 :random_array[random_number], 54 :random_array[temp1], 19 :temp2, 60 :temp1
+The Value Finally received is: 8
+73 :random_array[random_number], 58 :random_array[temp1], 73 :temp2, 61 :temp1
+The Value Finally received is: 15
+72 :random_array[random_number], 55 :random_array[temp1], 72 :temp2, 62 :temp1
+The Value Finally received is: 37
+70 :random_array[random_number], 45 :random_array[temp1], 70 :temp2, 63 :temp1
+The Value Finally received is: 5
+39 :random_array[random_number], 33 :random_array[temp1], 39 :temp2, 64 :temp1
+The Value Finally received is: 67
+40 :random_array[random_number], 105 :random_array[temp1], 40 :temp2, 65 :temp1
+The Value Finally received is: 16
+56 :random_array[random_number], 10 :random_array[temp1], 56 :temp2, 66 :temp1
+The Value Finally received is: 67
+105 :random_array[random_number], 105 :random_array[temp1], 105 :temp2, 67 :temp1
+The Value Finally received is: 67
+105 :random_array[random_number], 103 :random_array[temp1], 105 :temp2, 68 :temp1
+The Value Finally received is: 8
+58 :random_array[random_number], 41 :random_array[temp1], 58 :temp2, 69 :temp1
+The Value Finally received is: 3
+54 :random_array[random_number], 47 :random_array[temp1], 54 :temp2, 70 :temp1
+The Value Finally received is: 16
+10 :random_array[random_number], 102 :random_array[temp1], 10 :temp2, 71 :temp1
+The Value Finally received is: 62
+72 :random_array[random_number], 99 :random_array[temp1], 72 :temp2, 72 :temp1
+The Value Finally received is: 24
+36 :random_array[random_number], 2 :random_array[temp1], 36 :temp2, 73 :temp1
+The Value Finally received is: 56
+48 :random_array[random_number], 1 :random_array[temp1], 48 :temp2, 74 :temp1
+The Value Finally received is: 41
+24 :random_array[random_number], 37 :random_array[temp1], 24 :temp2, 95 :temp1
+The Value Finally received is: 22
+53 :random_array[random_number], 75 :random_array[temp1], 53 :temp2, 96 :temp1
+The Value Finally received is: 62
+99 :random_array[random_number], 65 :random_array[temp1], 99 :temp2, 97 :temp1
+The Value Finally received is: 105
+21 :random_array[random_number], 14 :random_array[temp1], 21 :temp2, 98 :temp1
+The Value Finally received is: 22
+75 :random_array[random_number], 27 :random_array[temp1], 75 :temp2, 99 :temp1
+The Value Finally received is: 52
+38 :random_array[random_number], 104 :random_array[temp1], 38 :temp2, 100 :temp1
+The Value Finally received is: 30
+59 :random_array[random_number], 31 :random_array[temp1], 59 :temp2, 101 :temp1
+The Value Finally received is: 54
+49 :random_array[random_number], 3 :random_array[temp1], 49 :temp2, 102 :temp1
+The Value Finally received is: 12
+46 :random_array[random_number], 98 :random_array[temp1], 46 :temp2, 103 :temp1
+The Value Finally received is: 44
+63 :random_array[random_number], 5 :random_array[temp1], 63 :temp2, 104 :temp1
+The Value Finally received is: 32
+43 :random_array[random_number], 14 :random_array[temp1], 43 :temp2, 105 :temp1
+The Value Finally received is: 71
+10 :random_array[random_number], 51 :random_array[temp1], 10 :temp2, 0 :temp1
+The Value Finally received is: 41
+37 :random_array[random_number], 30 :random_array[temp1], 37 :temp2, 1 :temp1
+The Value Finally received is: 12
+98 :random_array[random_number], 96 :random_array[temp1], 98 :temp2, 2 :temp1
+The Value Finally received is: 54
+3 :random_array[random_number], 47 :random_array[temp1], 3 :temp2, 3 :temp1
+The Value Finally received is: 46
+32 :random_array[random_number], 62 :random_array[temp1], 32 :temp2, 4 :temp1
+The Value Finally received is: 5
+33 :random_array[random_number], 33 :random_array[temp1], 33 :temp2, 5 :temp1
+The Value Finally received is: 102
+49 :random_array[random_number], 44 :random_array[temp1], 49 :temp2, 6 :temp1
+The Value Finally received is: 8
+41 :random_array[random_number], 12 :random_array[temp1], 41 :temp2, 7 :temp1
+The Value Finally received is: 73
+36 :random_array[random_number], 12 :random_array[temp1], 36 :temp2, 8 :temp1
+The Value Finally received is: 48
+18 :random_array[random_number], 17 :random_array[temp1], 18 :temp2, 9 :temp1
+The Value Finally received is: 23
+66 :random_array[random_number], 52 :random_array[temp1], 66 :temp2, 10 :temp1
+The Value Finally received is: 5
+33 :random_array[random_number], 22 :random_array[temp1], 33 :temp2, 11 :temp1
+The Value Finally received is: 52
+104 :random_array[random_number], 96 :random_array[temp1], 104 :temp2, 12 :temp1
+The Value Finally received is: 47
+100 :random_array[random_number], 9 :random_array[temp1], 100 :temp2, 13 :temp1
+The Value Finally received is: 61
+73 :random_array[random_number], 25 :random_array[temp1], 73 :temp2, 14 :temp1
+The Value Finally received is: 19
+50 :random_array[random_number], 55 :random_array[temp1], 50 :temp2, 15 :temp1
+The Value Finally received is: 101
+59 :random_array[random_number], 102 :random_array[temp1], 59 :temp2, 16 :temp1
+The Value Finally received is: 49
+7 :random_array[random_number], 16 :random_array[temp1], 7 :temp2, 17 :temp1
+The Value Finally received is: 100
+38 :random_array[random_number], 34 :random_array[temp1], 38 :temp2, 18 :temp1
+The Value Finally received is: 100
+34 :random_array[random_number], 55 :random_array[temp1], 34 :temp2, 19 :temp1
+The Value Finally received is: 71
+51 :random_array[random_number], 101 :random_array[temp1], 51 :temp2, 20 :temp1
+The Value Finally received is: 56
+1 :random_array[random_number], 8 :random_array[temp1], 1 :temp2, 21 :temp1
+The Value Finally received is: 51
+29 :random_array[random_number], 27 :random_array[temp1], 29 :temp2, 22 :temp1
+The Value Finally received is: 27
+95 :random_array[random_number], 52 :random_array[temp1], 95 :temp2, 23 :temp1
+The Value Finally received is: 33
+35 :random_array[random_number], 2 :random_array[temp1], 35 :temp2, 24 :temp1
+The Value Finally received is: 16
+59 :random_array[random_number], 42 :random_array[temp1], 59 :temp2, 25 :temp1
+The Value Finally received is: 98
+21 :random_array[random_number], 71 :random_array[temp1], 21 :temp2, 26 :temp1
+The Value Finally received is: 50
+26 :random_array[random_number], 52 :random_array[temp1], 26 :temp2, 27 :temp1
+The Value Finally received is: 36
+68 :random_array[random_number], 61 :random_array[temp1], 68 :temp2, 28 :temp1
+The Value Finally received is: 104
+63 :random_array[random_number], 60 :random_array[temp1], 63 :temp2, 29 :temp1
+The Value Finally received is: 62
+65 :random_array[random_number], 31 :random_array[temp1], 65 :temp2, 30 :temp1
+The Value Finally received is: 41
+30 :random_array[random_number], 97 :random_array[temp1], 30 :temp2, 31 :temp1
+The Value Finally received is: 100
+55 :random_array[random_number], 14 :random_array[temp1], 55 :temp2, 32 :temp1
+The Value Finally received is: 102
+44 :random_array[random_number], 2 :random_array[temp1], 44 :temp2, 33 :temp1
+The Value Finally received is: 8
+36 :random_array[random_number], 23 :random_array[temp1], 36 :temp2, 34 :temp1
+The Value Finally received is: 0
+10 :random_array[random_number], 13 :random_array[temp1], 10 :temp2, 35 :temp1
+The Value Finally received is: 44
+5 :random_array[random_number], 61 :random_array[temp1], 5 :temp2, 36 :temp1
+The Value Finally received is: 11
+33 :random_array[random_number], 45 :random_array[temp1], 33 :temp2, 37 :temp1
+The Value Finally received is: 23
+95 :random_array[random_number], 57 :random_array[temp1], 95 :temp2, 38 :temp1
+The Value Finally received is: 49
+16 :random_array[random_number], 28 :random_array[temp1], 16 :temp2, 39 :temp1
+The Value Finally received is: 95
+24 :random_array[random_number], 69 :random_array[temp1], 24 :temp2, 40 :temp1
+The Value Finally received is: 70
+54 :random_array[random_number], 97 :random_array[temp1], 54 :temp2, 41 :temp1
+The Value Finally received is: 36
+5 :random_array[random_number], 11 :random_array[temp1], 5 :temp2, 42 :temp1
+The Value Finally received is: 9
+18 :random_array[random_number], 0 :random_array[temp1], 18 :temp2, 43 :temp1
+The Value Finally received is: 66
+56 :random_array[random_number], 61 :random_array[temp1], 56 :temp2, 44 :temp1
+The Value Finally received is: 35
+10 :random_array[random_number], 64 :random_array[temp1], 10 :temp2, 45 :temp1
+The Value Finally received is: 39
+16 :random_array[random_number], 62 :random_array[temp1], 16 :temp2, 46 :temp1
+The Value Finally received is: 43
+18 :random_array[random_number], 9 :random_array[temp1], 18 :temp2, 47 :temp1
+The Value Finally received is: 28
+68 :random_array[random_number], 17 :random_array[temp1], 68 :temp2, 48 :temp1
+The Value Finally received is: 23
+57 :random_array[random_number], 28 :random_array[temp1], 57 :temp2, 49 :temp1
+The Value Finally received is: 70
+97 :random_array[random_number], 52 :random_array[temp1], 97 :temp2, 50 :temp1
+The Value Finally received is: 71
+101 :random_array[random_number], 27 :random_array[temp1], 101 :temp2, 51 :temp1
+The Value Finally received is: 37
+33 :random_array[random_number], 96 :random_array[temp1], 33 :temp2, 52 :temp1
+The Value Finally received is: 55
+67 :random_array[random_number], 20 :random_array[temp1], 67 :temp2, 53 :temp1
+The Value Finally received is: 24
+35 :random_array[random_number], 47 :random_array[temp1], 35 :temp2, 54 :temp1
+The Value Finally received is: 67
+103 :random_array[random_number], 20 :random_array[temp1], 103 :temp2, 55 :temp1
+The Value Finally received is: 43
+9 :random_array[random_number], 8 :random_array[temp1], 9 :temp2, 56 :temp1
+The Value Finally received is: 97
+99 :random_array[random_number], 6 :random_array[temp1], 99 :temp2, 57 :temp1
+The Value Finally received is: 61
+25 :random_array[random_number], 4 :random_array[temp1], 25 :temp2, 58 :temp1
+The Value Finally received is: 39
+62 :random_array[random_number], 15 :random_array[temp1], 62 :temp2, 59 :temp1
+The Value Finally received is: 0
+13 :random_array[random_number], 19 :random_array[temp1], 13 :temp2, 60 :temp1
+The Value Finally received is: 62
+31 :random_array[random_number], 4 :random_array[temp1], 31 :temp2, 61 :temp1
+The Value Finally received is: 43
+8 :random_array[random_number], 4 :random_array[temp1], 8 :temp2, 62 :temp1
+The Value Finally received is: 11
+45 :random_array[random_number], 70 :random_array[temp1], 45 :temp2, 63 :temp1
+The Value Finally received is: 59
+62 :random_array[random_number], 39 :random_array[temp1], 62 :temp2, 64 :temp1
+The Value Finally received is: 32
+55 :random_array[random_number], 40 :random_array[temp1], 55 :temp2, 65 :temp1
+The Value Finally received is: 95
+69 :random_array[random_number], 61 :random_array[temp1], 69 :temp2, 66 :temp1
+The Value Finally received is: 73
+12 :random_array[random_number], 20 :random_array[temp1], 12 :temp2, 67 :temp1
+The Value Finally received is: 74
+48 :random_array[random_number], 105 :random_array[temp1], 48 :temp2, 68 :temp1
+The Value Finally received is: 1
+37 :random_array[random_number], 58 :random_array[temp1], 37 :temp2, 69 :temp1
+The Value Finally received is: 2
+98 :random_array[random_number], 52 :random_array[temp1], 98 :temp2, 70 :temp1
+The Value Finally received is: 60
+13 :random_array[random_number], 27 :random_array[temp1], 13 :temp2, 71 :temp1
+The Value Finally received is: 10
+66 :random_array[random_number], 72 :random_array[temp1], 66 :temp2, 72 :temp1
+The Value Finally received is: 41
+54 :random_array[random_number], 20 :random_array[temp1], 54 :temp2, 73 :temp1
+The Value Finally received is: 29
+63 :random_array[random_number], 105 :random_array[temp1], 63 :temp2, 74 :temp1
+The Value Finally received is: 70
+98 :random_array[random_number], 61 :random_array[temp1], 98 :temp2, 95 :temp1
+The Value Finally received is: 96
+53 :random_array[random_number], 53 :random_array[temp1], 53 :temp2, 96 :temp1
+The Value Finally received is: 99
+75 :random_array[random_number], 6 :random_array[temp1], 75 :temp2, 97 :temp1
+The Value Finally received is: 58
+25 :random_array[random_number], 71 :random_array[temp1], 25 :temp2, 98 :temp1
+The Value Finally received is: 62
+8 :random_array[random_number], 6 :random_array[temp1], 8 :temp2, 99 :temp1
+The Value Finally received is: 13
+100 :random_array[random_number], 14 :random_array[temp1], 100 :temp2, 100 :temp1
+The Value Finally received is: 21
+1 :random_array[random_number], 102 :random_array[temp1], 1 :temp2, 101 :temp1
+The Value Finally received is: 43
+4 :random_array[random_number], 2 :random_array[temp1], 4 :temp2, 102 :temp1
+The Value Finally received is: 37
+96 :random_array[random_number], 46 :random_array[temp1], 96 :temp2, 103 :temp1
+The Value Finally received is: 29
+105 :random_array[random_number], 60 :random_array[temp1], 105 :temp2, 104 :temp1
+The Value Finally received is: 19
+34 :random_array[random_number], 43 :random_array[temp1], 34 :temp2, 105 :temp1
+The Value Finally received is: 61
+31 :random_array[random_number], 19 :random_array[temp1], 31 :temp2, 0 :temp1
+The Value Finally received is: 32
+40 :random_array[random_number], 58 :random_array[temp1], 40 :temp2, 1 :temp1
+The Value Finally received is: 28
+17 :random_array[random_number], 52 :random_array[temp1], 17 :temp2, 2 :temp1
+The Value Finally received is: 104
+105 :random_array[random_number], 3 :random_array[temp1], 105 :temp2, 3 :temp1
+The Value Finally received is: 44
+56 :random_array[random_number], 32 :random_array[temp1], 56 :temp2, 4 :temp1
+The Value Finally received is: 30
+65 :random_array[random_number], 22 :random_array[temp1], 65 :temp2, 5 :temp1
+The Value Finally received is: 52
+33 :random_array[random_number], 49 :random_array[temp1], 33 :temp2, 6 :temp1
+The Value Finally received is: 3
+105 :random_array[random_number], 41 :random_array[temp1], 105 :temp2, 7 :temp1
+The Value Finally received is: 104
+3 :random_array[random_number], 23 :random_array[temp1], 3 :temp2, 8 :temp1
+The Value Finally received is: 20
+51 :random_array[random_number], 0 :random_array[temp1], 51 :temp2, 9 :temp1
+The Value Finally received is: 36
+11 :random_array[random_number], 72 :random_array[temp1], 11 :temp2, 10 :temp1
+The Value Finally received is: 32
+58 :random_array[random_number], 70 :random_array[temp1], 58 :temp2, 11 :temp1
+The Value Finally received is: 6
+33 :random_array[random_number], 104 :random_array[temp1], 33 :temp2, 12 :temp1
+The Value Finally received is: 46
+16 :random_array[random_number], 14 :random_array[temp1], 16 :temp2, 13 :temp1
+The Value Finally received is: 0
+31 :random_array[random_number], 73 :random_array[temp1], 31 :temp2, 14 :temp1
+The Value Finally received is: 36
+72 :random_array[random_number], 50 :random_array[temp1], 72 :temp2, 15 :temp1
+The Value Finally received is: 10
+11 :random_array[random_number], 42 :random_array[temp1], 11 :temp2, 16 :temp1
+The Value Finally received is: 22
+29 :random_array[random_number], 7 :random_array[temp1], 29 :temp2, 17 :temp1
+The Value Finally received is: 61
+19 :random_array[random_number], 38 :random_array[temp1], 19 :temp2, 18 :temp1
+The Value Finally received is: 100
+100 :random_array[random_number], 43 :random_array[temp1], 100 :temp2, 19 :temp1
+The Value Finally received is: 10
+42 :random_array[random_number], 0 :random_array[temp1], 42 :temp2, 20 :temp1
+The Value Finally received is: 75
+74 :random_array[random_number], 102 :random_array[temp1], 74 :temp2, 21 :temp1
+The Value Finally received is: 16
+11 :random_array[random_number], 7 :random_array[temp1], 11 :temp2, 22 :temp1
+The Value Finally received is: 53
+67 :random_array[random_number], 28 :random_array[temp1], 67 :temp2, 23 :temp1
+The Value Finally received is: 38
+95 :random_array[random_number], 47 :random_array[temp1], 95 :temp2, 24 :temp1
+The Value Finally received is: 31
+30 :random_array[random_number], 59 :random_array[temp1], 30 :temp2, 25 :temp1
+The Value Finally received is: 65
+55 :random_array[random_number], 21 :random_array[temp1], 55 :temp2, 26 :temp1
+The Value Finally received is: 99
+8 :random_array[random_number], 26 :random_array[temp1], 8 :temp2, 27 :temp1
+The Value Finally received is: 1
+40 :random_array[random_number], 52 :random_array[temp1], 40 :temp2, 28 :temp1
+The Value Finally received is: 10
+0 :random_array[random_number], 60 :random_array[temp1], 0 :temp2, 29 :temp1
+The Value Finally received is: 66
+69 :random_array[random_number], 22 :random_array[temp1], 69 :temp2, 30 :temp1
+The Value Finally received is: 71
+13 :random_array[random_number], 59 :random_array[temp1], 13 :temp2, 31 :temp1
+The Value Finally received is: 36
+50 :random_array[random_number], 70 :random_array[temp1], 50 :temp2, 32 :temp1
+The Value Finally received is: 52
+49 :random_array[random_number], 44 :random_array[temp1], 49 :temp2, 33 :temp1
+The Value Finally received is: 41
+20 :random_array[random_number], 36 :random_array[temp1], 20 :temp2, 34 :temp1
+The Value Finally received is: 14
+31 :random_array[random_number], 64 :random_array[temp1], 31 :temp2, 35 :temp1
+The Value Finally received is: 71
+59 :random_array[random_number], 70 :random_array[temp1], 59 :temp2, 36 :temp1
+The Value Finally received is: 66
+22 :random_array[random_number], 46 :random_array[temp1], 22 :temp2, 37 :temp1
+The Value Finally received is: 17
+29 :random_array[random_number], 47 :random_array[temp1], 29 :temp2, 38 :temp1
+The Value Finally received is: 29
+0 :random_array[random_number], 15 :random_array[temp1], 0 :temp2, 39 :temp1
+The Value Finally received is: 72
+66 :random_array[random_number], 24 :random_array[temp1], 66 :temp2, 40 :temp1
+The Value Finally received is: 95
+98 :random_array[random_number], 36 :random_array[temp1], 98 :temp2, 41 :temp1
+The Value Finally received is: 61
+38 :random_array[random_number], 5 :random_array[temp1], 38 :temp2, 42 :temp1
+The Value Finally received is: 34
+20 :random_array[random_number], 2 :random_array[temp1], 20 :temp2, 43 :temp1
+The Value Finally received is: 32
+50 :random_array[random_number], 32 :random_array[temp1], 50 :temp2, 44 :temp1
+The Value Finally received is: 22
+11 :random_array[random_number], 10 :random_array[temp1], 11 :temp2, 45 :temp1
+The Value Finally received is: 26
+55 :random_array[random_number], 14 :random_array[temp1], 55 :temp2, 46 :temp1
+The Value Finally received is: 97
+75 :random_array[random_number], 18 :random_array[temp1], 75 :temp2, 47 :temp1
+The Value Finally received is: 74
+63 :random_array[random_number], 68 :random_array[temp1], 63 :temp2, 48 :temp1
+The Value Finally received is: 74
+68 :random_array[random_number], 57 :random_array[temp1], 68 :temp2, 49 :temp1
+The Value Finally received is: 61
+5 :random_array[random_number], 97 :random_array[temp1], 5 :temp2, 50 :temp1
+The Value Finally received is: 105
+34 :random_array[random_number], 101 :random_array[temp1], 34 :temp2, 51 :temp1
+The Value Finally received is: 65
+21 :random_array[random_number], 44 :random_array[temp1], 21 :temp2, 52 :temp1
+The Value Finally received is: 33
+49 :random_array[random_number], 28 :random_array[temp1], 49 :temp2, 53 :temp1
+The Value Finally received is: 67
+12 :random_array[random_number], 35 :random_array[temp1], 12 :temp2, 54 :temp1
+The Value Finally received is: 25
+30 :random_array[random_number], 103 :random_array[temp1], 30 :temp2, 55 :temp1
+The Value Finally received is: 41
+98 :random_array[random_number], 9 :random_array[temp1], 98 :temp2, 56 :temp1
+The Value Finally received is: 46
+55 :random_array[random_number], 99 :random_array[temp1], 55 :temp2, 57 :temp1
+The Value Finally received is: 61
+97 :random_array[random_number], 71 :random_array[temp1], 97 :temp2, 58 :temp1
+The Value Finally received is: 19
+100 :random_array[random_number], 39 :random_array[temp1], 100 :temp2, 59 :temp1
+The Value Finally received is: 13
+16 :random_array[random_number], 27 :random_array[temp1], 16 :temp2, 60 :temp1
+The Value Finally received is: 75
+102 :random_array[random_number], 71 :random_array[temp1], 102 :temp2, 61 :temp1
+The Value Finally received is: 1
+52 :random_array[random_number], 6 :random_array[temp1], 52 :temp2, 62 :temp1
+The Value Finally received is: 35
+31 :random_array[random_number], 45 :random_array[temp1], 31 :temp2, 63 :temp1
+The Value Finally received is: 50
+5 :random_array[random_number], 62 :random_array[temp1], 5 :temp2, 64 :temp1
+The Value Finally received is: 39
+0 :random_array[random_number], 44 :random_array[temp1], 0 :temp2, 65 :temp1
+The Value Finally received is: 33
+28 :random_array[random_number], 46 :random_array[temp1], 28 :temp2, 66 :temp1
+The Value Finally received is: 72
+24 :random_array[random_number], 35 :random_array[temp1], 24 :temp2, 67 :temp1
+The Value Finally received is: 101
+1 :random_array[random_number], 48 :random_array[temp1], 1 :temp2, 68 :temp1
+The Value Finally received is: 68
+1 :random_array[random_number], 37 :random_array[temp1], 1 :temp2, 69 :temp1
+73
+The counter value is : 1,6
+The counter value is : 2,17
+The counter value is : 3,41
+The counter value is : 4,56
+The counter value is : 5,65
+The counter value is : 6,104
+The counter value is : 7,
+105
+The counter value is : 8,
+3
+The counter value is : 9,51
+The counter value is : 10,
+60
+The counter value is : 11,58
+The counter value is : 12,33
+The counter value is : 13,27
+The counter value is : 14,
+64
+The counter value is : 15,72
+The counter value is : 16,7
+The counter value is : 17,47
+The counter value is : 18,19
+The counter value is : 19,39
+The counter value is : 20,42
+The counter value is : 21,74
+The counter value is : 22,10
+The counter value is : 23,67
+The counter value is : 24,
+95
+The counter value is : 25,103
+The counter value is : 26,
+14
+The counter value is : 27,8
+The counter value is : 28,
+40
+The counter value is : 29,15
+The counter value is : 30,69
+The counter value is : 31,13
+The counter value is : 32,32
+The counter value is : 33,
+46
+The counter value is : 34,2
+The counter value is : 35,45
+The counter value is : 36,59
+The counter value is : 37,22
+The counter value is : 38,29
+The counter value is : 39,
+44
+The counter value is : 40,
+66
+The counter value is : 41,
+9
+The counter value is : 42,38
+The counter value is : 43,20
+The counter value is : 44,
+50
+The counter value is : 45,11
+The counter value is : 46,
+99
+The counter value is : 47,75
+The counter value is : 48,63
+The counter value is : 49,68
+The counter value is : 50,62
+The counter value is : 51,34
+The counter value is : 52,
+21
+The counter value is : 53,49
+The counter value is : 54,12
+The counter value is : 55,30
+The counter value is : 56,98
+The counter value is : 57,55
+The counter value is : 58,
+97
+The counter value is : 59,100
+The counter value is : 60,
+16
+The counter value is : 61,
+102
+The counter value is : 62,52
+The counter value is : 63,31
+The counter value is : 64,5
+The counter value is : 65,0
+The counter value is : 66,
+28
+The counter value is : 67,24
+The counter value is : 68,37
+The counter value is : 69,1
+The counter value is : 70,61
+The counter value is : 71,
+70
+The counter value is : 72,35
+The counter value is : 73,54
+The counter value is : 74,57
+The counter value is : 75,71
+The counter value is : 76,36
+The counter value is : 96,53
+The counter value is : 97,
+18
+The counter value is : 98,25
+The counter value is : 99,
+26
+The counter value is : 100,
+43
+The counter value is : 101,48
+The counter value is : 102,
+4
+The counter value is : 103,
+96
+The counter value is : 104,23
+The counter value is : 105,
+101
+The counter value is : 106,
+Hi this is Kartikey!! The answer is :
+The final weights are: 19
+7
+1
+2
+4
+10
+2
+2
+5
+6
+1
+1
+3
+2
+6
+6
+2
+1
+5
+5
+7
+2
+1
+2
+1
+2
+1
+The key initialized is : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 73   6  17  41  56  65 104   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+105   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+  3  51   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 60  58  33  27   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 64  72   7  47  19  39  42  74  10  67   0   0   0   0   0   0   0   0   0  = e 10
+ 95 103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 14   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 40  15  69  13  32   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 46   2  45  59  22  29   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 44   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 66   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+  9  38  20   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 50  11   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+ 99  75  63  68  62  34   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 21  49  12  30  98  55   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 97 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 16   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+102  52  31   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 4
+ 28  24  37   1  61   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 5
+ 70  35  54  57  71  36  53   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 18  25   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 43  48   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 96  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 73   6  17  41  56  65 104   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+105   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+  3  51   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 60  58  33  27   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 64  72   7  47  19  39  42  74  10  67   0   0   0   0   0   0   0   0   0  = e 10
+ 95 103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 14   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 40  15  69  13  32   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 46   2  45  59  22  29   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 44   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 66   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+  9  38  20   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 50  11   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+ 99  75  63  68  62  34   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 21  49  12  30  98  55   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 97 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 16   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+102  52  31   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 4
+ 28  24  37   1  61   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 5
+ 70  35  54  57  71  36  53   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 18  25   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 43  48   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 96  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+1,55,79,33,47,38,2,8,13,71,103,25,38,89,25,97,79,58,2,24,37,46,50,45,38,41,102,94,105,96,84,25,75,52,72,37,64,0,26,10,58,83,22,57,93,51,30,63,62,10,3,71,59,21,99,76,103,31,39,16,18,42,68,35,38,23,85,27,30,91,65,63,76,13,29,8,32,83,52,55,12,11,86,28,21,83,22,68,89,100,65,45,33,86,18,100,83,98,75,84,51,55,18,61,59,34,89,96,39,86,27,45,63,99,74,52,83,37,15,49,25,38,60,94,2,63,83,37,42,4,88,28,70,21,21,27,84,57,102,2,47,60,86,48,41,9,20,28,84,11,73,75,12,31,77,36,31,18,35,40,93,24,40,96,94,41,99,60,85,36,15,102,19,7,88,32,22,1,83,57,40,47,29,102,91,36,12,83,96,74,104,31,28,79,61,98,91,3,15,45,38,27,77,53,5,25,70,13,82,69,21,99,30,25,31,39,27,82,97,67,3,25,38,2,65,31,92,95,6,11,46,9,46,19,1,92,24,10,34,37,29,105,20,42,91,18,97,85,9,46,66,67,48,29,61,10,85,105,23,90,49,75,93,45,63,88,51,21,11,97,38,46,11,47,68,71,88,2,68,57,47,31,72,37,53,42,58,77,33,22,24,51,31,19,35,22,49,75,87,39,61,57,2,11,41,71,29,75,8,93,12,68,83,1,35,46,11,25,38,6,70,64,27,86,17,97,17,31,35,50,67,34,35,24,77,12,13,87,60,7,6,102,88,1,55,86,28,59,34,14,85,48,40,74,68,83,46,34,86,103,59,63,60,87,5,10,17,58,94,21,95,82,3,41,20,9,89,6,24,87,58,29,28,57,5,18,28,35,28,84,105,19,13,6,26,22,30,25,31,93,65,105,29,20,2,53,2,7,24,89,33,67,95,72,51,70,59,26,72,89,22,24,83,99,64,26,7,0,88,56,53,88,43,104,35,64,5,86,50,74,78,11,22,8,40,35,87,98,34,89,95,49,52,11,74,58,90,11,7,102,45,36,37,77,32,18,63,70,39,27,90,18,63,17,105,20,42,82,50,67,0,39,9,96,93,105,23,88,11,31,92,48,40,67,34,51,47,87,30,5,
