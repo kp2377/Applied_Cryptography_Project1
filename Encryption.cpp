@@ -33,18 +33,23 @@ int random_generator()  // random generator function that excludes 76 to 94
 
 int main()
 {
+    int i;
+    int count;
     int random_array[106] = {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105};
     
     int alphabet_weight[27] = {19,7,1,2,4,10,2,2,5,6,1,1,3,2,6,6,2,1,5,5,7,2,1,2,1,2,1};
+    int same_weight[20] =     { 0,7,8,1,1,3,3,2,0,0,1,0,0,0,0,0,0,0,0,1}
     
-    int *key = (int *)calloc(KEY_ROW*KEY_COLUMN, sizeof(int));
+    //int *key = (int *)calloc(KEY_ROW*KEY_COLUMN, sizeof(int));
+    int** key = new int*[KEY_ROW];
+    for(i = 0; i < KEY_ROW; ++i)
+        key[i] = new int[KEY_COLUMN]; 
     
-    
-    cout<<"The key initialized is : ";
-    for(int j=0;j<106;j++)
-    {
-        cout<<*(key+j)<<'\n';
-    }
+    //cout<<"The key initialized is : ";
+    //for(int j=0;j<106;j++)
+    //{
+    //    cout<<*(key+j)<<'\n';
+    //}
     
     cout<<"the initial weight is: "<<'\n';
     for(int i=0;i<27;i++)
@@ -60,13 +65,13 @@ int main()
     
     for(int j=0;j<19;j++)
     {
-        *(key+0+j)= 76+j;
+        key[0][j] = 76+j;
     }   // Giving key as (<space>,1)= 76,(<space>,2)= 77....(<space>,19)= 94
     
     cout<<"The key initialized is : ";
     for(int j=0;j<106;j++)
     {
-        cout<<*(key+j)<<'\n';
+        cout<<key[j/KEY_COLUMN][j%KEY_COLUMN]<<'\n';
     }
 
     for(int k=0;k<500;k++)
@@ -92,8 +97,8 @@ int main()
         for(int m=0;m<alphabet_weight[l];m++)
         {
             if(counter == 76 ){counter = 95;}
-            *(key+(KEY_COLUMN*l)+m) = random_array[counter];
-            cout<<*(key+(KEY_COLUMN*l)+m)<<'\n';
+            key[l][m] = random_array[counter];
+            cout<<key[l][m]<<'\n';
             counter++;
             cout<<"The counter value is : "<<counter<<',';
         }
@@ -112,10 +117,18 @@ int main()
         cout<<alphabet_weight[i]<<'\n';
     }
 
-    cout<<"The key initialized is : ";
+    cout<<"The key initialized is : \n";
+    count = 0;
     for(int j=0;j<513;j++)
     {
-        cout<<*(key+j)<<'\n';
+	cout.width(3);
+        cout<< key[j/KEY_COLUMN][j%KEY_COLUMN]<<" ";
+	if(key[j/KEY_COLUMN][j%KEY_COLUMN])
+	    count++;
+	if(j%KEY_COLUMN == KEY_COLUMN - 1) {
+	    cout << " = " << count << "\n";
+	    count = 0;
+	}
     }
 
     return 0;
