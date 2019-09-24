@@ -19,6 +19,7 @@
 using namespace std;
 
 void cipher(char * pt, int length, int **key, int *ct);
+void decipher(int *ct, int length, char *pt);
 
 void print_key(int **key) {
     int count = 0, count2 = 96;
@@ -65,9 +66,12 @@ void cipher(char *pt, int length, int **key, int *ct) {
       //cout << key_list << " ";	
 	ct[i] = key[key_list][rand()%alphabet_weight[key_list]];
 	cout << ct[i] << ",";
-
     }
+    cout << "\n";
+}
 
+void decipher(int *ct, int length, char *pt) {
+    cout<<"In Decipher : \n";
 }
 
 
@@ -81,6 +85,7 @@ int main()
     int alphabet_weight[27] = {19,7,1,2,4,10,2,2,5,6,1,1,3,2,6,6,2,1,5,5,7,2,1,2,1,2,1};
     int same_weight[20] =     { 0,7,8,1,1,3,3,2,0,0,1,0,0,0,0,0,0,0,0,1};
     int ciphertext[500];
+    char plaintext_2[501];
     char plaintext[5][501] = {"so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or", "Had strictly mrs handsome mistaken cheerful We it so if resolution invitation remarkably unpleasant conviction As into ye then form To easy five less if rose were Now set offended own out required entirely Especially occasional mrs discovered too say thoroughly impossible boisterous My head when real no he high rich at with After so power of young as Bore year does has get long fat cold saw neat Put boy carried chiefly shy general And sir dare view but over man So at within mr to simple assure M", "Had strictly mrs handsome mistaken cheerful We it so if resolution invitation remarkably unpleasant conviction As into ye then form To easy five less if rose were Now set offended own out required entirely Especially occasional mrs discovered too say thoroughly impossible boisterous My head when real no he high rich at with After so power of young as Bore year does has get long fat cold saw neat Put boy carried chiefly shy general And sir dare view but over man So at within mr to simple assure M", "Had strictly mrs handsome mistaken cheerful We it so if resolution invitation remarkably unpleasant conviction As into ye then form To easy five less if rose were Now set offended own out required entirely Especially occasional mrs discovered too say thoroughly impossible boisterous My head when real no he high rich at with After so power of young as Bore year does has get long fat cold saw neat Put boy carried chiefly shy general And sir dare view but over man So at within mr to simple assure M", "Had strictly mrs handsome mistaken cheerful We it so if resolution invitation remarkably unpleasant conviction As into ye then form To easy five less if rose were Now set offended own out required entirely Especially occasional mrs discovered too say thoroughly impossible boisterous My head when real no he high rich at with After so power of young as Bore year does has get long fat cold saw neat Put boy carried chiefly shy general And sir dare view but over man So at within mr to simple assure M"};
     
     //int *key = (int *)calloc(KEY_ROW*KEY_COLUMN, sizeof(int));
@@ -164,6 +169,8 @@ int main()
     print_key(key);
 
     cipher(plaintext[0], length, key, ciphertext);
+
+    decipher(ciphertext, length, plaintext_2);
 
     return 0;
 }
