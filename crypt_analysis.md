@@ -6,6 +6,7 @@
 
 ## Analysis for Ciphertext for testcase1
 
+* First word is always word. Hence remove the possibilities of 'space'.
 * Run multiple times. Around 100.
 * Identify the words which has only 1 value in list. Use those as markers.
 * Identify ciphertext which has common plaintext.
