@@ -1,1334 +1,866 @@
-the initial weight is: 
-Number: 0 Value :19
-Number: 1 Value :7
-Number: 2 Value :1
-Number: 3 Value :2
-Number: 4 Value :4
-Number: 5 Value :10
-Number: 6 Value :2
-Number: 7 Value :2
-Number: 8 Value :5
-Number: 9 Value :6
-Number: 10 Value :1
-Number: 11 Value :1
-Number: 12 Value :3
-Number: 13 Value :2
-Number: 14 Value :6
-Number: 15 Value :6
-Number: 16 Value :2
-Number: 17 Value :1
-Number: 18 Value :5
-Number: 19 Value :5
-Number: 20 Value :7
-Number: 21 Value :2
-Number: 22 Value :1
-Number: 23 Value :2
-Number: 24 Value :1
-Number: 25 Value :2
-Number: 26 Value :1
-The key initialized is : 76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-The Value Finally received is: 101
-101 :random_array[random_number], 0 :random_array[temp1], 101 :temp2, 0 :temp1
-The Value Finally received is: 2
-2 :random_array[random_number], 1 :random_array[temp1], 2 :temp2, 1 :temp1
-The Value Finally received is: 21
-21 :random_array[random_number], 1 :random_array[temp1], 21 :temp2, 2 :temp1
-The Value Finally received is: 101
-0 :random_array[random_number], 3 :random_array[temp1], 0 :temp2, 3 :temp1
-The Value Finally received is: 47
-47 :random_array[random_number], 4 :random_array[temp1], 47 :temp2, 4 :temp1
-The Value Finally received is: 60
-60 :random_array[random_number], 5 :random_array[temp1], 60 :temp2, 5 :temp1
-The Value Finally received is: 24
-24 :random_array[random_number], 6 :random_array[temp1], 24 :temp2, 6 :temp1
-The Value Finally received is: 59
-59 :random_array[random_number], 7 :random_array[temp1], 59 :temp2, 7 :temp1
-The Value Finally received is: 29
-29 :random_array[random_number], 8 :random_array[temp1], 29 :temp2, 8 :temp1
-The Value Finally received is: 42
-42 :random_array[random_number], 9 :random_array[temp1], 42 :temp2, 9 :temp1
-The Value Finally received is: 101
-3 :random_array[random_number], 10 :random_array[temp1], 3 :temp2, 10 :temp1
-The Value Finally received is: 70
-70 :random_array[random_number], 11 :random_array[temp1], 70 :temp2, 11 :temp1
-The Value Finally received is: 67
-67 :random_array[random_number], 12 :random_array[temp1], 67 :temp2, 12 :temp1
-The Value Finally received is: 35
-35 :random_array[random_number], 13 :random_array[temp1], 35 :temp2, 13 :temp1
-The Value Finally received is: 14
-14 :random_array[random_number], 14 :random_array[temp1], 14 :temp2, 14 :temp1
-The Value Finally received is: 74
-74 :random_array[random_number], 15 :random_array[temp1], 74 :temp2, 15 :temp1
-The Value Finally received is: 12
-67 :random_array[random_number], 16 :random_array[temp1], 67 :temp2, 16 :temp1
-The Value Finally received is: 24
-6 :random_array[random_number], 17 :random_array[temp1], 6 :temp2, 17 :temp1
-The Value Finally received is: 2
-21 :random_array[random_number], 18 :random_array[temp1], 21 :temp2, 18 :temp1
-The Value Finally received is: 95
-95 :random_array[random_number], 19 :random_array[temp1], 95 :temp2, 19 :temp1
-The Value Finally received is: 52
-52 :random_array[random_number], 20 :random_array[temp1], 52 :temp2, 20 :temp1
-The Value Finally received is: 66
-66 :random_array[random_number], 1 :random_array[temp1], 66 :temp2, 21 :temp1
-The Value Finally received is: 102
-102 :random_array[random_number], 22 :random_array[temp1], 102 :temp2, 22 :temp1
-The Value Finally received is: 101
-10 :random_array[random_number], 23 :random_array[temp1], 10 :temp2, 23 :temp1
-The Value Finally received is: 21
-66 :random_array[random_number], 17 :random_array[temp1], 66 :temp2, 24 :temp1
-The Value Finally received is: 73
-73 :random_array[random_number], 25 :random_array[temp1], 73 :temp2, 25 :temp1
-The Value Finally received is: 48
-48 :random_array[random_number], 26 :random_array[temp1], 48 :temp2, 26 :temp1
-The Value Finally received is: 36
-36 :random_array[random_number], 27 :random_array[temp1], 36 :temp2, 27 :temp1
-The Value Finally received is: 75
-75 :random_array[random_number], 28 :random_array[temp1], 75 :temp2, 28 :temp1
-The Value Finally received is: 30
-30 :random_array[random_number], 8 :random_array[temp1], 30 :temp2, 29 :temp1
-The Value Finally received is: 37
-37 :random_array[random_number], 8 :random_array[temp1], 37 :temp2, 30 :temp1
-The Value Finally received is: 36
-27 :random_array[random_number], 31 :random_array[temp1], 27 :temp2, 31 :temp1
-The Value Finally received is: 63
-63 :random_array[random_number], 32 :random_array[temp1], 63 :temp2, 32 :temp1
-The Value Finally received is: 55
-55 :random_array[random_number], 33 :random_array[temp1], 55 :temp2, 33 :temp1
-The Value Finally received is: 72
-72 :random_array[random_number], 34 :random_array[temp1], 72 :temp2, 34 :temp1
-The Value Finally received is: 25
-73 :random_array[random_number], 13 :random_array[temp1], 73 :temp2, 35 :temp1
-The Value Finally received is: 102
-22 :random_array[random_number], 31 :random_array[temp1], 22 :temp2, 36 :temp1
-The Value Finally received is: 40
-40 :random_array[random_number], 8 :random_array[temp1], 40 :temp2, 37 :temp1
-The Value Finally received is: 69
-69 :random_array[random_number], 38 :random_array[temp1], 69 :temp2, 38 :temp1
-The Value Finally received is: 97
-97 :random_array[random_number], 39 :random_array[temp1], 97 :temp2, 39 :temp1
-The Value Finally received is: 52
-20 :random_array[random_number], 8 :random_array[temp1], 20 :temp2, 40 :temp1
-The Value Finally received is: 7
-59 :random_array[random_number], 41 :random_array[temp1], 59 :temp2, 41 :temp1
-The Value Finally received is: 30
-37 :random_array[random_number], 9 :random_array[temp1], 37 :temp2, 42 :temp1
-The Value Finally received is: 59
-7 :random_array[random_number], 43 :random_array[temp1], 7 :temp2, 43 :temp1
-The Value Finally received is: 58
-58 :random_array[random_number], 44 :random_array[temp1], 58 :temp2, 44 :temp1
-The Value Finally received is: 54
-54 :random_array[random_number], 45 :random_array[temp1], 54 :temp2, 45 :temp1
-The Value Finally received is: 25
-13 :random_array[random_number], 46 :random_array[temp1], 13 :temp2, 46 :temp1
-The Value Finally received is: 25
-46 :random_array[random_number], 4 :random_array[temp1], 46 :temp2, 47 :temp1
-The Value Finally received is: 37
-40 :random_array[random_number], 26 :random_array[temp1], 40 :temp2, 48 :temp1
-The Value Finally received is: 74
-15 :random_array[random_number], 49 :random_array[temp1], 15 :temp2, 49 :temp1
-The Value Finally received is: 101
-23 :random_array[random_number], 50 :random_array[temp1], 23 :temp2, 50 :temp1
-The Value Finally received is: 0
-101 :random_array[random_number], 51 :random_array[temp1], 101 :temp2, 51 :temp1
-The Value Finally received is: 75
-28 :random_array[random_number], 8 :random_array[temp1], 28 :temp2, 52 :temp1
-The Value Finally received is: 8
-29 :random_array[random_number], 53 :random_array[temp1], 29 :temp2, 53 :temp1
-The Value Finally received is: 31
-27 :random_array[random_number], 45 :random_array[temp1], 27 :temp2, 54 :temp1
-The Value Finally received is: 45
-54 :random_array[random_number], 33 :random_array[temp1], 54 :temp2, 55 :temp1
-The Value Finally received is: 46
-13 :random_array[random_number], 56 :random_array[temp1], 13 :temp2, 56 :temp1
-The Value Finally received is: 49
-15 :random_array[random_number], 57 :random_array[temp1], 15 :temp2, 57 :temp1
-The Value Finally received is: 50
-23 :random_array[random_number], 44 :random_array[temp1], 23 :temp2, 58 :temp1
-The Value Finally received is: 3
-0 :random_array[random_number], 43 :random_array[temp1], 0 :temp2, 59 :temp1
-The Value Finally received is: 104
-104 :random_array[random_number], 5 :random_array[temp1], 104 :temp2, 60 :temp1
-The Value Finally received is: 17
-6 :random_array[random_number], 61 :random_array[temp1], 6 :temp2, 61 :temp1
-The Value Finally received is: 60
-104 :random_array[random_number], 62 :random_array[temp1], 104 :temp2, 62 :temp1
-The Value Finally received is: 26
-48 :random_array[random_number], 32 :random_array[temp1], 48 :temp2, 63 :temp1
-The Value Finally received is: 24
-66 :random_array[random_number], 64 :random_array[temp1], 66 :temp2, 64 :temp1
-The Value Finally received is: 31
-45 :random_array[random_number], 65 :random_array[temp1], 45 :temp2, 65 :temp1
-The Value Finally received is: 6
-24 :random_array[random_number], 1 :random_array[temp1], 24 :temp2, 66 :temp1
-The Value Finally received is: 38
-69 :random_array[random_number], 12 :random_array[temp1], 69 :temp2, 67 :temp1
-The Value Finally received is: 32
-63 :random_array[random_number], 68 :random_array[temp1], 63 :temp2, 68 :temp1
-The Value Finally received is: 23
-10 :random_array[random_number], 38 :random_array[temp1], 10 :temp2, 69 :temp1
-The Value Finally received is: 65
-45 :random_array[random_number], 11 :random_array[temp1], 45 :temp2, 70 :temp1
-The Value Finally received is: 10
-3 :random_array[random_number], 71 :random_array[temp1], 3 :temp2, 71 :temp1
-The Value Finally received is: 40
-20 :random_array[random_number], 34 :random_array[temp1], 20 :temp2, 72 :temp1
-The Value Finally received is: 37
-26 :random_array[random_number], 25 :random_array[temp1], 26 :temp2, 73 :temp1
-The Value Finally received is: 40
-34 :random_array[random_number], 49 :random_array[temp1], 34 :temp2, 74 :temp1
-The Value Finally received is: 46
-56 :random_array[random_number], 19 :random_array[temp1], 56 :temp2, 95 :temp1
-The Value Finally received is: 50
-44 :random_array[random_number], 96 :random_array[temp1], 44 :temp2, 96 :temp1
-The Value Finally received is: 17
-61 :random_array[random_number], 39 :random_array[temp1], 61 :temp2, 97 :temp1
-The Value Finally received is: 17
-39 :random_array[random_number], 98 :random_array[temp1], 39 :temp2, 98 :temp1
-The Value Finally received is: 22
-102 :random_array[random_number], 99 :random_array[temp1], 102 :temp2, 99 :temp1
-The Value Finally received is: 66
-24 :random_array[random_number], 100 :random_array[temp1], 24 :temp2, 100 :temp1
-The Value Finally received is: 68
-63 :random_array[random_number], 50 :random_array[temp1], 63 :temp2, 101 :temp1
-The Value Finally received is: 57
-15 :random_array[random_number], 31 :random_array[temp1], 15 :temp2, 102 :temp1
-The Value Finally received is: 97
-61 :random_array[random_number], 103 :random_array[temp1], 61 :temp2, 103 :temp1
-The Value Finally received is: 11
-70 :random_array[random_number], 5 :random_array[temp1], 70 :temp2, 104 :temp1
-The Value Finally received is: 12
-16 :random_array[random_number], 105 :random_array[temp1], 16 :temp2, 105 :temp1
-The Value Finally received is: 49
-57 :random_array[random_number], 51 :random_array[temp1], 57 :temp2, 0 :temp1
-The Value Finally received is: 26
-32 :random_array[random_number], 2 :random_array[temp1], 32 :temp2, 1 :temp1
-The Value Finally received is: 36
-22 :random_array[random_number], 18 :random_array[temp1], 22 :temp2, 2 :temp1
-The Value Finally received is: 6
-1 :random_array[random_number], 43 :random_array[temp1], 1 :temp2, 3 :temp1
-The Value Finally received is: 33
-55 :random_array[random_number], 47 :random_array[temp1], 55 :temp2, 4 :temp1
-The Value Finally received is: 38
-12 :random_array[random_number], 60 :random_array[temp1], 12 :temp2, 5 :temp1
-The Value Finally received is: 51
-101 :random_array[random_number], 43 :random_array[temp1], 101 :temp2, 6 :temp1
-The Value Finally received is: 71
-3 :random_array[random_number], 41 :random_array[temp1], 3 :temp2, 7 :temp1
-The Value Finally received is: 99
-102 :random_array[random_number], 53 :random_array[temp1], 102 :temp2, 8 :temp1
-The Value Finally received is: 42
-37 :random_array[random_number], 42 :random_array[temp1], 37 :temp2, 9 :temp1
-The Value Finally received is: 55
-54 :random_array[random_number], 71 :random_array[temp1], 54 :temp2, 10 :temp1
-The Value Finally received is: 102
-15 :random_array[random_number], 5 :random_array[temp1], 15 :temp2, 11 :temp1
-The Value Finally received is: 59
-0 :random_array[random_number], 105 :random_array[temp1], 0 :temp2, 12 :temp1
-The Value Finally received is: 97
-103 :random_array[random_number], 35 :random_array[temp1], 103 :temp2, 13 :temp1
-The Value Finally received is: 37
-25 :random_array[random_number], 14 :random_array[temp1], 25 :temp2, 14 :temp1
-The Value Finally received is: 43
-7 :random_array[random_number], 74 :random_array[temp1], 7 :temp2, 15 :temp1
-The Value Finally received is: 29
-30 :random_array[random_number], 67 :random_array[temp1], 30 :temp2, 16 :temp1
-The Value Finally received is: 3
-1 :random_array[random_number], 98 :random_array[temp1], 1 :temp2, 17 :temp1
-The Value Finally received is: 61
-6 :random_array[random_number], 21 :random_array[temp1], 6 :temp2, 18 :temp1
-The Value Finally received is: 1
-32 :random_array[random_number], 95 :random_array[temp1], 32 :temp2, 19 :temp1
-The Value Finally received is: 5
-12 :random_array[random_number], 52 :random_array[temp1], 12 :temp2, 20 :temp1
-The Value Finally received is: 50
-96 :random_array[random_number], 17 :random_array[temp1], 96 :temp2, 21 :temp1
-The Value Finally received is: 1
-95 :random_array[random_number], 99 :random_array[temp1], 95 :temp2, 22 :temp1
-The Value Finally received is: 103
-61 :random_array[random_number], 38 :random_array[temp1], 61 :temp2, 23 :temp1
-The Value Finally received is: 44
-58 :random_array[random_number], 64 :random_array[temp1], 58 :temp2, 24 :temp1
-The Value Finally received is: 59
-105 :random_array[random_number], 4 :random_array[temp1], 105 :temp2, 25 :temp1
-The Value Finally received is: 20
-12 :random_array[random_number], 2 :random_array[temp1], 12 :temp2, 26 :temp1
-The Value Finally received is: 55
-71 :random_array[random_number], 36 :random_array[temp1], 71 :temp2, 27 :temp1
-The Value Finally received is: 103
-38 :random_array[random_number], 75 :random_array[temp1], 38 :temp2, 28 :temp1
-The Value Finally received is: 70
-45 :random_array[random_number], 67 :random_array[temp1], 45 :temp2, 29 :temp1
-The Value Finally received is: 8
-102 :random_array[random_number], 9 :random_array[temp1], 102 :temp2, 30 :temp1
-The Value Finally received is: 33
-47 :random_array[random_number], 65 :random_array[temp1], 47 :temp2, 31 :temp1
-The Value Finally received is: 2
-22 :random_array[random_number], 68 :random_array[temp1], 22 :temp2, 32 :temp1
-The Value Finally received is: 41
-59 :random_array[random_number], 65 :random_array[temp1], 59 :temp2, 33 :temp1
-The Value Finally received is: 103
-75 :random_array[random_number], 72 :random_array[temp1], 75 :temp2, 34 :temp1
-The Value Finally received is: 68
-50 :random_array[random_number], 73 :random_array[temp1], 50 :temp2, 35 :temp1
-The Value Finally received is: 72
-20 :random_array[random_number], 18 :random_array[temp1], 20 :temp2, 36 :temp1
-The Value Finally received is: 29
-45 :random_array[random_number], 14 :random_array[temp1], 45 :temp2, 37 :temp1
-The Value Finally received is: 50
-17 :random_array[random_number], 60 :random_array[temp1], 17 :temp2, 38 :temp1
-The Value Finally received is: 69
-10 :random_array[random_number], 97 :random_array[temp1], 10 :temp2, 39 :temp1
-The Value Finally received is: 14
-25 :random_array[random_number], 49 :random_array[temp1], 25 :temp2, 40 :temp1
-The Value Finally received is: 73
-26 :random_array[random_number], 65 :random_array[temp1], 26 :temp2, 41 :temp1
-The Value Finally received is: 32
-22 :random_array[random_number], 42 :random_array[temp1], 22 :temp2, 42 :temp1
-The Value Finally received is: 28
-38 :random_array[random_number], 74 :random_array[temp1], 38 :temp2, 43 :temp1
-The Value Finally received is: 67
-69 :random_array[random_number], 64 :random_array[temp1], 69 :temp2, 44 :temp1
-The Value Finally received is: 45
-33 :random_array[random_number], 33 :random_array[temp1], 33 :temp2, 45 :temp1
-The Value Finally received is: 29
-14 :random_array[random_number], 19 :random_array[temp1], 14 :temp2, 46 :temp1
-The Value Finally received is: 47
-46 :random_array[random_number], 46 :random_array[temp1], 46 :temp2, 47 :temp1
-The Value Finally received is: 50
-60 :random_array[random_number], 40 :random_array[temp1], 60 :temp2, 48 :temp1
-The Value Finally received is: 6
-101 :random_array[random_number], 51 :random_array[temp1], 101 :temp2, 49 :temp1
-The Value Finally received is: 47
-46 :random_array[random_number], 40 :random_array[temp1], 46 :temp2, 50 :temp1
-The Value Finally received is: 50
-46 :random_array[random_number], 43 :random_array[temp1], 46 :temp2, 51 :temp1
-The Value Finally received is: 33
-59 :random_array[random_number], 28 :random_array[temp1], 59 :temp2, 52 :temp1
-The Value Finally received is: 100
-24 :random_array[random_number], 29 :random_array[temp1], 24 :temp2, 53 :temp1
-The Value Finally received is: 0
-57 :random_array[random_number], 27 :random_array[temp1], 57 :temp2, 54 :temp1
-The Value Finally received is: 62
-104 :random_array[random_number], 36 :random_array[temp1], 104 :temp2, 55 :temp1
-The Value Finally received is: 64
-66 :random_array[random_number], 13 :random_array[temp1], 66 :temp2, 56 :temp1
-The Value Finally received is: 40
-25 :random_array[random_number], 31 :random_array[temp1], 25 :temp2, 57 :temp1
-The Value Finally received is: 21
-96 :random_array[random_number], 23 :random_array[temp1], 96 :temp2, 58 :temp1
-The Value Finally received is: 66
-100 :random_array[random_number], 4 :random_array[temp1], 100 :temp2, 59 :temp1
-The Value Finally received is: 19
-32 :random_array[random_number], 62 :random_array[temp1], 32 :temp2, 60 :temp1
-The Value Finally received is: 71
-41 :random_array[random_number], 21 :random_array[temp1], 41 :temp2, 61 :temp1
-The Value Finally received is: 99
-53 :random_array[random_number], 36 :random_array[temp1], 53 :temp2, 62 :temp1
-The Value Finally received is: 38
-17 :random_array[random_number], 48 :random_array[temp1], 17 :temp2, 63 :temp1
-The Value Finally received is: 54
-57 :random_array[random_number], 13 :random_array[temp1], 57 :temp2, 64 :temp1
-The Value Finally received is: 63
-17 :random_array[random_number], 11 :random_array[temp1], 17 :temp2, 65 :temp1
-The Value Finally received is: 33
-28 :random_array[random_number], 4 :random_array[temp1], 28 :temp2, 66 :temp1
-The Value Finally received is: 68
-73 :random_array[random_number], 64 :random_array[temp1], 73 :temp2, 67 :temp1
-The Value Finally received is: 31
-47 :random_array[random_number], 64 :random_array[temp1], 47 :temp2, 68 :temp1
-The Value Finally received is: 97
-35 :random_array[random_number], 97 :random_array[temp1], 35 :temp2, 69 :temp1
-The Value Finally received is: 52
-59 :random_array[random_number], 67 :random_array[temp1], 59 :temp2, 70 :temp1
-The Value Finally received is: 59
-100 :random_array[random_number], 21 :random_array[temp1], 100 :temp2, 71 :temp1
-The Value Finally received is: 58
-96 :random_array[random_number], 18 :random_array[temp1], 96 :temp2, 72 :temp1
-The Value Finally received is: 97
-97 :random_array[random_number], 65 :random_array[temp1], 97 :temp2, 73 :temp1
-The Value Finally received is: 15
-7 :random_array[random_number], 34 :random_array[temp1], 7 :temp2, 74 :temp1
-The Value Finally received is: 105
-16 :random_array[random_number], 56 :random_array[temp1], 16 :temp2, 95 :temp1
-The Value Finally received is: 73
-97 :random_array[random_number], 44 :random_array[temp1], 97 :temp2, 96 :temp1
-The Value Finally received is: 21
-23 :random_array[random_number], 65 :random_array[temp1], 23 :temp2, 97 :temp1
-The Value Finally received is: 6
-51 :random_array[random_number], 39 :random_array[temp1], 51 :temp2, 98 :temp1
-The Value Finally received is: 46
-14 :random_array[random_number], 36 :random_array[temp1], 14 :temp2, 99 :temp1
-The Value Finally received is: 71
-100 :random_array[random_number], 29 :random_array[temp1], 100 :temp2, 100 :temp1
-The Value Finally received is: 39
-10 :random_array[random_number], 63 :random_array[temp1], 10 :temp2, 101 :temp1
-The Value Finally received is: 40
-31 :random_array[random_number], 5 :random_array[temp1], 31 :temp2, 102 :temp1
-The Value Finally received is: 103
-72 :random_array[random_number], 72 :random_array[temp1], 72 :temp2, 103 :temp1
-The Value Finally received is: 102
-31 :random_array[random_number], 70 :random_array[temp1], 31 :temp2, 104 :temp1
-The Value Finally received is: 30
-102 :random_array[random_number], 56 :random_array[temp1], 102 :temp2, 105 :temp1
-The Value Finally received is: 37
-45 :random_array[random_number], 27 :random_array[temp1], 45 :temp2, 0 :temp1
-The Value Finally received is: 17
-1 :random_array[random_number], 99 :random_array[temp1], 1 :temp2, 1 :temp1
-The Value Finally received is: 23
-61 :random_array[random_number], 68 :random_array[temp1], 61 :temp2, 2 :temp1
-The Value Finally received is: 44
-69 :random_array[random_number], 98 :random_array[temp1], 69 :temp2, 3 :temp1
-The Value Finally received is: 68
-47 :random_array[random_number], 55 :random_array[temp1], 47 :temp2, 4 :temp1
-The Value Finally received is: 38
-48 :random_array[random_number], 52 :random_array[temp1], 48 :temp2, 5 :temp1
-The Value Finally received is: 58
-18 :random_array[random_number], 39 :random_array[temp1], 18 :temp2, 6 :temp1
-The Value Finally received is: 18
-6 :random_array[random_number], 3 :random_array[temp1], 6 :temp2, 7 :temp1
-The Value Finally received is: 39
-63 :random_array[random_number], 9 :random_array[temp1], 63 :temp2, 8 :temp1
-The Value Finally received is: 17
-99 :random_array[random_number], 37 :random_array[temp1], 99 :temp2, 9 :temp1
-The Value Finally received is: 102
-70 :random_array[random_number], 54 :random_array[temp1], 70 :temp2, 10 :temp1
-The Value Finally received is: 8
-63 :random_array[random_number], 15 :random_array[temp1], 63 :temp2, 11 :temp1
-The Value Finally received is: 65
-17 :random_array[random_number], 0 :random_array[temp1], 17 :temp2, 12 :temp1
-The Value Finally received is: 67
-73 :random_array[random_number], 103 :random_array[temp1], 73 :temp2, 13 :temp1
-The Value Finally received is: 103
-72 :random_array[random_number], 49 :random_array[temp1], 72 :temp2, 14 :temp1
-The Value Finally received is: 98
-51 :random_array[random_number], 34 :random_array[temp1], 51 :temp2, 15 :temp1
-The Value Finally received is: 55
-104 :random_array[random_number], 30 :random_array[temp1], 104 :temp2, 16 :temp1
-The Value Finally received is: 50
-43 :random_array[random_number], 37 :random_array[temp1], 43 :temp2, 17 :temp1
-The Value Finally received is: 104
-31 :random_array[random_number], 3 :random_array[temp1], 31 :temp2, 18 :temp1
-The Value Finally received is: 27
-71 :random_array[random_number], 62 :random_array[temp1], 71 :temp2, 19 :temp1
-The Value Finally received is: 47
-40 :random_array[random_number], 2 :random_array[temp1], 40 :temp2, 20 :temp1
-The Value Finally received is: 70
-59 :random_array[random_number], 65 :random_array[temp1], 59 :temp2, 21 :temp1
-The Value Finally received is: 100
-100 :random_array[random_number], 95 :random_array[temp1], 100 :temp2, 22 :temp1
-The Value Finally received is: 45
-33 :random_array[random_number], 68 :random_array[temp1], 33 :temp2, 23 :temp1
-The Value Finally received is: 98
-34 :random_array[random_number], 58 :random_array[temp1], 34 :temp2, 24 :temp1
-The Value Finally received is: 56
-66 :random_array[random_number], 105 :random_array[temp1], 66 :temp2, 25 :temp1
-The Value Finally received is: 8
-15 :random_array[random_number], 12 :random_array[temp1], 15 :temp2, 26 :temp1
-The Value Finally received is: 41
-26 :random_array[random_number], 62 :random_array[temp1], 26 :temp2, 27 :temp1
-The Value Finally received is: 5
-48 :random_array[random_number], 74 :random_array[temp1], 48 :temp2, 28 :temp1
-The Value Finally received is: 4
-47 :random_array[random_number], 19 :random_array[temp1], 47 :temp2, 29 :temp1
-The Value Finally received is: 100
-95 :random_array[random_number], 56 :random_array[temp1], 95 :temp2, 30 :temp1
-The Value Finally received is: 49
-101 :random_array[random_number], 64 :random_array[temp1], 101 :temp2, 31 :temp1
-The Value Finally received is: 67
-103 :random_array[random_number], 42 :random_array[temp1], 103 :temp2, 32 :temp1
-The Value Finally received is: 51
-46 :random_array[random_number], 4 :random_array[temp1], 46 :temp2, 33 :temp1
-The Value Finally received is: 102
-54 :random_array[random_number], 75 :random_array[temp1], 54 :temp2, 34 :temp1
-The Value Finally received is: 48
-60 :random_array[random_number], 50 :random_array[temp1], 60 :temp2, 35 :temp1
-The Value Finally received is: 36
-20 :random_array[random_number], 20 :random_array[temp1], 20 :temp2, 36 :temp1
-The Value Finally received is: 39
-9 :random_array[random_number], 27 :random_array[temp1], 9 :temp2, 37 :temp1
-The Value Finally received is: 30
-95 :random_array[random_number], 52 :random_array[temp1], 95 :temp2, 38 :temp1
-The Value Finally received is: 103
-49 :random_array[random_number], 27 :random_array[temp1], 49 :temp2, 39 :temp1
-The Value Finally received is: 21
-59 :random_array[random_number], 5 :random_array[temp1], 59 :temp2, 40 :temp1
-The Value Finally received is: 59
-21 :random_array[random_number], 62 :random_array[temp1], 21 :temp2, 41 :temp1
-The Value Finally received is: 22
-100 :random_array[random_number], 22 :random_array[temp1], 100 :temp2, 42 :temp1
-The Value Finally received is: 2
-61 :random_array[random_number], 38 :random_array[temp1], 61 :temp2, 43 :temp1
-The Value Finally received is: 3
-69 :random_array[random_number], 98 :random_array[temp1], 69 :temp2, 44 :temp1
-The Value Finally received is: 20
-40 :random_array[random_number], 68 :random_array[temp1], 40 :temp2, 45 :temp1
-The Value Finally received is: 62
-53 :random_array[random_number], 36 :random_array[temp1], 53 :temp2, 46 :temp1
-The Value Finally received is: 50
-37 :random_array[random_number], 2 :random_array[temp1], 37 :temp2, 47 :temp1
-The Value Finally received is: 16
-104 :random_array[random_number], 50 :random_array[temp1], 104 :temp2, 48 :temp1
-The Value Finally received is: 56
-105 :random_array[random_number], 64 :random_array[temp1], 105 :temp2, 49 :temp1
-The Value Finally received is: 21
-5 :random_array[random_number], 2 :random_array[temp1], 5 :temp2, 50 :temp1
-The Value Finally received is: 8
-12 :random_array[random_number], 4 :random_array[temp1], 12 :temp2, 51 :temp1
-The Value Finally received is: 38
-95 :random_array[random_number], 67 :random_array[temp1], 95 :temp2, 52 :temp1
-The Value Finally received is: 62
-36 :random_array[random_number], 24 :random_array[temp1], 36 :temp2, 53 :temp1
-The Value Finally received is: 44
-69 :random_array[random_number], 13 :random_array[temp1], 69 :temp2, 54 :temp1
-The Value Finally received is: 41
-21 :random_array[random_number], 30 :random_array[temp1], 21 :temp2, 55 :temp1
-The Value Finally received is: 70
-65 :random_array[random_number], 64 :random_array[temp1], 65 :temp2, 56 :temp1
-The Value Finally received is: 16
-50 :random_array[random_number], 25 :random_array[temp1], 50 :temp2, 57 :temp1
-The Value Finally received is: 98
-58 :random_array[random_number], 39 :random_array[temp1], 58 :temp2, 58 :temp1
-The Value Finally received is: 48
-104 :random_array[random_number], 62 :random_array[temp1], 104 :temp2, 59 :temp1
-The Value Finally received is: 43
-61 :random_array[random_number], 32 :random_array[temp1], 61 :temp2, 60 :temp1
-The Value Finally received is: 58
-58 :random_array[random_number], 41 :random_array[temp1], 58 :temp2, 61 :temp1
-The Value Finally received is: 17
-43 :random_array[random_number], 24 :random_array[temp1], 43 :temp2, 62 :temp1
-The Value Finally received is: 7
-6 :random_array[random_number], 11 :random_array[temp1], 6 :temp2, 63 :temp1
-The Value Finally received is: 23
-33 :random_array[random_number], 57 :random_array[temp1], 33 :temp2, 64 :temp1
-The Value Finally received is: 47
-37 :random_array[random_number], 0 :random_array[temp1], 37 :temp2, 65 :temp1
-The Value Finally received is: 36
-20 :random_array[random_number], 28 :random_array[temp1], 20 :temp2, 66 :temp1
-The Value Finally received is: 45
-40 :random_array[random_number], 42 :random_array[temp1], 40 :temp2, 67 :temp1
-The Value Finally received is: 32
-103 :random_array[random_number], 55 :random_array[temp1], 103 :temp2, 68 :temp1
-The Value Finally received is: 58
-41 :random_array[random_number], 35 :random_array[temp1], 41 :temp2, 69 :temp1
-The Value Finally received is: 35
-60 :random_array[random_number], 64 :random_array[temp1], 60 :temp2, 70 :temp1
-The Value Finally received is: 35
-64 :random_array[random_number], 29 :random_array[temp1], 64 :temp2, 71 :temp1
-The Value Finally received is: 12
-17 :random_array[random_number], 96 :random_array[temp1], 17 :temp2, 72 :temp1
-The Value Finally received is: 21
-2 :random_array[random_number], 44 :random_array[temp1], 2 :temp2, 73 :temp1
-The Value Finally received is: 17
-24 :random_array[random_number], 7 :random_array[temp1], 24 :temp2, 74 :temp1
-The Value Finally received is: 65
-37 :random_array[random_number], 16 :random_array[temp1], 37 :temp2, 95 :temp1
-The Value Finally received is: 30
-52 :random_array[random_number], 97 :random_array[temp1], 52 :temp2, 96 :temp1
-The Value Finally received is: 56
-65 :random_array[random_number], 23 :random_array[temp1], 65 :temp2, 97 :temp1
-The Value Finally received is: 21
-44 :random_array[random_number], 39 :random_array[temp1], 44 :temp2, 98 :temp1
-The Value Finally received is: 6
-18 :random_array[random_number], 14 :random_array[temp1], 18 :temp2, 99 :temp1
-The Value Finally received is: 26
-15 :random_array[random_number], 56 :random_array[temp1], 15 :temp2, 100 :temp1
-The Value Finally received is: 18
-31 :random_array[random_number], 10 :random_array[temp1], 31 :temp2, 101 :temp1
-The Value Finally received is: 96
-52 :random_array[random_number], 75 :random_array[temp1], 52 :temp2, 102 :temp1
-The Value Finally received is: 4
-19 :random_array[random_number], 27 :random_array[temp1], 19 :temp2, 103 :temp1
-The Value Finally received is: 10
-70 :random_array[random_number], 3 :random_array[temp1], 70 :temp2, 104 :temp1
-The Value Finally received is: 38
-67 :random_array[random_number], 102 :random_array[temp1], 67 :temp2, 105 :temp1
-The Value Finally received is: 14
-72 :random_array[random_number], 45 :random_array[temp1], 72 :temp2, 0 :temp1
-The Value Finally received is: 41
-30 :random_array[random_number], 1 :random_array[temp1], 30 :temp2, 1 :temp1
-The Value Finally received is: 104
-70 :random_array[random_number], 38 :random_array[temp1], 70 :temp2, 2 :temp1
-The Value Finally received is: 103
-19 :random_array[random_number], 98 :random_array[temp1], 19 :temp2, 3 :temp1
-The Value Finally received is: 48
-62 :random_array[random_number], 27 :random_array[temp1], 62 :temp2, 4 :temp1
-The Value Finally received is: 21
-39 :random_array[random_number], 74 :random_array[temp1], 39 :temp2, 5 :temp1
-The Value Finally received is: 98
-44 :random_array[random_number], 14 :random_array[temp1], 44 :temp2, 6 :temp1
-The Value Finally received is: 35
-29 :random_array[random_number], 11 :random_array[temp1], 29 :temp2, 7 :temp1
-The Value Finally received is: 37
-9 :random_array[random_number], 4 :random_array[temp1], 9 :temp2, 8 :temp1
-The Value Finally received is: 72
-17 :random_array[random_number], 99 :random_array[temp1], 17 :temp2, 9 :temp1
-The Value Finally received is: 102
-52 :random_array[random_number], 3 :random_array[temp1], 52 :temp2, 10 :temp1
-The Value Finally received is: 42
-100 :random_array[random_number], 63 :random_array[temp1], 100 :temp2, 11 :temp1
-The Value Finally received is: 33
-46 :random_array[random_number], 96 :random_array[temp1], 46 :temp2, 12 :temp1
-The Value Finally received is: 8
-9 :random_array[random_number], 73 :random_array[temp1], 9 :temp2, 13 :temp1
-The Value Finally received is: 63
-6 :random_array[random_number], 45 :random_array[temp1], 6 :temp2, 14 :temp1
-The Value Finally received is: 0
-72 :random_array[random_number], 51 :random_array[temp1], 72 :temp2, 15 :temp1
-The Value Finally received is: 19
-71 :random_array[random_number], 25 :random_array[temp1], 71 :temp2, 16 :temp1
-The Value Finally received is: 65
-16 :random_array[random_number], 7 :random_array[temp1], 16 :temp2, 17 :temp1
-The Value Finally received is: 53
-36 :random_array[random_number], 10 :random_array[temp1], 36 :temp2, 18 :temp1
-The Value Finally received is: 57
-50 :random_array[random_number], 25 :random_array[temp1], 50 :temp2, 19 :temp1
-The Value Finally received is: 42
-63 :random_array[random_number], 68 :random_array[temp1], 63 :temp2, 20 :temp1
-The Value Finally received is: 75
-8 :random_array[random_number], 74 :random_array[temp1], 8 :temp2, 21 :temp1
-The Value Finally received is: 11
-100 :random_array[random_number], 22 :random_array[temp1], 100 :temp2, 22 :temp1
-The Value Finally received is: 45
-42 :random_array[random_number], 57 :random_array[temp1], 42 :temp2, 23 :temp1
-The Value Finally received is: 18
-36 :random_array[random_number], 34 :random_array[temp1], 36 :temp2, 24 :temp1
-The Value Finally received is: 23
-42 :random_array[random_number], 66 :random_array[temp1], 42 :temp2, 25 :temp1
-The Value Finally received is: 16
-71 :random_array[random_number], 56 :random_array[temp1], 71 :temp2, 26 :temp1
-The Value Finally received is: 52
-95 :random_array[random_number], 26 :random_array[temp1], 95 :temp2, 27 :temp1
-The Value Finally received is: 60
-61 :random_array[random_number], 48 :random_array[temp1], 61 :temp2, 28 :temp1
-The Value Finally received is: 70
-60 :random_array[random_number], 47 :random_array[temp1], 60 :temp2, 29 :temp1
-The Value Finally received is: 54
-69 :random_array[random_number], 97 :random_array[temp1], 69 :temp2, 30 :temp1
-The Value Finally received is: 39
-49 :random_array[random_number], 101 :random_array[temp1], 49 :temp2, 31 :temp1
-The Value Finally received is: 62
-43 :random_array[random_number], 55 :random_array[temp1], 43 :temp2, 32 :temp1
-The Value Finally received is: 2
-70 :random_array[random_number], 96 :random_array[temp1], 70 :temp2, 33 :temp1
-The Value Finally received is: 60
-48 :random_array[random_number], 54 :random_array[temp1], 48 :temp2, 34 :temp1
-The Value Finally received is: 44
-13 :random_array[random_number], 11 :random_array[temp1], 13 :temp2, 35 :temp1
-The Value Finally received is: 20
-63 :random_array[random_number], 28 :random_array[temp1], 63 :temp2, 36 :temp1
-The Value Finally received is: 33
-70 :random_array[random_number], 4 :random_array[temp1], 70 :temp2, 37 :temp1
-The Value Finally received is: 71
-64 :random_array[random_number], 102 :random_array[temp1], 64 :temp2, 38 :temp1
-The Value Finally received is: 20
-28 :random_array[random_number], 101 :random_array[temp1], 28 :temp2, 39 :temp1
-The Value Finally received is: 30
-69 :random_array[random_number], 59 :random_array[temp1], 69 :temp2, 40 :temp1
-The Value Finally received is: 74
-24 :random_array[random_number], 1 :random_array[temp1], 24 :temp2, 41 :temp1
-The Value Finally received is: 36
-63 :random_array[random_number], 68 :random_array[temp1], 63 :temp2, 42 :temp1
-The Value Finally received is: 47
-0 :random_array[random_number], 32 :random_array[temp1], 0 :temp2, 43 :temp1
-The Value Finally received is: 42
-63 :random_array[random_number], 11 :random_array[temp1], 63 :temp2, 44 :temp1
-The Value Finally received is: 38
-64 :random_array[random_number], 57 :random_array[temp1], 64 :temp2, 45 :temp1
-The Value Finally received is: 22
-100 :random_array[random_number], 53 :random_array[temp1], 100 :temp2, 46 :temp1
-The Value Finally received is: 46
-100 :random_array[random_number], 32 :random_array[temp1], 100 :temp2, 47 :temp1
-The Value Finally received is: 99
-18 :random_array[random_number], 27 :random_array[temp1], 18 :temp2, 48 :temp1
-The Value Finally received is: 65
-7 :random_array[random_number], 105 :random_array[temp1], 7 :temp2, 49 :temp1
-The Value Finally received is: 104
-38 :random_array[random_number], 5 :random_array[temp1], 38 :temp2, 50 :temp1
-The Value Finally received is: 7
-29 :random_array[random_number], 12 :random_array[temp1], 29 :temp2, 51 :temp1
-The Value Finally received is: 50
-38 :random_array[random_number], 26 :random_array[temp1], 38 :temp2, 52 :temp1
-The Value Finally received is: 66
-20 :random_array[random_number], 10 :random_array[temp1], 20 :temp2, 53 :temp1
-The Value Finally received is: 31
-49 :random_array[random_number], 97 :random_array[temp1], 49 :temp2, 54 :temp1
-The Value Finally received is: 105
-67 :random_array[random_number], 21 :random_array[temp1], 67 :temp2, 55 :temp1
-The Value Finally received is: 34
-48 :random_array[random_number], 23 :random_array[temp1], 48 :temp2, 56 :temp1
-The Value Finally received is: 14
-6 :random_array[random_number], 25 :random_array[temp1], 6 :temp2, 57 :temp1
-The Value Finally received is: 33
-4 :random_array[random_number], 35 :random_array[temp1], 4 :temp2, 58 :temp1
-The Value Finally received is: 100
-15 :random_array[random_number], 104 :random_array[temp1], 15 :temp2, 59 :temp1
-The Value Finally received is: 3
-19 :random_array[random_number], 54 :random_array[temp1], 19 :temp2, 60 :temp1
-The Value Finally received is: 8
-73 :random_array[random_number], 58 :random_array[temp1], 73 :temp2, 61 :temp1
-The Value Finally received is: 15
-72 :random_array[random_number], 55 :random_array[temp1], 72 :temp2, 62 :temp1
-The Value Finally received is: 37
-70 :random_array[random_number], 45 :random_array[temp1], 70 :temp2, 63 :temp1
-The Value Finally received is: 5
-39 :random_array[random_number], 33 :random_array[temp1], 39 :temp2, 64 :temp1
-The Value Finally received is: 67
-40 :random_array[random_number], 105 :random_array[temp1], 40 :temp2, 65 :temp1
-The Value Finally received is: 16
-56 :random_array[random_number], 10 :random_array[temp1], 56 :temp2, 66 :temp1
-The Value Finally received is: 67
-105 :random_array[random_number], 105 :random_array[temp1], 105 :temp2, 67 :temp1
-The Value Finally received is: 67
-105 :random_array[random_number], 103 :random_array[temp1], 105 :temp2, 68 :temp1
-The Value Finally received is: 8
-58 :random_array[random_number], 41 :random_array[temp1], 58 :temp2, 69 :temp1
-The Value Finally received is: 3
-54 :random_array[random_number], 47 :random_array[temp1], 54 :temp2, 70 :temp1
-The Value Finally received is: 16
-10 :random_array[random_number], 102 :random_array[temp1], 10 :temp2, 71 :temp1
-The Value Finally received is: 62
-72 :random_array[random_number], 99 :random_array[temp1], 72 :temp2, 72 :temp1
-The Value Finally received is: 24
-36 :random_array[random_number], 2 :random_array[temp1], 36 :temp2, 73 :temp1
-The Value Finally received is: 56
-48 :random_array[random_number], 1 :random_array[temp1], 48 :temp2, 74 :temp1
-The Value Finally received is: 41
-24 :random_array[random_number], 37 :random_array[temp1], 24 :temp2, 95 :temp1
-The Value Finally received is: 22
-53 :random_array[random_number], 75 :random_array[temp1], 53 :temp2, 96 :temp1
-The Value Finally received is: 62
-99 :random_array[random_number], 65 :random_array[temp1], 99 :temp2, 97 :temp1
-The Value Finally received is: 105
-21 :random_array[random_number], 14 :random_array[temp1], 21 :temp2, 98 :temp1
-The Value Finally received is: 22
-75 :random_array[random_number], 27 :random_array[temp1], 75 :temp2, 99 :temp1
-The Value Finally received is: 52
-38 :random_array[random_number], 104 :random_array[temp1], 38 :temp2, 100 :temp1
-The Value Finally received is: 30
-59 :random_array[random_number], 31 :random_array[temp1], 59 :temp2, 101 :temp1
-The Value Finally received is: 54
-49 :random_array[random_number], 3 :random_array[temp1], 49 :temp2, 102 :temp1
-The Value Finally received is: 12
-46 :random_array[random_number], 98 :random_array[temp1], 46 :temp2, 103 :temp1
-The Value Finally received is: 44
-63 :random_array[random_number], 5 :random_array[temp1], 63 :temp2, 104 :temp1
-The Value Finally received is: 32
-43 :random_array[random_number], 14 :random_array[temp1], 43 :temp2, 105 :temp1
-The Value Finally received is: 71
-10 :random_array[random_number], 51 :random_array[temp1], 10 :temp2, 0 :temp1
-The Value Finally received is: 41
-37 :random_array[random_number], 30 :random_array[temp1], 37 :temp2, 1 :temp1
-The Value Finally received is: 12
-98 :random_array[random_number], 96 :random_array[temp1], 98 :temp2, 2 :temp1
-The Value Finally received is: 54
-3 :random_array[random_number], 47 :random_array[temp1], 3 :temp2, 3 :temp1
-The Value Finally received is: 46
-32 :random_array[random_number], 62 :random_array[temp1], 32 :temp2, 4 :temp1
-The Value Finally received is: 5
-33 :random_array[random_number], 33 :random_array[temp1], 33 :temp2, 5 :temp1
-The Value Finally received is: 102
-49 :random_array[random_number], 44 :random_array[temp1], 49 :temp2, 6 :temp1
-The Value Finally received is: 8
-41 :random_array[random_number], 12 :random_array[temp1], 41 :temp2, 7 :temp1
-The Value Finally received is: 73
-36 :random_array[random_number], 12 :random_array[temp1], 36 :temp2, 8 :temp1
-The Value Finally received is: 48
-18 :random_array[random_number], 17 :random_array[temp1], 18 :temp2, 9 :temp1
-The Value Finally received is: 23
-66 :random_array[random_number], 52 :random_array[temp1], 66 :temp2, 10 :temp1
-The Value Finally received is: 5
-33 :random_array[random_number], 22 :random_array[temp1], 33 :temp2, 11 :temp1
-The Value Finally received is: 52
-104 :random_array[random_number], 96 :random_array[temp1], 104 :temp2, 12 :temp1
-The Value Finally received is: 47
-100 :random_array[random_number], 9 :random_array[temp1], 100 :temp2, 13 :temp1
-The Value Finally received is: 61
-73 :random_array[random_number], 25 :random_array[temp1], 73 :temp2, 14 :temp1
-The Value Finally received is: 19
-50 :random_array[random_number], 55 :random_array[temp1], 50 :temp2, 15 :temp1
-The Value Finally received is: 101
-59 :random_array[random_number], 102 :random_array[temp1], 59 :temp2, 16 :temp1
-The Value Finally received is: 49
-7 :random_array[random_number], 16 :random_array[temp1], 7 :temp2, 17 :temp1
-The Value Finally received is: 100
-38 :random_array[random_number], 34 :random_array[temp1], 38 :temp2, 18 :temp1
-The Value Finally received is: 100
-34 :random_array[random_number], 55 :random_array[temp1], 34 :temp2, 19 :temp1
-The Value Finally received is: 71
-51 :random_array[random_number], 101 :random_array[temp1], 51 :temp2, 20 :temp1
-The Value Finally received is: 56
-1 :random_array[random_number], 8 :random_array[temp1], 1 :temp2, 21 :temp1
-The Value Finally received is: 51
-29 :random_array[random_number], 27 :random_array[temp1], 29 :temp2, 22 :temp1
-The Value Finally received is: 27
-95 :random_array[random_number], 52 :random_array[temp1], 95 :temp2, 23 :temp1
-The Value Finally received is: 33
-35 :random_array[random_number], 2 :random_array[temp1], 35 :temp2, 24 :temp1
-The Value Finally received is: 16
-59 :random_array[random_number], 42 :random_array[temp1], 59 :temp2, 25 :temp1
-The Value Finally received is: 98
-21 :random_array[random_number], 71 :random_array[temp1], 21 :temp2, 26 :temp1
-The Value Finally received is: 50
-26 :random_array[random_number], 52 :random_array[temp1], 26 :temp2, 27 :temp1
-The Value Finally received is: 36
-68 :random_array[random_number], 61 :random_array[temp1], 68 :temp2, 28 :temp1
-The Value Finally received is: 104
-63 :random_array[random_number], 60 :random_array[temp1], 63 :temp2, 29 :temp1
-The Value Finally received is: 62
-65 :random_array[random_number], 31 :random_array[temp1], 65 :temp2, 30 :temp1
-The Value Finally received is: 41
-30 :random_array[random_number], 97 :random_array[temp1], 30 :temp2, 31 :temp1
-The Value Finally received is: 100
-55 :random_array[random_number], 14 :random_array[temp1], 55 :temp2, 32 :temp1
-The Value Finally received is: 102
-44 :random_array[random_number], 2 :random_array[temp1], 44 :temp2, 33 :temp1
-The Value Finally received is: 8
-36 :random_array[random_number], 23 :random_array[temp1], 36 :temp2, 34 :temp1
-The Value Finally received is: 0
-10 :random_array[random_number], 13 :random_array[temp1], 10 :temp2, 35 :temp1
-The Value Finally received is: 44
-5 :random_array[random_number], 61 :random_array[temp1], 5 :temp2, 36 :temp1
-The Value Finally received is: 11
-33 :random_array[random_number], 45 :random_array[temp1], 33 :temp2, 37 :temp1
-The Value Finally received is: 23
-95 :random_array[random_number], 57 :random_array[temp1], 95 :temp2, 38 :temp1
-The Value Finally received is: 49
-16 :random_array[random_number], 28 :random_array[temp1], 16 :temp2, 39 :temp1
-The Value Finally received is: 95
-24 :random_array[random_number], 69 :random_array[temp1], 24 :temp2, 40 :temp1
-The Value Finally received is: 70
-54 :random_array[random_number], 97 :random_array[temp1], 54 :temp2, 41 :temp1
-The Value Finally received is: 36
-5 :random_array[random_number], 11 :random_array[temp1], 5 :temp2, 42 :temp1
-The Value Finally received is: 9
-18 :random_array[random_number], 0 :random_array[temp1], 18 :temp2, 43 :temp1
-The Value Finally received is: 66
-56 :random_array[random_number], 61 :random_array[temp1], 56 :temp2, 44 :temp1
-The Value Finally received is: 35
-10 :random_array[random_number], 64 :random_array[temp1], 10 :temp2, 45 :temp1
-The Value Finally received is: 39
-16 :random_array[random_number], 62 :random_array[temp1], 16 :temp2, 46 :temp1
-The Value Finally received is: 43
-18 :random_array[random_number], 9 :random_array[temp1], 18 :temp2, 47 :temp1
-The Value Finally received is: 28
-68 :random_array[random_number], 17 :random_array[temp1], 68 :temp2, 48 :temp1
-The Value Finally received is: 23
-57 :random_array[random_number], 28 :random_array[temp1], 57 :temp2, 49 :temp1
-The Value Finally received is: 70
-97 :random_array[random_number], 52 :random_array[temp1], 97 :temp2, 50 :temp1
-The Value Finally received is: 71
-101 :random_array[random_number], 27 :random_array[temp1], 101 :temp2, 51 :temp1
-The Value Finally received is: 37
-33 :random_array[random_number], 96 :random_array[temp1], 33 :temp2, 52 :temp1
-The Value Finally received is: 55
-67 :random_array[random_number], 20 :random_array[temp1], 67 :temp2, 53 :temp1
-The Value Finally received is: 24
-35 :random_array[random_number], 47 :random_array[temp1], 35 :temp2, 54 :temp1
-The Value Finally received is: 67
-103 :random_array[random_number], 20 :random_array[temp1], 103 :temp2, 55 :temp1
-The Value Finally received is: 43
-9 :random_array[random_number], 8 :random_array[temp1], 9 :temp2, 56 :temp1
-The Value Finally received is: 97
-99 :random_array[random_number], 6 :random_array[temp1], 99 :temp2, 57 :temp1
-The Value Finally received is: 61
-25 :random_array[random_number], 4 :random_array[temp1], 25 :temp2, 58 :temp1
-The Value Finally received is: 39
-62 :random_array[random_number], 15 :random_array[temp1], 62 :temp2, 59 :temp1
-The Value Finally received is: 0
-13 :random_array[random_number], 19 :random_array[temp1], 13 :temp2, 60 :temp1
-The Value Finally received is: 62
-31 :random_array[random_number], 4 :random_array[temp1], 31 :temp2, 61 :temp1
-The Value Finally received is: 43
-8 :random_array[random_number], 4 :random_array[temp1], 8 :temp2, 62 :temp1
-The Value Finally received is: 11
-45 :random_array[random_number], 70 :random_array[temp1], 45 :temp2, 63 :temp1
-The Value Finally received is: 59
-62 :random_array[random_number], 39 :random_array[temp1], 62 :temp2, 64 :temp1
-The Value Finally received is: 32
-55 :random_array[random_number], 40 :random_array[temp1], 55 :temp2, 65 :temp1
-The Value Finally received is: 95
-69 :random_array[random_number], 61 :random_array[temp1], 69 :temp2, 66 :temp1
-The Value Finally received is: 73
-12 :random_array[random_number], 20 :random_array[temp1], 12 :temp2, 67 :temp1
-The Value Finally received is: 74
-48 :random_array[random_number], 105 :random_array[temp1], 48 :temp2, 68 :temp1
-The Value Finally received is: 1
-37 :random_array[random_number], 58 :random_array[temp1], 37 :temp2, 69 :temp1
-The Value Finally received is: 2
-98 :random_array[random_number], 52 :random_array[temp1], 98 :temp2, 70 :temp1
-The Value Finally received is: 60
-13 :random_array[random_number], 27 :random_array[temp1], 13 :temp2, 71 :temp1
-The Value Finally received is: 10
-66 :random_array[random_number], 72 :random_array[temp1], 66 :temp2, 72 :temp1
-The Value Finally received is: 41
-54 :random_array[random_number], 20 :random_array[temp1], 54 :temp2, 73 :temp1
-The Value Finally received is: 29
-63 :random_array[random_number], 105 :random_array[temp1], 63 :temp2, 74 :temp1
-The Value Finally received is: 70
-98 :random_array[random_number], 61 :random_array[temp1], 98 :temp2, 95 :temp1
-The Value Finally received is: 96
-53 :random_array[random_number], 53 :random_array[temp1], 53 :temp2, 96 :temp1
-The Value Finally received is: 99
-75 :random_array[random_number], 6 :random_array[temp1], 75 :temp2, 97 :temp1
-The Value Finally received is: 58
-25 :random_array[random_number], 71 :random_array[temp1], 25 :temp2, 98 :temp1
-The Value Finally received is: 62
-8 :random_array[random_number], 6 :random_array[temp1], 8 :temp2, 99 :temp1
-The Value Finally received is: 13
-100 :random_array[random_number], 14 :random_array[temp1], 100 :temp2, 100 :temp1
-The Value Finally received is: 21
-1 :random_array[random_number], 102 :random_array[temp1], 1 :temp2, 101 :temp1
-The Value Finally received is: 43
-4 :random_array[random_number], 2 :random_array[temp1], 4 :temp2, 102 :temp1
-The Value Finally received is: 37
-96 :random_array[random_number], 46 :random_array[temp1], 96 :temp2, 103 :temp1
-The Value Finally received is: 29
-105 :random_array[random_number], 60 :random_array[temp1], 105 :temp2, 104 :temp1
-The Value Finally received is: 19
-34 :random_array[random_number], 43 :random_array[temp1], 34 :temp2, 105 :temp1
-The Value Finally received is: 61
-31 :random_array[random_number], 19 :random_array[temp1], 31 :temp2, 0 :temp1
-The Value Finally received is: 32
-40 :random_array[random_number], 58 :random_array[temp1], 40 :temp2, 1 :temp1
-The Value Finally received is: 28
-17 :random_array[random_number], 52 :random_array[temp1], 17 :temp2, 2 :temp1
-The Value Finally received is: 104
-105 :random_array[random_number], 3 :random_array[temp1], 105 :temp2, 3 :temp1
-The Value Finally received is: 44
-56 :random_array[random_number], 32 :random_array[temp1], 56 :temp2, 4 :temp1
-The Value Finally received is: 30
-65 :random_array[random_number], 22 :random_array[temp1], 65 :temp2, 5 :temp1
-The Value Finally received is: 52
-33 :random_array[random_number], 49 :random_array[temp1], 33 :temp2, 6 :temp1
-The Value Finally received is: 3
-105 :random_array[random_number], 41 :random_array[temp1], 105 :temp2, 7 :temp1
-The Value Finally received is: 104
-3 :random_array[random_number], 23 :random_array[temp1], 3 :temp2, 8 :temp1
-The Value Finally received is: 20
-51 :random_array[random_number], 0 :random_array[temp1], 51 :temp2, 9 :temp1
-The Value Finally received is: 36
-11 :random_array[random_number], 72 :random_array[temp1], 11 :temp2, 10 :temp1
-The Value Finally received is: 32
-58 :random_array[random_number], 70 :random_array[temp1], 58 :temp2, 11 :temp1
-The Value Finally received is: 6
-33 :random_array[random_number], 104 :random_array[temp1], 33 :temp2, 12 :temp1
-The Value Finally received is: 46
-16 :random_array[random_number], 14 :random_array[temp1], 16 :temp2, 13 :temp1
-The Value Finally received is: 0
-31 :random_array[random_number], 73 :random_array[temp1], 31 :temp2, 14 :temp1
-The Value Finally received is: 36
-72 :random_array[random_number], 50 :random_array[temp1], 72 :temp2, 15 :temp1
-The Value Finally received is: 10
-11 :random_array[random_number], 42 :random_array[temp1], 11 :temp2, 16 :temp1
-The Value Finally received is: 22
-29 :random_array[random_number], 7 :random_array[temp1], 29 :temp2, 17 :temp1
-The Value Finally received is: 61
-19 :random_array[random_number], 38 :random_array[temp1], 19 :temp2, 18 :temp1
-The Value Finally received is: 100
-100 :random_array[random_number], 43 :random_array[temp1], 100 :temp2, 19 :temp1
-The Value Finally received is: 10
-42 :random_array[random_number], 0 :random_array[temp1], 42 :temp2, 20 :temp1
-The Value Finally received is: 75
-74 :random_array[random_number], 102 :random_array[temp1], 74 :temp2, 21 :temp1
-The Value Finally received is: 16
-11 :random_array[random_number], 7 :random_array[temp1], 11 :temp2, 22 :temp1
-The Value Finally received is: 53
-67 :random_array[random_number], 28 :random_array[temp1], 67 :temp2, 23 :temp1
-The Value Finally received is: 38
-95 :random_array[random_number], 47 :random_array[temp1], 95 :temp2, 24 :temp1
-The Value Finally received is: 31
-30 :random_array[random_number], 59 :random_array[temp1], 30 :temp2, 25 :temp1
-The Value Finally received is: 65
-55 :random_array[random_number], 21 :random_array[temp1], 55 :temp2, 26 :temp1
-The Value Finally received is: 99
-8 :random_array[random_number], 26 :random_array[temp1], 8 :temp2, 27 :temp1
-The Value Finally received is: 1
-40 :random_array[random_number], 52 :random_array[temp1], 40 :temp2, 28 :temp1
-The Value Finally received is: 10
-0 :random_array[random_number], 60 :random_array[temp1], 0 :temp2, 29 :temp1
-The Value Finally received is: 66
-69 :random_array[random_number], 22 :random_array[temp1], 69 :temp2, 30 :temp1
-The Value Finally received is: 71
-13 :random_array[random_number], 59 :random_array[temp1], 13 :temp2, 31 :temp1
-The Value Finally received is: 36
-50 :random_array[random_number], 70 :random_array[temp1], 50 :temp2, 32 :temp1
-The Value Finally received is: 52
-49 :random_array[random_number], 44 :random_array[temp1], 49 :temp2, 33 :temp1
-The Value Finally received is: 41
-20 :random_array[random_number], 36 :random_array[temp1], 20 :temp2, 34 :temp1
-The Value Finally received is: 14
-31 :random_array[random_number], 64 :random_array[temp1], 31 :temp2, 35 :temp1
-The Value Finally received is: 71
-59 :random_array[random_number], 70 :random_array[temp1], 59 :temp2, 36 :temp1
-The Value Finally received is: 66
-22 :random_array[random_number], 46 :random_array[temp1], 22 :temp2, 37 :temp1
-The Value Finally received is: 17
-29 :random_array[random_number], 47 :random_array[temp1], 29 :temp2, 38 :temp1
-The Value Finally received is: 29
-0 :random_array[random_number], 15 :random_array[temp1], 0 :temp2, 39 :temp1
-The Value Finally received is: 72
-66 :random_array[random_number], 24 :random_array[temp1], 66 :temp2, 40 :temp1
-The Value Finally received is: 95
-98 :random_array[random_number], 36 :random_array[temp1], 98 :temp2, 41 :temp1
-The Value Finally received is: 61
-38 :random_array[random_number], 5 :random_array[temp1], 38 :temp2, 42 :temp1
-The Value Finally received is: 34
-20 :random_array[random_number], 2 :random_array[temp1], 20 :temp2, 43 :temp1
-The Value Finally received is: 32
-50 :random_array[random_number], 32 :random_array[temp1], 50 :temp2, 44 :temp1
-The Value Finally received is: 22
-11 :random_array[random_number], 10 :random_array[temp1], 11 :temp2, 45 :temp1
-The Value Finally received is: 26
-55 :random_array[random_number], 14 :random_array[temp1], 55 :temp2, 46 :temp1
-The Value Finally received is: 97
-75 :random_array[random_number], 18 :random_array[temp1], 75 :temp2, 47 :temp1
-The Value Finally received is: 74
-63 :random_array[random_number], 68 :random_array[temp1], 63 :temp2, 48 :temp1
-The Value Finally received is: 74
-68 :random_array[random_number], 57 :random_array[temp1], 68 :temp2, 49 :temp1
-The Value Finally received is: 61
-5 :random_array[random_number], 97 :random_array[temp1], 5 :temp2, 50 :temp1
-The Value Finally received is: 105
-34 :random_array[random_number], 101 :random_array[temp1], 34 :temp2, 51 :temp1
-The Value Finally received is: 65
-21 :random_array[random_number], 44 :random_array[temp1], 21 :temp2, 52 :temp1
-The Value Finally received is: 33
-49 :random_array[random_number], 28 :random_array[temp1], 49 :temp2, 53 :temp1
-The Value Finally received is: 67
-12 :random_array[random_number], 35 :random_array[temp1], 12 :temp2, 54 :temp1
-The Value Finally received is: 25
-30 :random_array[random_number], 103 :random_array[temp1], 30 :temp2, 55 :temp1
-The Value Finally received is: 41
-98 :random_array[random_number], 9 :random_array[temp1], 98 :temp2, 56 :temp1
-The Value Finally received is: 46
-55 :random_array[random_number], 99 :random_array[temp1], 55 :temp2, 57 :temp1
-The Value Finally received is: 61
-97 :random_array[random_number], 71 :random_array[temp1], 97 :temp2, 58 :temp1
-The Value Finally received is: 19
-100 :random_array[random_number], 39 :random_array[temp1], 100 :temp2, 59 :temp1
-The Value Finally received is: 13
-16 :random_array[random_number], 27 :random_array[temp1], 16 :temp2, 60 :temp1
-The Value Finally received is: 75
-102 :random_array[random_number], 71 :random_array[temp1], 102 :temp2, 61 :temp1
-The Value Finally received is: 1
-52 :random_array[random_number], 6 :random_array[temp1], 52 :temp2, 62 :temp1
-The Value Finally received is: 35
-31 :random_array[random_number], 45 :random_array[temp1], 31 :temp2, 63 :temp1
-The Value Finally received is: 50
-5 :random_array[random_number], 62 :random_array[temp1], 5 :temp2, 64 :temp1
-The Value Finally received is: 39
-0 :random_array[random_number], 44 :random_array[temp1], 0 :temp2, 65 :temp1
-The Value Finally received is: 33
-28 :random_array[random_number], 46 :random_array[temp1], 28 :temp2, 66 :temp1
-The Value Finally received is: 72
-24 :random_array[random_number], 35 :random_array[temp1], 24 :temp2, 67 :temp1
-The Value Finally received is: 101
-1 :random_array[random_number], 48 :random_array[temp1], 1 :temp2, 68 :temp1
-The Value Finally received is: 68
-1 :random_array[random_number], 37 :random_array[temp1], 1 :temp2, 69 :temp1
-73
-The counter value is : 1,6
-The counter value is : 2,17
-The counter value is : 3,41
-The counter value is : 4,56
-The counter value is : 5,65
-The counter value is : 6,104
-The counter value is : 7,
-105
-The counter value is : 8,
-3
-The counter value is : 9,51
-The counter value is : 10,
-60
-The counter value is : 11,58
-The counter value is : 12,33
-The counter value is : 13,27
-The counter value is : 14,
-64
-The counter value is : 15,72
-The counter value is : 16,7
-The counter value is : 17,47
-The counter value is : 18,19
-The counter value is : 19,39
-The counter value is : 20,42
-The counter value is : 21,74
-The counter value is : 22,10
-The counter value is : 23,67
-The counter value is : 24,
-95
-The counter value is : 25,103
-The counter value is : 26,
-14
-The counter value is : 27,8
-The counter value is : 28,
-40
-The counter value is : 29,15
-The counter value is : 30,69
-The counter value is : 31,13
-The counter value is : 32,32
-The counter value is : 33,
-46
-The counter value is : 34,2
-The counter value is : 35,45
-The counter value is : 36,59
-The counter value is : 37,22
-The counter value is : 38,29
-The counter value is : 39,
-44
-The counter value is : 40,
-66
-The counter value is : 41,
-9
-The counter value is : 42,38
-The counter value is : 43,20
-The counter value is : 44,
-50
-The counter value is : 45,11
-The counter value is : 46,
-99
-The counter value is : 47,75
-The counter value is : 48,63
-The counter value is : 49,68
-The counter value is : 50,62
-The counter value is : 51,34
-The counter value is : 52,
-21
-The counter value is : 53,49
-The counter value is : 54,12
-The counter value is : 55,30
-The counter value is : 56,98
-The counter value is : 57,55
-The counter value is : 58,
-97
-The counter value is : 59,100
-The counter value is : 60,
-16
-The counter value is : 61,
-102
-The counter value is : 62,52
-The counter value is : 63,31
-The counter value is : 64,5
-The counter value is : 65,0
-The counter value is : 66,
-28
-The counter value is : 67,24
-The counter value is : 68,37
-The counter value is : 69,1
-The counter value is : 70,61
-The counter value is : 71,
-70
-The counter value is : 72,35
-The counter value is : 73,54
-The counter value is : 74,57
-The counter value is : 75,71
-The counter value is : 76,36
-The counter value is : 96,53
-The counter value is : 97,
-18
-The counter value is : 98,25
-The counter value is : 99,
-26
-The counter value is : 100,
-43
-The counter value is : 101,48
-The counter value is : 102,
-4
-The counter value is : 103,
-96
-The counter value is : 104,23
-The counter value is : 105,
-101
-The counter value is : 106,
-Hi this is Kartikey!! The answer is :
-The final weights are: 19
-7
-1
-2
-4
-10
-2
-2
-5
-6
-1
-1
-3
-2
-6
-6
-2
-1
-5
-5
-7
-2
-1
-2
-1
-2
-1
-The key initialized is : 
- 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
- 73   6  17  41  56  65 104   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
-105   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
-  3  51   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
- 60  58  33  27   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
- 64  72   7  47  19  39  42  74  10  67   0   0   0   0   0   0   0   0   0  = e 10
- 95 103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
- 14   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
- 40  15  69  13  32   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
- 46   2  45  59  22  29   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
- 44   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
- 66   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
-  9  38  20   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
- 50  11   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
- 99  75  63  68  62  34   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
- 21  49  12  30  98  55   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
- 97 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
- 16   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
-102  52  31   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 4
- 28  24  37   1  61   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 5
- 70  35  54  57  71  36  53   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
- 18  25   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
- 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
- 43  48   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
-  4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
- 96  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
-101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The key in Cipher : 
  76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
- 73   6  17  41  56  65 104   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
-105   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
-  3  51   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
- 60  58  33  27   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
- 64  72   7  47  19  39  42  74  10  67   0   0   0   0   0   0   0   0   0  = e 10
- 95 103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
- 14   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
- 40  15  69  13  32   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
- 46   2  45  59  22  29   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
- 44   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
- 66   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
-  9  38  20   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
- 50  11   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
- 99  75  63  68  62  34   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
- 21  49  12  30  98  55   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
- 97 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
- 16   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
-102  52  31   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 4
- 28  24  37   1  61   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 5
- 70  35  54  57  71  36  53   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
- 18  25   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
- 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
- 43  48   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
-  4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
- 96  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
-101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
 pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
-1,55,79,33,47,38,2,8,13,71,103,25,38,89,25,97,79,58,2,24,37,46,50,45,38,41,102,94,105,96,84,25,75,52,72,37,64,0,26,10,58,83,22,57,93,51,30,63,62,10,3,71,59,21,99,76,103,31,39,16,18,42,68,35,38,23,85,27,30,91,65,63,76,13,29,8,32,83,52,55,12,11,86,28,21,83,22,68,89,100,65,45,33,86,18,100,83,98,75,84,51,55,18,61,59,34,89,96,39,86,27,45,63,99,74,52,83,37,15,49,25,38,60,94,2,63,83,37,42,4,88,28,70,21,21,27,84,57,102,2,47,60,86,48,41,9,20,28,84,11,73,75,12,31,77,36,31,18,35,40,93,24,40,96,94,41,99,60,85,36,15,102,19,7,88,32,22,1,83,57,40,47,29,102,91,36,12,83,96,74,104,31,28,79,61,98,91,3,15,45,38,27,77,53,5,25,70,13,82,69,21,99,30,25,31,39,27,82,97,67,3,25,38,2,65,31,92,95,6,11,46,9,46,19,1,92,24,10,34,37,29,105,20,42,91,18,97,85,9,46,66,67,48,29,61,10,85,105,23,90,49,75,93,45,63,88,51,21,11,97,38,46,11,47,68,71,88,2,68,57,47,31,72,37,53,42,58,77,33,22,24,51,31,19,35,22,49,75,87,39,61,57,2,11,41,71,29,75,8,93,12,68,83,1,35,46,11,25,38,6,70,64,27,86,17,97,17,31,35,50,67,34,35,24,77,12,13,87,60,7,6,102,88,1,55,86,28,59,34,14,85,48,40,74,68,83,46,34,86,103,59,63,60,87,5,10,17,58,94,21,95,82,3,41,20,9,89,6,24,87,58,29,28,57,5,18,28,35,28,84,105,19,13,6,26,22,30,25,31,93,65,105,29,20,2,53,2,7,24,89,33,67,95,72,51,70,59,26,72,89,22,24,83,99,64,26,7,0,88,56,53,88,43,104,35,64,5,86,50,74,78,11,22,8,40,35,87,98,34,89,95,49,52,11,74,58,90,11,7,102,45,36,37,77,32,18,63,70,39,27,90,18,63,17,105,20,42,82,50,67,0,39,9,96,93,105,23,88,11,31,92,48,40,67,34,51,47,87,30,5,
-In Decipher : 
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,15,70,24,95,6,33,87,95,66,68,25,44,0,86,75,34,55,37,66,62,93,21,55,18,29,20,66,76,95,104,30,103,46,48,90,29,48,85,95,14,79,45,67,103,8,65,6,86,32,14,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,15,70,24,95,6,33,87,95,66,68,25,44,0,86,75,34,55,37,66,62,93,21,55,18,29,20,66,76,95,104,30,103,46,48,90,29,48,85,95,14,79,45,67,103,8,65,6,86,32,14,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,15,70,24,95,6,33,87,95,66,68,25,44,0,86,75,34,55,37,66,62,93,21,55,18,29,20,66,76,95,104,30,103,46,48,90,29,48,85,95,14,79,45,67,103,8,65,6,86,32,14,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,15,70,24,95,6,33,87,95,66,68,25,44,0,86,75,34,55,37,66,62,93,21,55,18,29,20,66,76,95,104,30,103,46,48,90,29,48,85,95,14,79,45,67,103,8,65,6,86,32,14,The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+19 0,15 57,0 85,4 33,5 103,12 20,9 25,7 56,8 58,20 37,6 15,21 21,12 101,0 94,21 21,16 71,0 83,4 1,9 41,19 54,19 50,9 74,13 95,9 99,12 46,1 22,18 30,0 86,2 29,25 48,0 86,21 34,14 49,18 51,5 4,19 5,5 104,18 30,22 17,5 105,4 62,0 93,9 25,20 98,0 81,3 65,15 57,14 49,14 49,5 6,3 65,20 102,9 41,15 32,14 55,0 92,6 64,18 68,5 53,17 36,21 34,5 72,14 47,20 37,12 20,25 12,0 80,4 1,15 63,0 78,1 69,14 47,0 89,8 58,9 10,7 23,8 67,0 90,18 68,15 70,15 63,13 95,0 80,19 7,15 70,0 85,9 74,14 8,0 80,16 28,1 18,9 10,4 97,0 84,21 21,16 71,0 89,15 70,14 49,0 93,3 59,15 57,21 21,19 7,9 74,14 39,0 88,25 48,5 103,0 89,4 62,9 99,14 49,14 8,5 105,18 14,0 82,19 54,8 75,15 57,21 34,12 101,4 62,0 87,9 25,14 49,0 78,19 50,5 72,24 3,0 84,19 5,20 102,15 63,15 19,4 1,0 82,20 37,18 14,9 16,5 42,4 97,0 89,23 40,1 60,12 46,12 20,19 0,0 89,13 95,1 60,14 49,15 57,18 51,0 85,20 44,18 68,21 21,20 44,8 67,0 87,19 54,8 52,25 12,0 79,1 73,14 49,4 97,0 92,20 11,8 67,18 30,5 4,5 66,0 94,8 35,9 41,19 0,0 80,20 98,8 75,5 104,9 99,18 14,0 85,20 102,15 61,0 85,25 48,5 100,1 60,18 24,19 54,0 93,19 5,15 63,0 85,3 65,8 35,9 16,12 46,4 62,0 94,20 98,18 24,21 34,20 37,8 52,0 92,8 58,15 19,14 39,15 32,21 21,18 68,5 4,4 62,0 78,16 71,5 66,3 59,21 34,12 46,9 41,1 69,18 14,0 85,6 64,1 18,13 96,9 25,12 20,9 99,5 103,19 50,0 84,19 5,5 66,14 2,19 0,9 10,2 29,12 20,5 105,0 85,21 21,16 71,0 89,12 46,9 74,11 38,5 66,23 40,9 16,19 54,5 66,0 80,2 29,25 12,0 94,15 61,14 2,0 78,9 41,14 2,0 94,3 65,15 70,13 96,16 28,12 101,9 25,13 96,5 103,14 47,20 9,0 77,9 99,14 39,20 11,5 6,18 51,5 53,19 5,20 9,5 53,4 1,0 94,4 62,9 99,19 0,3 59,18 51,5 72,20 9,9 10,15 19,14 2,0 91,5 66,19 54,20 9,9 25,13 96,1 18,20 9,9 74,14 49,7 56,0 82,15 19,14 39,0 78,19 7,20 44,9 10,13 96,21 21,12 46,1 73,20 102,5 4,4 1,0 87,1 69,16 71,1 69,18 68,20 37,13 96,5 6,14 8,20 37,19 5,0 92,15 61,8 67,0 89,4 1,5 6,1 69,18 14,0 90,19 50,15 63,0 81,19 0,9 25,14 55,7 23,0 92,23 45,8 58,5 100,14 47,0 77,9 16,14 8,0 79,6 64,9 74,14 39,4 62,0 86,18 30,5 53,1 27,4 62,0 92,15 70,6 15,0 88,3 65,1 22,12 101,12 20,0 94,1 73,19 5,0 94,4 97,9 41,19 7,20 11,18 68,21 34,19 5,20 9,19 5,0 94,2 29,5 42,8 75,1 60,22 17,9 99,15 63,21 21,18 51,0 93,1 18,2 29,9 41,12 46,9 41,20 98,9 25,5 72,19 0,0 84,4 97,5 105,6 15,5 105,3 59,20 98,9 10,22 17,5 53,0 83,9 16,19 7,0 84,14 49,5 103,22 17,5 104,18 51,0 87,1 73,20 102,0 77,23 40,1 43,20 102,5 66,18 68,0 91,13 95,5 104,0 77,13 95,9 74,7 56,8 58,20 11,0 94,15 32,14 2,0 91,6 15,15 70,18 24,13 95,5 6,4 33,0 87,13 95,5 66,18 68,9 25,20 44,19 0,0 86,8 75,21 34,14 55,20 37,5 66,4 62,0 93,21 21,14 55,1 18,2 29,12 20,5 66,0 76,13 95,5 104,18 30,5 103,12 46,25 48,0 90,2 29,25 48,0 85,13 95,18 14,0 79,23 45,8 67,5 103,14 8,3 65,5 6,0 86,15 32,18 14,
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+19 0,15 57,0 85,4 33,5 103,12 20,9 25,7 56,8 58,20 37,6 15,21 21,12 101,0 94,21 21,16 71,0 83,4 1,9 41,19 54,19 50,9 74,13 95,9 99,12 46,1 22,18 30,0 86,2 29,25 48,0 86,21 34,14 49,18 51,5 4,19 5,5 104,18 30,22 17,5 105,4 62,0 93,9 25,20 98,0 81,3 65,15 57,14 49,14 49,5 6,3 65,20 102,9 41,15 32,14 55,0 92,6 64,18 68,5 53,17 36,21 34,5 72,14 47,20 37,12 20,25 12,0 80,4 1,15 63,0 78,1 69,14 47,0 89,8 58,9 10,7 23,8 67,0 90,18 68,15 70,15 63,13 95,0 80,19 7,15 70,0 85,9 74,14 8,0 80,16 28,1 18,9 10,4 97,0 84,21 21,16 71,0 89,15 70,14 49,0 93,3 59,15 57,21 21,19 7,9 74,14 39,0 88,25 48,5 103,0 89,4 62,9 99,14 49,14 8,5 105,18 14,0 82,19 54,8 75,15 57,21 34,12 101,4 62,0 87,9 25,14 49,0 78,19 50,5 72,24 3,0 84,19 5,20 102,15 63,15 19,4 1,0 82,20 37,18 14,9 16,5 42,4 97,0 89,23 40,1 60,12 46,12 20,19 0,0 89,13 95,1 60,14 49,15 57,18 51,0 85,20 44,18 68,21 21,20 44,8 67,0 87,19 54,8 52,25 12,0 79,1 73,14 49,4 97,0 92,20 11,8 67,18 30,5 4,5 66,0 94,8 35,9 41,19 0,0 80,20 98,8 75,5 104,9 99,18 14,0 85,20 102,15 61,0 85,25 48,5 100,1 60,18 24,19 54,0 93,19 5,15 63,0 85,3 65,8 35,9 16,12 46,4 62,0 94,20 98,18 24,21 34,20 37,8 52,0 92,8 58,15 19,14 39,15 32,21 21,18 68,5 4,4 62,0 78,16 71,5 66,3 59,21 34,12 46,9 41,1 69,18 14,0 85,6 64,1 18,13 96,9 25,12 20,9 99,5 103,19 50,0 84,19 5,5 66,14 2,19 0,9 10,2 29,12 20,5 105,0 85,21 21,16 71,0 89,12 46,9 74,11 38,5 66,23 40,9 16,19 54,5 66,0 80,2 29,25 12,0 94,15 61,14 2,0 78,9 41,14 2,0 94,3 65,15 70,13 96,16 28,12 101,9 25,13 96,5 103,14 47,20 9,0 77,9 99,14 39,20 11,5 6,18 51,5 53,19 5,20 9,5 53,4 1,0 94,4 62,9 99,19 0,3 59,18 51,5 72,20 9,9 10,15 19,14 2,0 91,5 66,19 54,20 9,9 25,13 96,1 18,20 9,9 74,14 49,7 56,0 82,15 19,14 39,0 78,19 7,20 44,9 10,13 96,21 21,12 46,1 73,20 102,5 4,4 1,0 87,1 69,16 71,1 69,18 68,20 37,13 96,5 6,14 8,20 37,19 5,0 92,15 61,8 67,0 89,4 1,5 6,1 69,18 14,0 90,19 50,15 63,0 81,19 0,9 25,14 55,7 23,0 92,23 45,8 58,5 100,14 47,0 77,9 16,14 8,0 79,6 64,9 74,14 39,4 62,0 86,18 30,5 53,1 27,4 62,0 92,15 70,6 15,0 88,3 65,1 22,12 101,12 20,0 94,1 73,19 5,0 94,4 97,9 41,19 7,20 11,18 68,21 34,19 5,20 9,19 5,0 94,2 29,5 42,8 75,1 60,22 17,9 99,15 63,21 21,18 51,0 93,1 18,2 29,9 41,12 46,9 41,20 98,9 25,5 72,19 0,0 84,4 97,5 105,6 15,5 105,3 59,20 98,9 10,22 17,5 53,0 83,9 16,19 7,0 84,14 49,5 103,22 17,5 104,18 51,0 87,1 73,20 102,0 77,23 40,1 43,20 102,5 66,18 68,0 91,13 95,5 104,0 77,13 95,9 74,7 56,8 58,20 11,0 94,15 32,14 2,0 91,6 15,15 70,18 24,13 95,5 6,4 33,0 87,13 95,5 66,18 68,9 25,20 44,19 0,0 86,8 75,21 34,14 55,20 37,5 66,4 62,0 93,21 21,14 55,1 18,2 29,12 20,5 66,0 76,13 95,5 104,18 30,5 103,12 46,25 48,0 90,2 29,25 48,0 85,13 95,18 14,0 79,23 45,8 67,5 103,14 8,3 65,5 6,0 86,15 32,18 14,The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,15,70,24,95,6,33,87,95,66,68,25,44,0,86,75,34,55,37,66,62,93,21,55,18,29,20,66,76,95,104,30,103,46,48,90,29,48,85,95,14,79,45,67,103,8,65,6,86,32,14,The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,15,70,24,95,6,33,87,95,66,68,25,44,0,86,75,34,55,37,66,62,93,21,55,18,29,20,66,76,95,104,30,103,46,48,90,29,48,85,95,14,79,45,67,103,8,65,6,86,32,14,masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+wharves locoisms tearjerkers remiss chops duties prolonged inequities minnows itemized thematically scorecard deliverers jokingly semiosis claspers brazenness grateful collarbones stamping bittersweets habilitation endorsers decrepitly tambourine shadowboxes adopting ingenuous disquisitions quietist innovates mingles nationals disparaging exults realtor cockade rubberizing tubercled unremitting sloppiest algin knuckleball disengage domes doltishly encyclics spectroscopically debauched circumsola
+ozonise creosotes disruption neighborly lunier shagging balancing adriatic dick guesstimate storminess jest soberer spun toolbox crochet firebreak parliamentary undismayed lintiest homoeroticism silverfishes cornstalk digest subtler ruck cairns wombat working synapsed diamonding association opalescence crenation bumblebees undetected sandwiching unpeoples polishes schoolwork familarity flaying slued soothers splenification dare hydrology gourami alligators varsity statuettes gainly feeding filme
+autarky sartor terbium synapse herr eugenicists isthmian reembarks spinet dictaphone ecology carinae coeducational carburizing undulated twopenny subscriptions wrigglier scaliness enthrallingly carvers russified rejoice anaconda switzerland sallows devotedly pledgees incongruous miriest nonextraditable extrospection clipping souffle mimicry interrupts reputably reteaches quicksets bankroll hallucinated unzealous invocation winless yacking shinbone tonal vasoconstrictive manioc gourami purling ey
+championships iatrogenic maniacally antonym schoolboy shyly leafhoppers inturned sunbathing overrefined obliterations discus maintain cranked uniters twangled impairer wreakers forewings silesia occupance headroom foresting ornithologists shims lackaday benumbedness gloomy sententious fussing flagrant consonance profligately scutcheons honda swooned headworks zeins intermezzo adaptions elbow ocotillos denim japers thalamic corinthians restraightening kowtowed embarrasses latissimi impoverished s
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,15,70,24,95,6,33,87,95,66,68,25,44,0,86,75,34,55,37,66,62,93,21,55,18,29,20,66,76,95,104,30,103,46,48,90,29,48,85,95,14,79,45,67,103,8,65,6,86,32,14,
+
+masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+
+wharves locoisms tearjerkers remiss chops duties prolonged inequities minnows itemized thematically scorecard deliverers jokingly semiosis claspers brazenness grateful collarbones stamping bittersweets habilitation endorsers decrepitly tambourine shadowboxes adopting ingenuous disquisitions quietist innovates mingles nationals disparaging exults realtor cockade rubberizing tubercled unremitting sloppiest algin knuckleball disengage domes doltishly encyclics spectroscopically debauched circumsola
+
+ozonise creosotes disruption neighborly lunier shagging balancing adriatic dick guesstimate storminess jest soberer spun toolbox crochet firebreak parliamentary undismayed lintiest homoeroticism silverfishes cornstalk digest subtler ruck cairns wombat working synapsed diamonding association opalescence crenation bumblebees undetected sandwiching unpeoples polishes schoolwork familarity flaying slued soothers splenification dare hydrology gourami alligators varsity statuettes gainly feeding filme
+
+autarky sartor terbium synapse herr eugenicists isthmian reembarks spinet dictaphone ecology carinae coeducational carburizing undulated twopenny subscriptions wrigglier scaliness enthrallingly carvers russified rejoice anaconda switzerland sallows devotedly pledgees incongruous miriest nonextraditable extrospection clipping souffle mimicry interrupts reputably reteaches quicksets bankroll hallucinated unzealous invocation winless yacking shinbone tonal vasoconstrictive manioc gourami purling ey
+
+championships iatrogenic maniacally antonym schoolboy shyly leafhoppers inturned sunbathing overrefined obliterations discus maintain cranked uniters twangled impairer wreakers forewings silesia occupance headroom foresting ornithologists shims lackaday benumbedness gloomy sententious fussing flagrant consonance profligately scutcheons honda swooned headworks zeins intermezzo adaptions elbow ocotillos denim japers thalamic corinthians restraightening kowtowed embarrasses latissimi impoverished s
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,15,70,24,95,6,33,87,95,66,68,25,44,0,86,75,34,55,37,66,62,93,21,55,18,29,20,66,76,95,104,30,103,46,48,90,29,48,85,95,14,79,45,67,103,8,65,6,86,32,14,
+
+masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+
+wharves locoisms tearjerkers remiss chops duties prolonged inequities minnows itemized thematically scorecard deliverers jokingly semiosis claspers brazenness grateful collarbones stamping bittersweets habilitation endorsers decrepitly tambourine shadowboxes adopting ingenuous disquisitions quietist innovates mingles nationals disparaging exults realtor cockade rubberizing tubercled unremitting sloppiest algin knuckleball disengage domes doltishly encyclics spectroscopically debauched circumsola
+
+ozonise creosotes disruption neighborly lunier shagging balancing adriatic dick guesstimate storminess jest soberer spun toolbox crochet firebreak parliamentary undismayed lintiest homoeroticism silverfishes cornstalk digest subtler ruck cairns wombat working synapsed diamonding association opalescence crenation bumblebees undetected sandwiching unpeoples polishes schoolwork familarity flaying slued soothers splenification dare hydrology gourami alligators varsity statuettes gainly feeding filme
+
+autarky sartor terbium synapse herr eugenicists isthmian reembarks spinet dictaphone ecology carinae coeducational carburizing undulated twopenny subscriptions wrigglier scaliness enthrallingly carvers russified rejoice anaconda switzerland sallows devotedly pledgees incongruous miriest nonextraditable extrospection clipping souffle mimicry interrupts reputably reteaches quicksets bankroll hallucinated unzealous invocation winless yacking shinbone tonal vasoconstrictive manioc gourami purling ey
+
+championships iatrogenic maniacally antonym schoolboy shyly leafhoppers inturned sunbathing overrefined obliterations discus maintain cranked uniters twangled impairer wreakers forewings silesia occupance headroom foresting ornithologists shims lackaday benumbedness gloomy sententious fussing flagrant consonance profligately scutcheons honda swooned headworks zeins intermezzo adaptions elbow ocotillos denim japers thalamic corinthians restraightening kowtowed embarrasses latissimi impoverished s
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,1The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,1The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,15,70,24,95,6,33,87,95,66,68,25,44,0,86,75,34,55,37,66,62,93,21,55,18,29,20,66,76,95,104,30,103,46,48,90,29,48,85,95,14,79,45,67,103,8,65,6,86,32,14,
+
+masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+
+masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+95,18,5,44,100,51,40,70,14,38,86,5,40,53,28,98,88,54,36,21,73,55,33,66,24,54,77,23,30,57,21,47,97,100,30,7,89,41,33,70,101,27,44,24,10,6,54,89,54,40,27,71,28,4,68,87,71,43,17,100,77,65,24,70,34,71,25,105,68,94,33,14,43,95,43,98,99,0,102,5,83,96,22,56,8,25,64,25,72,97,89,75,12,71,49,57,0,6,50,93,1,103,46,74,17,6,14,48,92,44,43,50,7,103,101,50,88,95,69,24,36,21,99,5,100,89,105,55,44,73,41,20,95,53,55,102,54,77,59,16,68,59,34,41,9,0,87,65,51,22,96,71,19,39,79,47,22,98,16,19,55,73,46,25,5,96,80,39,41,65,9,41,102,60,31,10,70,8,88,27,39,31,74,59,43,28,74,44,27,20,74,0,31,54,86,33,43,8,65,99,39,56,20,48,91,5,61,19,44,52,46,48,82,28,22,9,51,99,73,24,65,75,0,78,23,32,57,97,99,6,88,40,35,41,65,38,66,68,7,78,29,22,56,56,12,85,63,96,47,41,71,61,102,104,55,31,79,0,18,97,41,7,9,84,22,96,105,29,22,81,28,24,57,65,42,7,7,74,57,39,0,80,29,4,23,56,60,14,48,94,51,100,55,60,96,66,84,55,57,47,18,54,7,6,14,102,99,17,42,101,48,90,96,73,59,42,24,69,37,19,14,50,78,101,105,59,31,21,24,104,50,35,99,71,83,54,58,10,71,40,24,99,56,58,44,54,92,5,22,62,33,4,8,76,29,69,59,38,34,71,54,78,14,67,12,96,104,14,84,19,64,15,7,44,43,56,4,84,0,65,58,25,7,37,61,0,72,88,4,29,29,7,77,68,42,7,102,57,51,104,14,83,23,68,73,66,59,10,26,53,5,86,7,21,29,13,57,41,2,99,8,56,77,101,105,73,37,58,100,51,25,8,56,78,54,95,63,59,38,7,89,20,66,21,38,19,65,48,98,42,88,45,60,20,6,97,80,11,42,95,71,103,68,72,68,79,72,95,29,51,63,56,101,25,70,54,76,29,32,20,25,17,60,24,94,14,104,71,99,8,103,5,90,9,42,101,104,31,12,71,wharves locoisms tearjerkers remiss chops duties prolonged inequities minnows itemized thematically scorecard deliverers jokingly semiosis claspers brazenness grateful collarbones stamping bittersweets habilitation endorsers decrepitly tambourine shadowboxes adopting ingenuous disquisitions quietist innovates mingles nationals disparaging exults realtor cockade rubberizing tubercled unremitting sloppiest algin knuckleball disengage domes doltishly encyclics spectroscopically debauched circumsola
+
+ozonise creosotes disruption neighborly lunier shagging balancing adriatic dick guesstimate storminess jest soberer spun toolbox crochet firebreak parliamentary undismayed lintiest homoeroticism silverfishes cornstalk digest subtler ruck cairns wombat working synapsed diamonding association opalescence crenation bumblebees undetected sandwiching unpeoples polishes schoolwork familarity flaying slued soothers splenification dare hydrology gourami alligators varsity statuettes gainly feeding filme
+
+autarky sartor terbium synapse herr eugenicists isthmian reembarks spinet dictaphone ecology carinae coeducational carburizing undulated twopenny subscriptions wrigglier scaliness enthrallingly carvers russified rejoice anaconda switzerland sallows devotedly pledgees incongruous miriest nonextraditable extrospection clipping souffle mimicry interrupts reputably reteaches quicksets bankroll hallucinated unzealous invocation winless yacking shinbone tonal vasoconstrictive manioc gourami purling ey
+
+championships iatrogenic maniacally antonym schoolboy shyly leafhoppers inturned sunbathing overrefined obliterations discus maintain cranked uniters twangled impairer wreakers forewings silesia occupance headroom foresting ornithologists shims lackaday benumbedness gloomy sententious fussing flagrant consonance profligately scutcheons honda swooned headworks zeins intermezzo adaptions elbow ocotillos denim japers thalamic corinthians restraightening kowtowed embarrasses latissimi impoverished s
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,15,70,24,95,6,33,87,95,66,68,25,44,0,86,75,34,55,37,66,62,93,21,55,18,29,20,66,76,95,104,30,103,46,48,90,29,48,85,95,14,79,45,67,103,8,65,6,86,32,14,
+
+masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+
+masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+95,18,5,44,100,51,40,70,14,38,86,5,40,53,28,98,88,54,36,21,73,55,33,66,24,54,77,23,30,57,21,47,97,100,30,7,89,41,33,70,101,27,44,24,10,6,54,89,54,40,27,71,28,4,68,87,71,43,17,100,77,65,24,70,34,71,25,105,68,94,33,14,43,95,43,98,99,0,102,5,83,96,22,56,8,25,64,25,72,97,89,75,12,71,49,57,0,6,50,93,1,103,46,74,17,6,14,48,92,44,43,50,7,103,101,50,88,95,69,24,36,21,99,5,100,89,105,55,44,73,41,20,95,53,55,102,54,77,59,16,68,59,34,41,9,0,87,65,51,22,96,71,19,39,79,47,22,98,16,19,55,73,46,25,5,96,80,39,41,65,9,41,102,60,31,10,70,8,88,27,39,31,74,59,43,28,74,44,27,20,74,0,31,54,86,33,43,8,65,99,39,56,20,48,91,5,61,19,44,52,46,48,82,28,22,9,51,99,73,24,65,75,0,78,23,32,57,97,99,6,88,40,35,41,65,38,66,68,7,78,29,22,56,56,12,85,63,96,47,41,71,61,102,104,55,31,79,0,18,97,41,7,9,84,22,96,105,29,22,81,28,24,57,65,42,7,7,74,57,39,0,80,29,4,23,56,60,14,48,94,51,100,55,60,96,66,84,55,57,47,18,54,7,6,14,102,99,17,42,101,48,90,96,73,59,42,24,69,37,19,14,50,78,101,105,59,31,21,24,104,50,35,99,71,83,54,58,10,71,40,24,99,56,58,44,54,92,5,22,62,33,4,8,76,29,69,59,38,34,71,54,78,14,67,12,96,104,14,84,19,64,15,7,44,43,56,4,84,0,65,58,25,7,37,61,0,72,88,4,29,29,7,77,68,42,7,102,57,51,104,14,83,23,68,73,66,59,10,26,53,5,86,7,21,29,13,57,41,2,99,8,56,77,101,105,73,37,58,100,51,25,8,56,78,54,95,63,59,38,7,89,20,66,21,38,19,65,48,98,42,88,45,60,20,6,97,80,11,42,95,71,103,68,72,68,79,72,95,29,51,63,56,101,25,70,54,76,29,32,20,25,17,60,24,94,14,104,71,99,8,103,5,90,9,42,101,104,31,12,71,wharves locoisms tearjerkers remiss chops duties prolonged inequities minnows itemized thematically scorecard deliverers jokingly semiosis claspers brazenness grateful collarbones stamping bittersweets habilitation endorsers decrepitly tambourine shadowboxes adopting ingenuous disquisitions quietist innovates mingles nationals disparaging exults realtor cockade rubberizing tubercled unremitting sloppiest algin knuckleball disengage domes doltishly encyclics spectroscopically debauched circumsola
+
+ozonise creosotes disruption neighborly lunier shagging balancing adriatic dick guesstimate storminess jest soberer spun toolbox crochet firebreak parliamentary undismayed lintiest homoeroticism silverfishes cornstalk digest subtler ruck cairns wombat working synapsed diamonding association opalescence crenation bumblebees undetected sandwiching unpeoples polishes schoolwork familarity flaying slued soothers splenification dare hydrology gourami alligators varsity statuettes gainly feeding filme
+
+autarky sartor terbium synapse herr eugenicists isthmian reembarks spinet dictaphone ecology carinae coeducational carburizing undulated twopenny subscriptions wrigglier scaliness enthrallingly carvers russified rejoice anaconda switzerland sallows devotedly pledgees incongruous miriest nonextraditable extrospection clipping souffle mimicry interrupts reputably reteaches quicksets bankroll hallucinated unzealous invocation winless yacking shinbone tonal vasoconstrictive manioc gourami purling ey
+
+championships iatrogenic maniacally antonym schoolboy shyly leafhoppers inturned sunbathing overrefined obliterations discus maintain cranked uniters twangled impairer wreakers forewings silesia occupance headroom foresting ornithologists shims lackaday benumbedness gloomy sententious fussing flagrant consonance profligately scutcheons honda swooned headworks zeins intermezzo adaptions elbow ocotillos denim japers thalamic corinthians restraightening kowtowed embarrasses latissimi impoverished s
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = so delightful up dissimilar by unreserved it connection frequently do an high room so in paid up on cousin ye dinner should in sex stood tried walls manor truth shy and three his their to years so child truth honoured peculiar families sensible up likewise by on in compliment interested discretion estimating on stimulated apartments oh dear so sing when in find read of call as distrusts behaviour abilities defective is never at water me might on formed merits hunted unable merely by mr whence or
+0,57,85,33,103,20,25,56,58,37,15,21,101,94,21,71,83,1,41,54,50,74,95,99,46,22,30,86,29,48,86,34,49,51,4,5,104,30,17,105,62,93,25,98,81,65,57,49,49,6,65,102,41,32,55,92,64,68,53,36,34,72,47,37,20,12,80,1,63,78,69,47,89,58,10,23,67,90,68,70,63,95,80,7,70,85,74,8,80,28,18,10,97,84,21,71,89,70,49,93,59,57,21,7,74,39,88,48,103,89,62,99,49,8,105,14,82,54,75,57,34,101,62,87,25,49,78,50,72,3,84,5,102,63,19,1,82,37,14,16,42,97,89,40,60,46,20,0,89,95,60,49,57,51,85,44,68,21,44,67,87,54,52,12,79,73,49,97,92,11,67,30,4,66,94,35,41,0,80,98,75,104,99,14,85,102,61,85,48,100,60,24,54,93,5,63,85,65,35,16,46,62,94,98,24,34,37,52,92,58,19,39,32,21,68,4,62,78,71,66,59,34,46,41,69,14,85,64,18,96,25,20,99,103,50,84,5,66,2,0,10,29,20,105,85,21,71,89,46,74,38,66,40,16,54,66,80,29,12,94,61,2,78,41,2,94,65,70,96,28,101,25,96,103,47,9,77,99,39,11,6,51,53,5,9,53,1,94,62,99,0,59,51,72,9,10,19,2,91,66,54,9,25,96,18,9,74,49,56,82,19,39,78,7,44,10,96,21,46,73,102,4,1,87,69,71,69,68,37,96,6,8,37,5,92,61,67,89,1,6,69,14,90,50,63,81,0,25,55,23,92,45,58,100,47,77,16,8,79,64,74,39,62,86,30,53,27,62,92,70,15,88,65,22,101,20,94,73,5,94,97,41,7,11,68,34,5,9,5,94,29,42,75,60,17,99,63,21,51,93,18,29,41,46,41,98,25,72,0,84,97,105,15,105,59,98,10,17,53,83,16,7,84,49,103,17,104,51,87,73,102,77,40,43,102,66,68,91,95,104,77,95,74,56,58,11,94,32,2,91,15,70,24,95,6,33,87,95,66,68,25,44,0,86,75,34,55,37,66,62,93,21,55,18,29,20,66,76,95,104,30,103,46,48,90,29,48,85,95,14,79,45,67,103,8,65,6,86,32,14,
+
+masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+95,18,5,44,100,51,40,70,14,38,86,5,40,53,28,98,88,54,36,21,73,55,33,66,24,54,77,23,30,57,21,47,97,100,30,7,89,41,33,70,101,27,44,24,10,6,54,89,54,40,27,71,28,4,68,87,71,43,17,100,77,65,24,70,34,71,25,105,68,94,33,14,43,95,43,98,99,0,102,5,83,96,22,56,8,25,64,25,72,97,89,75,12,71,49,57,0,6,50,93,1,103,46,74,17,6,14,48,92,44,43,50,7,103,101,50,88,95,69,24,36,21,99,5,100,89,105,55,44,73,41,20,95,53,55,102,54,77,59,16,68,59,34,41,9,0,87,65,51,22,96,71,19,39,79,47,22,98,16,19,55,73,46,25,5,96,80,39,41,65,9,41,102,60,31,10,70,8,88,27,39,31,74,59,43,28,74,44,27,20,74,0,31,54,86,33,43,8,65,99,39,56,20,48,91,5,61,19,44,52,46,48,82,28,22,9,51,99,73,24,65,75,0,78,23,32,57,97,99,6,88,40,35,41,65,38,66,68,7,78,29,22,56,56,12,85,63,96,47,41,71,61,102,104,55,31,79,0,18,97,41,7,9,84,22,96,105,29,22,81,28,24,57,65,42,7,7,74,57,39,0,80,29,4,23,56,60,14,48,94,51,100,55,60,96,66,84,55,57,47,18,54,7,6,14,102,99,17,42,101,48,90,96,73,59,42,24,69,37,19,14,50,78,101,105,59,31,21,24,104,50,35,99,71,83,54,58,10,71,40,24,99,56,58,44,54,92,5,22,62,33,4,8,76,29,69,59,38,34,71,54,78,14,67,12,96,104,14,84,19,64,15,7,44,43,56,4,84,0,65,58,25,7,37,61,0,72,88,4,29,29,7,77,68,42,7,102,57,51,104,14,83,23,68,73,66,59,10,26,53,5,86,7,21,29,13,57,41,2,99,8,56,77,101,105,73,37,58,100,51,25,8,56,78,54,95,63,59,38,7,89,20,66,21,38,19,65,48,98,42,88,45,60,20,6,97,80,11,42,95,71,103,68,72,68,79,72,95,29,51,63,56,101,25,70,54,76,29,32,20,25,17,60,24,94,14,104,71,99,8,103,5,90,9,42,101,104,31,12,71,
+
+wharves locoisms tearjerkers remiss chops duties prolonged inequities minnows itemized thematically scorecard deliverers jokingly semiosis claspers brazenness grateful collarbones stamping bittersweets habilitation endorsers decrepitly tambourine shadowboxes adopting ingenuous disquisitions quietist innovates mingles nationals disparaging exults realtor cockade rubberizing tubercled unremitting sloppiest algin knuckleball disengage domes doltishly encyclics spectroscopically debauched circumsola
+
+ozonise creosotes disruption neighborly lunier shagging balancing adriatic dick guesstimate storminess jest soberer spun toolbox crochet firebreak parliamentary undismayed lintiest homoeroticism silverfishes cornstalk digest subtler ruck cairns wombat working synapsed diamonding association opalescence crenation bumblebees undetected sandwiching unpeoples polishes schoolwork familarity flaying slued soothers splenification dare hydrology gourami alligators varsity statuettes gainly feeding filme
+
+autarky sartor terbium synapse herr eugenicists isthmian reembarks spinet dictaphone ecology carinae coeducational carburizing undulated twopenny subscriptions wrigglier scaliness enthrallingly carvers russified rejoice anaconda switzerland sallows devotedly pledgees incongruous miriest nonextraditable extrospection clipping souffle mimicry interrupts reputably reteaches quicksets bankroll hallucinated unzealous invocation winless yacking shinbone tonal vasoconstrictive manioc gourami purling ey
+
+championships iatrogenic maniacally antonym schoolboy shyly leafhoppers inturned sunbathing overrefined obliterations discus maintain cranked uniters twangled impairer wreakers forewings silesia occupance headroom foresting ornithologists shims lackaday benumbedness gloomy sententious fussing flagrant consonance profligately scutcheons honda swooned headworks zeins intermezzo adaptions elbow ocotillos denim japers thalamic corinthians restraightening kowtowed embarrasses latissimi impoverished s
+
+
+
+masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp
+96,69,5,37,103,24,45,32,30,38,84,5,40,105,71,11,83,0,36,34,60,8,1,104,51,54,91,23,30,32,34,8,1,104,14,5,92,25,1,63,20,69,11,30,99,103,7,81,54,40,73,28,71,4,51,92,71,27,17,6,84,65,51,61,34,28,16,103,68,78,97,68,22,95,60,44,25,5,11,5,82,95,18,23,47,16,15,74,42,33,94,67,48,28,55,19,5,66,50,93,62,103,20,25,17,105,68,48,91,11,60,50,0,104,46,5,82,96,18,30,36,34,10,5,53,78,105,47,31,27,25,46,95,53,55,37,0,85,65,16,68,59,21,41,44,5,88,65,30,43,96,28,57,49,85,47,18,44,74,63,39,22,101,74,7,95,77,55,16,65,102,74,31,43,9,16,70,47,80,22,49,102,99,65,69,28,25,98,22,46,99,50,31,0,78,1,60,49,59,16,39,56,20,12,81,0,32,61,44,58,101,12,91,71,43,31,30,10,43,51,59,75,54,83,23,63,70,97,99,100,83,45,75,74,65,38,53,51,0,92,29,27,56,23,48,79,70,96,2,74,28,32,11,4,39,44,80,50,60,97,25,0,31,77,22,95,105,29,43,78,71,30,70,65,100,7,7,99,63,49,0,88,29,53,56,23,43,24,48,85,30,100,55,27,95,100,92,2,57,55,43,7,54,4,24,9,74,17,66,20,48,93,95,60,59,100,51,69,102,32,14,5,86,20,103,59,102,21,24,6,0,58,41,28,92,50,67,16,28,40,24,25,56,35,102,0,77,0,22,33,1,105,49,83,29,43,59,38,21,71,0,84,30,58,48,95,103,14,92,70,15,15,50,98,69,56,6,80,5,59,35,41,7,11,63,0,4,90,53,29,29,54,88,14,66,5,98,32,51,66,30,78,56,30,22,42,65,99,26,42,54,85,5,34,29,13,19,16,49,41,2,56,84,101,103,18,102,52,4,30,41,55,56,87,50,96,19,59,38,7,77,20,103,21,38,61,59,48,9,66,83,40,43,46,6,33,87,102,66,96,28,104,30,66,14,94,4,95,29,30,32,56,101,16,63,0,79,29,61,101,16,17,43,68,90,24,100,71,99,2,100,50,89,102,72,46,6,37,48,28,
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = wharves locoisms tearjerkers remiss chops duties prolonged inequities minnows itemized thematically scorecard deliverers jokingly semiosis claspers brazenness grateful collarbones stamping bittersweets habilitation endorsers decrepitly tambourine shadowboxes adopting ingenuous disquisitions quietist innovates mingles nationals disparaging exults realtor cockade rubberizing tubercled unremitting sloppiest algin knuckleball disengage domes doltishly encyclics spectroscopically debauched circumsola
+45,52,18,30,17,66,54,79,46,57,59,63,16,5,95,5,88,37,105,60,24,13,104,51,38,72,24,7,91,14,100,96,16,50,0,88,59,67,61,71,5,82,62,34,31,10,42,0,87,71,30,32,46,19,39,56,100,97,84,10,2,104,36,21,74,102,25,105,54,94,95,74,55,8,61,45,54,83,41,44,4,96,41,26,104,33,76,11,67,66,96,27,44,10,65,60,46,20,12,93,54,65,63,30,6,59,18,68,1,83,1,105,20,99,17,105,14,53,51,50,89,13,63,38,41,8,23,101,48,82,5,42,95,74,19,5,10,7,90,59,46,60,54,71,105,30,5,93,29,30,69,26,100,39,39,100,50,0,93,56,14,73,31,103,64,21,101,88,59,61,101,20,69,24,29,19,47,53,5,80,54,31,22,96,71,99,8,56,85,29,74,102,31,72,68,50,40,105,104,31,7,78,67,18,29,25,101,10,44,69,44,41,32,39,85,103,39,1,57,24,54,4,30,50,93,97,104,59,30,6,28,10,31,20,12,86,11,18,95,29,70,34,30,10,8,104,78,5,52,27,97,61,40,29,19,3,72,0,91,18,62,70,28,9,41,2,23,88,16,47,23,100,8,34,19,34,7,86,1,99,0,36,21,16,50,10,44,74,19,2,7,79,36,34,10,66,98,10,54,44,93,25,47,55,70,17,43,11,42,0,79,95,10,47,56,20,105,50,79,55,22,37,25,61,8,69,101,54,87,1,10,50,28,60,14,60,23,10,47,56,91,103,3,21,46,9,50,92,68,6,22,101,31,70,51,85,59,19,65,38,22,1,53,94,14,21,29,29,6,24,41,26,10,8,56,93,11,34,29,104,30,65,101,100,33,87,34,39,14,103,96,74,31,44,41,55,23,78,7,101,70,71,28,41,105,7,44,86,73,101,23,41,8,91,38,49,34,59,38,46,104,29,73,101,20,77,33,99,50,66,49,23,27,56,42,92,1,70,96,104,5,86,62,70,101,37,99,0,52,20,12,91,4,47,59,48,65,46,16,65,7,94,54,28,42,59,44,30,57,7,65,32,28,25,59,73,46,101,48,93,1,103,29,27,21,65,52,42,33,77,65,10,30,65,21,95,7,61,20,69,
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = ozonise creosotes disruption neighborly lunier shagging balancing adriatic dick guesstimate storminess jest soberer spun toolbox crochet firebreak parliamentary undismayed lintiest homoeroticism silverfishes cornstalk digest subtler ruck cairns wombat working synapsed diamonding association opalescence crenation bumblebees undetected sandwiching unpeoples polishes schoolwork familarity flaying slued soothers splenification dare hydrology gourami alligators varsity statuettes gainly feeding filme
+32,26,70,47,99,7,103,87,59,68,103,70,0,57,11,66,50,94,1,25,7,24,34,28,98,41,61,49,94,39,42,16,23,75,29,70,24,20,48,84,101,34,8,16,53,24,81,50,52,27,56,56,16,2,56,91,29,69,20,18,8,59,16,47,23,94,60,62,68,74,18,11,74,65,94,62,99,65,38,91,23,34,104,54,54,98,10,95,73,37,66,92,5,9,63,51,95,25,49,53,5,50,82,13,66,50,9,82,7,57,29,72,68,100,51,94,0,28,34,39,80,44,63,61,101,29,32,3,94,65,51,19,59,35,72,102,94,15,99,51,105,29,14,66,18,38,90,71,73,30,46,99,43,96,104,47,11,27,51,12,82,21,55,33,10,50,95,18,12,105,1,91,46,16,47,9,41,4,0,102,76,35,32,96,70,105,14,63,37,10,59,10,54,96,77,7,41,20,17,6,14,15,99,50,58,4,50,86,65,19,30,55,50,9,43,46,38,86,1,25,23,105,0,9,90,54,21,29,37,20,100,24,83,68,21,65,38,94,59,73,41,51,8,0,88,45,61,95,29,60,37,94,45,63,30,38,41,47,56,78,5,12,39,22,28,7,66,1,92,62,25,22,96,32,55,1,74,39,23,85,18,0,54,61,65,25,69,37,10,70,2,89,57,71,27,46,6,54,59,66,2,65,104,83,59,30,66,49,69,98,10,61,47,91,29,34,96,29,20,105,29,4,42,5,85,34,2,62,66,98,104,59,9,53,97,84,54,27,55,33,45,25,65,67,99,2,56,80,34,39,28,72,57,28,46,42,50,77,28,32,46,41,5,67,4,7,88,5,59,35,57,57,20,45,70,30,38,82,15,18,96,16,20,73,68,25,31,48,93,64,46,22,12,16,47,23,77,50,20,34,4,62,76,54,70,32,11,52,4,14,0,83,54,28,46,42,2,74,64,25,65,43,37,74,19,49,89,62,73,24,100,81,67,12,97,51,70,46,63,23,48,89,23,32,21,14,22,95,10,92,43,20,46,25,56,43,102,61,51,5,94,17,69,30,50,16,37,12,84,7,102,60,31,21,4,44,37,105,50,92,56,43,99,2,101,48,79,15,104,100,33,25,39,56,90,64,16,46,95,104,
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = autarky sartor terbium synapse herr eugenicists isthmian reembarks spinet dictaphone ecology carinae coeducational carburizing undulated twopenny subscriptions wrigglier scaliness enthrallingly carvers russified rejoice anaconda switzerland sallows devotedly pledgees incongruous miriest nonextraditable extrospection clipping souffle mimicry interrupts reputably reteaches quicksets bankroll hallucinated unzealous invocation winless yacking shinbone tonal vasoconstrictive manioc gourami purling ey
+73,34,98,69,51,38,48,85,7,27,68,31,19,14,80,98,103,14,29,74,21,96,81,7,48,8,69,71,0,72,91,52,100,14,14,84,100,21,56,42,55,25,59,10,5,98,5,84,74,50,98,75,96,41,60,55,92,30,4,105,96,29,18,30,38,0,80,5,28,25,8,6,9,92,97,41,65,11,27,28,52,63,2,4,85,105,65,70,101,32,56,48,81,65,27,14,25,55,27,100,94,65,57,53,97,21,59,43,11,99,32,55,69,46,86,59,43,14,29,21,68,99,26,74,49,56,89,21,55,33,21,101,69,37,100,62,81,102,40,70,71,104,47,2,48,81,7,21,29,54,59,51,16,71,98,99,57,55,54,87,40,51,16,56,23,46,41,104,24,93,7,65,73,20,74,39,104,50,7,79,105,47,98,75,30,27,46,20,16,2,23,101,12,90,65,27,30,17,6,68,54,85,24,21,50,50,10,64,99,105,33,80,30,72,13,61,10,59,66,89,27,55,60,65,57,8,33,27,93,0,40,25,37,26,104,68,101,73,39,1,76,50,73,46,20,57,40,7,92,97,42,17,32,31,103,97,101,48,83,71,20,53,62,56,103,104,50,84,16,39,65,57,2,56,51,21,61,34,50,84,95,99,24,16,6,54,102,77,2,19,39,6,3,31,51,69,62,16,98,43,29,46,100,92,105,3,98,51,61,7,28,6,59,102,41,32,39,89,59,46,25,28,71,16,39,23,90,0,70,34,15,15,46,4,76,96,74,96,41,65,68,48,94,99,39,44,100,30,51,34,28,98,7,77,14,100,28,34,102,27,29,20,12,78,30,72,9,100,22,65,67,104,54,90,36,34,25,65,38,7,6,37,0,87,29,27,2,38,24,57,20,101,84,58,73,101,20,21,59,10,55,43,31,6,62,80,34,49,26,53,69,101,57,34,5,77,16,47,17,19,65,27,44,10,32,49,82,45,25,2,46,103,7,54,76,48,27,65,38,74,55,23,77,0,58,99,39,29,70,39,72,92,9,63,8,22,101,83,17,18,54,19,65,57,49,50,102,24,99,65,37,99,17,103,86,95,43,39,99,57,65,94,56,19,34,24,27,96,41,79,28,21,68,20,16,47,23,81,104,12,
+
+The key in Cipher : 
+ 76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  = ` 19
+ 18  43  69  60  27  22  73   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 59  65   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 97  33  62   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+ 66  53  42 105   6 104   4  72 100 103   0   0   0   0   0   0   0   0   0  = e 10
+ 64  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 56  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 52  75  67  35  58   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+ 16  74  10  99  41  25   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 38   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+ 46  20 101   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 96  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+  2   8  55  39  47  49   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 32  57  19  63  70  61   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 71  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 2
+ 36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 51  14  68  24  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+  7   5  54  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 4
+  9  31 102  44  37  98  11   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 21  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+ 40  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+  3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 48  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+pt = championships iatrogenic maniacally antonym schoolboy shyly leafhoppers inturned sunbathing overrefined obliterations discus maintain cranked uniters twangled impairer wreakers forewings silesia occupance headroom foresting ornithologists shims lackaday benumbedness gloomy sententious fussing flagrant consonance profligately scutcheons honda swooned headworks zeins intermezzo adaptions elbow ocotillos denim japers thalamic corinthians restraightening kowtowed embarrasses latissimi impoverished s
+65,35,22,96,71,74,32,39,5,52,99,28,54,85,16,27,102,68,61,23,53,2,10,65,92,96,27,2,99,22,65,69,46,20,12,88,60,49,102,57,49,48,96,82,7,65,52,57,32,101,29,70,48,80,50,58,12,20,12,79,46,100,22,15,35,63,71,28,42,51,5,82,16,2,37,21,51,49,66,1,89,0,21,8,29,22,31,58,74,55,56,90,57,17,104,24,24,72,64,99,49,53,1,84,63,29,101,74,37,103,51,43,37,41,61,39,5,86,97,10,7,59,21,50,91,95,27,25,8,11,18,25,2,87,59,30,69,2,38,6,62,76,34,2,41,102,100,68,54,81,37,45,43,55,23,20,66,97,86,74,95,28,27,10,68,4,51,87,40,51,104,69,38,103,30,54,93,64,32,68,42,45,41,47,23,50,79,5,25,46,6,54,10,69,76,19,59,65,21,28,73,2,59,100,87,35,103,60,97,30,63,32,95,90,64,61,24,6,0,98,16,2,23,92,70,68,8,41,11,35,61,46,57,56,74,5,98,5,78,54,67,74,95,5,88,46,18,65,38,22,33,43,48,80,29,42,8,34,96,29,100,33,55,100,5,50,83,56,46,70,57,96,48,80,54,42,2,9,105,55,9,10,61,34,0,83,64,21,7,7,41,8,23,93,15,46,43,56,24,18,2,37,78,59,57,39,0,19,2,73,2,65,105,85,71,51,70,64,20,74,23,73,102,42,20,48,93,50,65,34,31,65,35,6,57,2,0,83,35,57,47,33,69,92,5,45,57,70,49,4,33,77,58,100,60,1,40,61,68,38,50,90,26,72,10,47,54,79,74,8,44,4,68,96,100,26,26,70,80,69,1,73,71,31,25,70,55,54,85,66,20,29,19,40,85,57,65,19,37,74,20,20,63,7,93,62,42,8,25,96,90,13,60,28,6,30,5,88,98,35,18,46,22,95,41,59,84,65,32,30,10,8,31,52,10,60,2,0,94,30,6,7,31,30,27,10,56,75,37,103,49,10,47,56,82,38,19,40,9,57,40,42,97,77,103,95,29,43,24,68,27,0,5,72,54,88,101,22,9,25,54,5,41,95,99,92,99,95,71,61,17,42,68,10,7,52,103,1,89,0,
+
+
+
+wharves locoisms tearjerkers remiss chops duties prolonged inequities minnows itemized thematically scorecard deliverers jokingly semiosis claspers brazenness grateful collarbones stamping bittersweets habilitation endorsers decrepitly tambourine shadowboxes adopting ingenuous disquisitions quietist innovates mingles nationals disparaging exults realtor cockade rubberizing tubercled unremitting sloppiest algin knuckleball disengage domes doltishly encyclics spectroscopically debauched circumsola
+
+ozonise creosotes disruption neighborly lunier shagging balancing adriatic dick guesstimate storminess jest soberer spun toolbox crochet firebreak parliamentary undismayed lintiest homoeroticism silverfishes cornstalk digest subtler ruck cairns wombat working synapsed diamonding association opalescence crenation bumblebees undetected sandwiching unpeoples polishes schoolwork familarity flaying slued soothers splenification dare hydrology gourami alligators varsity statuettes gainly feeding filme
+
+autarky sartor terbium synapse herr eugenicists isthmian reembarks spinet dictaphone ecology carinae coeducational carburizing undulated twopenny subscriptions wrigglier scaliness enthrallingly carvers russified rejoice anaconda switzerland sallows devotedly pledgees incongruous miriest nonextraditable extrospection clipping souffle mimicry interrupts reputably reteaches quicksets bankroll hallucinated unzealous invocation winless yacking shinbone tonal vasoconstrictive manioc gourami purling ey
+
+championships iatrogenic maniacally antonym schoolboy shyly leafhoppers inturned sunbathing overrefined obliterations discus maintain cranked uniters twangled impairer wreakers forewings silesia occupance headroom foresting ornithologists shims lackaday benumbedness gloomy sententious fussing flagrant consonance profligately scutcheons honda swooned headworks zeins intermezzo adaptions elbow ocotillos denim japers thalamic corinthians restraightening kowtowed embarrasses latissimi impoverished s
+
