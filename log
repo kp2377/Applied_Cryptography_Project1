@@ -1,8 +1,442 @@
 
 
 
+the counter_values are: 53 37 9 17 12 51 3 14 10 38 1 5 16 15 25 27 17 2 37 48 33 9 4 6 0 10 1 
 
+After removing duplicates:
 
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+16,16,17,17,17,17,17,17,23,23,29,29,29,33,33,33,33,34,40,40,46,52,52,52,52,52,54,54,54,58,58,58,58,58,64,64,64,71,71,71,76,76,81,81,83,83,83,91,91,91,101,101,101,
+5,5,5,5,5,5,5,5,5,5,11,11,11,11,18,18,18,18,38,38,38,38,38,38,38,41,41,43,43,43,43,80,80,80,80,80,80,
+28,28,28,28,28,28,28,28,28,
+19,19,19,19,19,19,19,19,19,19,19,19,19,24,24,24,24,
+21,21,21,21,21,82,82,82,82,100,100,103,
+
+63,97,97,
+61,61,61,61,61,61,93,93,93,93,93,93,93,93,
+6,8,8,8,8,39,56,99,99,99,
+9,9,9,9,9,9,9,9,9,14,55,55,55,55,55,55,55,55,55,55,55,55,67,67,67,67,67,67,67,73,73,73,73,73,73,95,95,95,
+1,
+2,2,2,2,2,
+27,27,27,27,27,27,27,27,27,53,53,53,53,77,77,77,7,7,7,7,7,7,7,7,26,26,26,26,26,26,26,
+7,7,7,7,7,7,7,7,26,26,26,26,26,26,26,
+10,10,10,25,25,25,25,51,51,51,51,62,62,65,65,65,65,65,65,66,66,66,66,66,66,
+30,30,30,30,30,30,44,44,84,84,84,84,90,90,90,90,90,94,94,94,94,94,94,96,96,96,96,
+36,36,36,36,36,36,68,68,68,68,68,68,68,68,68,68,68,
+88,88,
+3,3,3,3,3,3,3,3,15,15,15,15,15,15,15,45,45,45,45,45,45,47,47,47,47,47,47,47,47,47,102,102,102,102,102,102,102,
+32,32,32,32,32,32,32,32,70,70,70,70,70,70,70,72,72,72,72,72,72,72,72,72,72,86,86,86,86,86,86,86,86,86,86,86,98,98,98,98,98,98,98,98,98,98,98,98,13,13,13,13,20,20,20,22,22,22,22,22,22,42,42,42,42,42,42,74,78,78,78,78,78,78,78,78,78,92,92,92,92,
+13,13,13,13,20,20,20,22,22,22,22,22,22,42,42,42,42,42,42,74,78,78,78,78,78,78,78,78,78,92,92,92,92,
+4,4,37,37,37,37,37,37,37,
+59,59,59,59,85,85,85,89,89,89,
+85,85,85,89,89,89,
+
+48,48,48,48,48,48,48,48,69,69,
+75,
+The values are: 16,17,23,29,33,34,40,46,52,54,58,64,71,76,81,83,91,101,The index value are: 18All Fine Here!
+5,11,18,38,41,43,80,The index value are: 7All Fine Here!
+28,The index value are: 1All Fine Here!
+19,24,The index value are: 2All Fine Here!
+21,82,100,103,The index value are: 4All Fine Here!
+The index value are: 0All Fine Here!
+63,97,The index value are: 2All Fine Here!
+61,93,The index value are: 2All Fine Here!
+6,8,39,56,99,The index value are: 5All Fine Here!
+9,14,55,67,73,95,The index value are: 6All Fine Here!
+1,The index value are: 1All Fine Here!
+2,The index value are: 1All Fine Here!
+27,53,77,The index value are: 3All Fine Here!
+7,26,The index value are: 2All Fine Here!
+10,25,51,62,65,66,The index value are: 6All Fine Here!
+30,44,84,90,94,96,The index value are: 6All Fine Here!
+36,68,The index value are: 2All Fine Here!
+88,The index value are: 1All Fine Here!
+3,15,45,47,102,The index value are: 5All Fine Here!
+32,70,72,86,98,The index value are: 5All Fine Here!
+13,20,22,42,74,78,92,The index value are: 7All Fine Here!
+4,37,The index value are: 2All Fine Here!
+59,The index value are: 1All Fine Here!
+85,89,The index value are: 2All Fine Here!
+The index value are: 0All Fine Here!
+48,69,The index value are: 2All Fine Here!
+75,The index value are: 1All Fine Here!
+the counter_values are: 49 28 11 21 18 51 1 14 7 45 2 5 28 12 29 29 11 3 28 46 29 15 3 4 2 6 3 
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+3,6,8,9,9,10,14,15,19,20,23,23,24,24,27,29,30,30,35,36,37,41,42,43,47,51,52,53,54,54,57,59,61,62,68,70,71,76,77,79,82,84,85,95,95,97,98,99,105,
+4,8,11,12,20,25,28,28,34,36,37,45,50,52,52,53,53,54,70,73,74,77,79,84,84,84,92,104,6,9,38,41,41,51,63,67,72,94,101,
+6,9,38,41,41,51,63,67,72,94,101,
+13,14,14,21,28,35,36,45,48,48,67,70,70,74,84,93,93,98,98,102,104,
+5,13,14,16,28,45,54,61,61,66,70,72,72,74,92,93,94,104,
+
+14,
+16,21,28,30,34,44,48,49,54,69,72,86,95,96,
+28,73,73,75,77,80,101,
+
+3,78,
+30,42,53,63,94,
+3,4,7,9,16,19,22,26,26,37,37,44,45,45,50,50,53,66,67,72,73,81,87,90,95,95,103,105,4,7,9,13,19,24,35,43,44,77,94,97,
+4,7,9,13,19,24,35,43,44,77,94,97,
+
+10,14,18,19,21,27,32,33,40,42,44,45,45,46,48,50,51,53,58,61,67,68,69,71,79,90,94,98,105,
+
+44,70,95,
+1,2,3,4,7,10,13,32,33,37,39,50,51,55,58,61,65,66,68,69,73,77,81,83,84,86,86,103,5,7,13,14,24,24,24,25,25,26,28,28,29,32,39,41,43,43,44,45,45,45,48,50,53,54,55,60,61,61,62,62,67,74,77,78,79,86,86,86,86,90,92,97,102,103,
+5,7,13,14,24,24,24,25,25,26,28,28,29,32,39,41,43,43,44,45,45,45,48,50,53,54,55,60,61,61,62,62,67,74,77,78,79,86,86,86,86,90,92,97,102,103,
+2,2,5,7,8,9,10,13,15,18,22,24,25,40,45,48,49,57,57,66,67,72,76,83,86,91,96,105,105,
+10,22,36,39,47,53,62,67,70,83,96,98,98,100,101,
+3,47,95,
+30,85,95,103,2,24,
+2,24,
+4,41,65,80,91,98,
+32,90,95,
+The values are: 3,6,8,9,10,14,15,19,20,23,24,27,29,30,35,36,37,41,42,43,47,51,52,53,54,57,59,61,62,68,70,71,76,77,79,82,84,85,95,97,98,99,105,The index value are: 43Something Wrong Here
+4,8,11,12,20,25,28,34,36,37,45,50,52,53,54,70,73,74,77,79,84,92,104,The index value are: 23Something Wrong Here
+6,9,38,41,51,63,67,72,94,101,The index value are: 10Something Wrong Here
+13,14,21,28,35,36,45,48,67,70,74,84,93,98,102,104,The index value are: 16Something Wrong Here
+5,13,14,16,28,45,54,61,66,70,72,74,92,93,94,104,The index value are: 16Something Wrong Here
+The index value are: 0All Fine Here!
+14,The index value are: 1All Fine Here!
+16,21,28,30,34,44,48,49,54,69,72,86,95,96,The index value are: 14Something Wrong Here
+28,73,75,77,80,101,The index value are: 6Something Wrong Here
+The index value are: 0All Fine Here!
+3,78,The index value are: 2Something Wrong Here
+30,42,53,63,94,The index value are: 5Something Wrong Here
+3,4,7,9,16,19,22,26,37,44,45,50,53,66,67,72,73,81,87,90,95,103,105,The index value are: 23Something Wrong Here
+4,7,9,13,19,24,35,43,44,77,94,97,The index value are: 12Something Wrong Here
+The index value are: 0All Fine Here!
+10,14,18,19,21,27,32,33,40,42,44,45,46,48,50,51,53,58,61,67,68,69,71,79,90,94,98,105,The index value are: 28Something Wrong Here
+The index value are: 0All Fine Here!
+44,70,95,The index value are: 3Something Wrong Here
+1,2,3,4,7,10,13,32,33,37,39,50,51,55,58,61,65,66,68,69,73,77,81,83,84,86,103,The index value are: 27Something Wrong Here
+5,7,13,14,24,25,26,28,29,32,39,41,43,44,45,48,50,53,54,55,60,61,62,67,74,77,78,79,86,90,92,97,102,103,The index value are: 34Something Wrong Here
+2,5,7,8,9,10,13,15,18,22,24,25,40,45,48,49,57,66,67,72,76,83,86,91,96,105,The index value are: 26Something Wrong Here
+10,22,36,39,47,53,62,67,70,83,96,98,100,101,The index value are: 14Something Wrong Here
+3,47,95,The index value are: 3Something Wrong Here
+30,85,95,103,2,24,The index value are: 6Something Wrong Here
+2,24,The index value are: 2Something Wrong Here
+4,41,65,80,91,98,The index value are: 6Something Wrong Here
+32,90,95,The index value are: 3Something Wrong Here
+the counter_values are: 53 32 10 18 16 45 7 16 10 44 1 6 23 12 31 35 9 0 29 42 30 13 2 4 1 10 1 
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+4,6,9,10,11,11,12,14,21,22,23,23,23,27,28,32,32,33,36,37,38,38,40,42,47,47,47,47,48,52,53,55,61,62,65,66,68,71,71,72,78,79,82,84,84,90,90,92,93,93,95,95,96,
+6,7,12,13,14,18,21,28,28,28,32,36,42,48,49,55,55,57,57,67,67,69,70,70,72,73,79,79,83,94,101,104,6,10,18,18,24,35,61,72,72,103,
+6,10,18,18,24,35,61,72,72,103,
+7,10,20,26,32,50,60,64,67,67,72,77,79,81,86,87,94,105,
+4,9,19,25,27,30,31,34,47,49,61,68,79,86,89,105,9,11,11,13,16,18,19,19,23,26,27,29,30,31,35,35,36,36,43,44,50,51,51,53,53,61,65,66,66,67,67,70,70,73,73,74,81,92,92,92,95,96,100,102,104,
+9,11,11,13,16,18,19,19,23,26,27,29,30,31,35,35,36,36,43,44,50,51,51,53,53,61,65,66,66,67,67,70,70,73,73,74,81,92,92,92,95,96,100,102,104,
+2,26,28,32,35,101,105,
+9,12,14,19,23,24,25,49,66,82,82,84,86,86,102,103,16,17,18,28,37,45,55,78,86,91,
+16,17,18,28,37,45,55,78,86,91,
+4,7,13,19,19,19,20,27,27,28,28,29,29,31,32,33,38,39,44,47,51,51,53,53,56,59,60,61,63,65,67,70,73,75,77,79,79,86,88,89,90,101,102,103,47,
+47,
+9,15,65,78,87,92,
+2,3,7,30,32,33,33,35,37,38,39,41,44,49,60,73,77,79,80,95,98,104,105,
+7,10,12,25,27,27,27,47,49,78,98,98,
+
+2,2,4,5,11,12,13,14,16,24,26,26,27,27,28,30,41,57,60,62,68,72,73,75,88,89,90,90,93,93,93,98,100,101,102,
+3,4,9,24,43,52,54,57,90,
+
+1,4,15,19,24,31,36,38,40,54,55,59,59,62,64,67,67,72,72,74,77,77,77,92,96,96,98,98,100,
+
+1,2,5,7,10,14,19,20,21,21,24,36,37,38,41,68,70,72,73,73,74,77,79,83,83,86,96,98,102,103,
+11,15,17,26,27,41,45,55,69,77,77,104,105,
+64,79,
+10,49,54,85,27,
+27,
+19,20,24,25,45,61,70,84,90,93,
+8,
+The values are: 4,6,9,10,11,12,14,21,22,23,27,28,32,33,36,37,38,40,42,47,48,52,53,55,61,62,65,66,68,71,72,78,79,82,84,90,92,93,95,96,The index value are: 40Something Wrong Here
+6,7,12,13,14,18,21,28,32,36,42,48,49,55,57,67,69,70,72,73,79,83,94,101,104,The index value are: 25Something Wrong Here
+6,10,18,24,35,61,72,103,The index value are: 8Something Wrong Here
+7,10,20,26,32,50,60,64,67,72,77,79,81,86,87,94,105,The index value are: 17Something Wrong Here
+4,9,19,25,27,30,31,34,47,49,61,68,79,86,89,105,9,11,13,16,18,19,23,26,27,29,30,31,35,36,43,44,50,51,53,61,65,66,67,70,73,74,81,92,95,96,100,102,104,The index value are: 49Something Wrong Here
+9,11,13,16,18,19,23,26,27,29,30,31,35,36,43,44,50,51,53,61,65,66,67,70,73,74,81,92,95,96,100,102,104,The index value are: 33Something Wrong Here
+2,26,28,32,35,101,105,The index value are: 7Something Wrong Here
+9,12,14,19,23,24,25,49,66,82,84,86,102,103,The index value are: 14Something Wrong Here
+16,17,18,28,37,45,55,78,86,91,The index value are: 10Something Wrong Here
+4,7,13,19,20,27,28,29,31,32,33,38,39,44,47,51,53,56,59,60,61,63,65,67,70,73,75,77,79,86,88,89,90,101,102,103,The index value are: 36Something Wrong Here
+47,The index value are: 1All Fine Here!
+9,15,65,78,87,92,The index value are: 6Something Wrong Here
+2,3,7,30,32,33,35,37,38,39,41,44,49,60,73,77,79,80,95,98,104,105,The index value are: 22Something Wrong Here
+7,10,12,25,27,47,49,78,98,The index value are: 9Something Wrong Here
+The index value are: 0All Fine Here!
+2,4,5,11,12,13,14,16,24,26,27,28,30,41,57,60,62,68,72,73,75,88,89,90,93,98,100,101,102,The index value are: 29Something Wrong Here
+3,4,9,24,43,52,54,57,90,The index value are: 9Something Wrong Here
+The index value are: 0All Fine Here!
+1,4,15,19,24,31,36,38,40,54,55,59,62,64,67,72,74,77,92,96,98,100,The index value are: 22Something Wrong Here
+The index value are: 0All Fine Here!
+1,2,5,7,10,14,19,20,21,24,36,37,38,41,68,70,72,73,74,77,79,83,86,96,98,102,103,The index value are: 27Something Wrong Here
+11,15,17,26,27,41,45,55,69,77,104,105,The index value are: 12Something Wrong Here
+64,79,The index value are: 2Something Wrong Here
+10,49,54,85,27,The index value are: 5Something Wrong Here
+27,The index value are: 1All Fine Here!
+19,20,24,25,45,61,70,84,90,93,The index value are: 10Something Wrong Here
+8,The index value are: 1All Fine Here!
+the counter_values are: 51 35 8 24 12 45 3 12 7 43 1 5 25 8 38 28 12 1 33 35 29 20 5 5 2 10 3 
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+
+After removing duplicates:
+16,16,17,17,17,23,23,23,29,29,33,33,33,33,34,34,40,40,40,46,46,52,54,54,54,54,58,60,64,64,64,64,64,71,71,71,71,76,76,76,81,81,83,83,91,91,91,91,91,101,101,
+5,5,5,5,5,5,5,5,11,11,11,11,11,11,18,18,18,18,18,18,18,18,38,38,38,38,41,41,41,41,41,41,43,43,80,
+28,28,28,28,28,28,28,28,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,24,24,24,24,24,24,21,21,21,21,82,82,82,100,100,103,103,103,
+19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,24,24,24,24,24,24,21,21,21,21,82,82,82,100,100,103,103,103,
+21,21,21,21,82,82,82,100,100,103,103,103,
+
+63,63,97,
+61,61,61,61,61,61,61,61,61,93,93,93,6,8,39,39,56,99,99,
+6,8,39,39,56,99,99,
+9,9,9,9,9,9,14,14,14,14,14,14,14,14,55,55,55,67,67,67,67,67,67,67,67,73,73,73,73,73,73,73,73,73,73,95,95,95,95,95,95,95,95,
+1,
+2,2,2,2,2,
+27,27,27,27,27,27,53,53,53,53,53,53,53,53,53,53,77,77,77,77,77,77,77,77,77,
+7,7,7,7,7,26,26,26,10,10,10,10,10,10,10,25,25,25,25,25,25,51,51,51,51,51,51,51,51,51,62,62,62,62,62,65,65,65,65,65,65,65,65,66,66,66,
+10,10,10,10,10,10,10,25,25,25,25,25,25,51,51,51,51,51,51,51,51,51,62,62,62,62,62,65,65,65,65,65,65,65,65,66,66,66,
+30,30,44,44,44,44,44,44,44,44,44,84,84,84,84,90,94,94,94,94,94,94,94,94,96,96,96,96,36,36,36,36,36,68,68,68,68,68,68,68,88,
+36,36,36,36,36,68,68,68,68,68,68,68,88,
+88,
+3,3,3,3,3,3,3,15,15,15,15,15,15,15,15,45,45,45,45,45,45,45,47,47,47,47,47,47,47,102,102,102,102,
+32,32,32,32,32,32,70,70,70,70,70,70,70,70,70,72,72,72,72,72,72,72,72,86,86,86,86,86,86,86,86,98,98,98,98,
+13,13,20,20,20,20,20,22,22,22,22,42,42,42,42,42,42,42,74,74,74,74,74,78,78,92,92,92,92,
+4,4,4,4,4,4,4,4,4,37,37,37,37,37,37,37,37,37,37,37,59,59,59,59,59,
+59,59,59,59,59,
+85,89,89,89,89,
+87,87,
+48,48,48,48,48,48,48,69,69,69,
+75,75,75,
+The values are: 16,17,23,29,33,34,40,46,52,54,58,60,64,71,76,81,83,91,101,The index value are: 19All Fine Here!
+5,11,18,38,41,43,80,The index value are: 7All Fine Here!
+28,The index value are: 1All Fine Here!
+19,24,The index value are: 2All Fine Here!
+21,82,100,103,The index value are: 4All Fine Here!
+The index value are: 0All Fine Here!
+63,97,The index value are: 2All Fine Here!
+61,93,The index value are: 2All Fine Here!
+6,8,39,56,99,The index value are: 5All Fine Here!
+9,14,55,67,73,95,The index value are: 6All Fine Here!
+1,The index value are: 1All Fine Here!
+2,The index value are: 1All Fine Here!
+27,53,77,The index value are: 3All Fine Here!
+7,26,The index value are: 2All Fine Here!
+10,25,51,62,65,66,The index value are: 6All Fine Here!
+30,44,84,90,94,96,The index value are: 6All Fine Here!
+36,68,The index value are: 2All Fine Here!
+88,The index value are: 1All Fine Here!
+3,15,45,47,102,The index value are: 5All Fine Here!
+32,70,72,86,98,The index value are: 5All Fine Here!
+13,20,22,42,74,78,92,The index value are: 7All Fine Here!
+4,37,The index value are: 2All Fine Here!
+59,The index value are: 1All Fine Here!
+85,89,The index value are: 2All Fine Here!
+87,The index value are: 1All Fine Here!
+48,69,The index value are: 2All Fine Here!
+75,The index value are: 1All Fine Here!
 the counter_values are: 51 37 7 17 15 42 7 12 16 41 1 5 19 15 40 39 10 0 27 43 26 9 2 8 0 8 3 
 
 After removing duplicates:
@@ -58,57 +492,57 @@ After removing duplicates:
 After removing duplicates:
 
 After removing duplicates:
+16,16,16,16,17,23,23,29,29,29,29,29,29,34,34,34,40,40,46,46,46,46,46,52,52,52,54,54,54,58,58,58,60,60,64,71,76,76,76,81,81,81,81,81,83,83,91,91,101,101,101,
+5,5,5,5,5,5,11,11,11,11,11,18,18,18,38,38,38,38,38,38,38,38,41,41,41,41,41,41,41,43,43,43,43,80,80,80,80,
+28,28,28,28,28,28,28,
+19,19,19,19,19,19,19,19,24,24,24,24,24,24,24,24,24,
+21,21,21,82,82,82,100,100,100,100,100,100,103,103,103,
 
-1,1,1,1,1,24,24,24,24,24,24,28,28,28,28,37,37,37,37,37,37,48,48,48,48,51,51,51,51,51,51,51,51,86,86,86,86,
-99,99,99,99,99,99,99,
-20,20,20,20,20,32,32,32,32,32,32,32,32,32,32,32,32,
-18,18,18,18,18,18,34,46,46,46,46,60,60,60,60,
-31,31,31,35,35,35,35,35,35,40,40,40,40,40,40,40,40,47,47,47,47,55,55,69,69,73,73,73,73,73,73,73,74,74,74,79,79,89,89,89,89,89,
-5,5,5,5,5,9,9,
-66,66,66,66,66,96,96,96,96,96,96,96,14,14,14,14,14,67,67,67,81,81,87,87,87,87,102,102,27,27,27,27,27,27,43,43,43,43,64,64,64,64,64,64,64,64,70,70,70,70,70,70,70,70,70,70,92,92,92,92,92,92,92,92,100,100,100,100,100,
-14,14,14,14,14,67,67,67,81,81,87,87,87,87,102,102,27,27,27,27,27,27,43,43,43,43,64,64,64,64,64,64,64,64,70,70,70,70,70,70,70,70,70,70,92,92,92,92,92,92,92,92,100,100,100,100,100,
-27,27,27,27,27,27,43,43,43,43,64,64,64,64,64,64,64,64,70,70,70,70,70,70,70,70,70,70,92,92,92,92,92,92,92,92,100,100,100,100,100,
-103,
-29,29,29,29,29,
-38,38,38,38,82,82,82,82,82,82,82,98,98,98,98,98,98,98,98,
-39,39,39,39,39,39,39,39,39,95,95,95,95,95,95,
-13,13,13,13,13,13,30,30,30,30,30,30,30,30,30,41,41,41,41,41,41,83,83,83,83,83,83,83,83,83,94,94,94,94,94,94,101,101,101,101,25,25,25,36,36,36,36,36,36,36,36,36,50,50,50,77,77,77,77,77,77,77,77,77,90,90,90,90,90,90,90,90,90,104,104,104,104,104,104,
-25,25,25,36,36,36,36,36,36,36,36,36,50,50,50,77,77,77,77,77,77,77,77,77,90,90,90,90,90,90,90,90,90,104,104,104,104,104,104,
-26,26,26,33,33,33,33,33,33,33,
+63,63,63,97,97,97,97,
+61,61,61,61,93,93,93,93,93,93,93,93,6,6,6,6,8,8,8,39,39,39,39,39,39,56,56,56,9,9,9,9,9,9,9,9,9,9,9,14,14,14,14,14,55,55,55,55,55,67,67,67,67,67,73,73,73,73,73,73,73,73,95,95,95,95,95,95,95,
+6,6,6,6,8,8,8,39,39,39,39,39,39,56,56,56,9,9,9,9,9,9,9,9,9,9,9,14,14,14,14,14,55,55,55,55,55,67,67,67,67,67,73,73,73,73,73,73,73,73,95,95,95,95,95,95,95,
+9,9,9,9,9,9,9,9,9,9,9,14,14,14,14,14,55,55,55,55,55,67,67,67,67,67,73,73,73,73,73,73,73,73,95,95,95,95,95,95,95,
+1,
+2,2,2,2,2,
+27,27,27,27,27,27,53,53,53,53,53,53,53,77,77,77,77,77,77,
+7,7,7,7,7,7,7,7,7,26,26,26,26,26,26,
+10,10,10,10,10,10,10,25,25,25,25,25,25,25,51,51,51,51,51,51,62,62,62,62,62,62,62,62,65,65,65,65,65,65,66,66,66,66,66,66,30,30,30,30,30,30,30,44,44,44,44,44,44,84,84,84,84,84,84,90,90,90,90,90,90,90,90,94,94,94,94,96,96,96,96,96,96,96,96,
+30,30,30,30,30,30,30,44,44,44,44,44,44,84,84,84,84,84,84,90,90,90,90,90,90,90,90,94,94,94,94,96,96,96,96,96,96,96,96,
+36,36,36,68,68,68,68,68,68,68,
 
-45,45,45,45,45,45,54,54,54,61,61,61,61,61,61,68,68,68,68,68,68,68,68,85,85,85,85,
-3,3,3,3,3,3,10,10,10,10,10,10,12,12,12,12,12,12,12,12,12,12,12,12,12,23,23,23,23,23,62,62,62,62,62,62,62,62,62,62,62,62,62,
-2,2,2,15,15,15,16,16,16,58,58,58,58,58,58,58,59,59,59,59,59,59,65,65,65,91,
-8,8,49,49,49,49,49,49,49,
-7,7,
-72,72,72,97,97,97,97,97,
+15,15,15,15,15,15,15,15,45,45,45,45,45,47,47,47,47,47,47,47,102,102,102,102,102,102,102,
+32,32,32,32,32,32,32,70,70,70,70,70,70,70,70,70,70,70,70,70,72,72,72,72,72,72,72,72,72,72,72,72,86,86,86,86,86,86,98,98,98,98,98,
+13,13,13,20,20,20,20,22,22,22,42,42,42,42,74,74,74,74,78,78,78,78,92,92,92,92,
+4,4,4,4,37,37,37,37,37,
+59,59,
+85,85,85,89,89,89,89,89,
 
-11,11,11,93,93,93,93,93,71,71,71,
-71,71,71,
-The values are: The index value are: 0All Fine Here!
-1,24,28,37,48,51,86,The index value are: 7All Fine Here!
-99,The index value are: 1All Fine Here!
-20,32,The index value are: 2All Fine Here!
-18,34,46,60,The index value are: 4All Fine Here!
-31,35,40,47,55,69,73,74,79,89,The index value are: 10All Fine Here!
-5,9,The index value are: 2All Fine Here!
-66,96,The index value are: 2All Fine Here!
-14,67,81,87,102,The index value are: 5All Fine Here!
-27,43,64,70,92,100,The index value are: 6All Fine Here!
-103,The index value are: 1All Fine Here!
-29,The index value are: 1All Fine Here!
-38,82,98,The index value are: 3All Fine Here!
-39,95,The index value are: 2All Fine Here!
-13,30,41,83,94,101,The index value are: 6All Fine Here!
-25,36,50,77,90,104,The index value are: 6All Fine Here!
-26,33,The index value are: 2All Fine Here!
+48,69,69,69,69,69,69,69,75,75,75,
+75,75,75,
+The values are: 16,17,23,29,34,40,46,52,54,58,60,64,71,76,81,83,91,101,The index value are: 18All Fine Here!
+5,11,18,38,41,43,80,The index value are: 7All Fine Here!
+28,The index value are: 1All Fine Here!
+19,24,The index value are: 2All Fine Here!
+21,82,100,103,The index value are: 4All Fine Here!
 The index value are: 0All Fine Here!
-45,54,61,68,85,The index value are: 5All Fine Here!
-3,10,12,23,62,The index value are: 5All Fine Here!
-2,15,16,58,59,65,91,The index value are: 7All Fine Here!
-8,49,The index value are: 2All Fine Here!
-7,The index value are: 1All Fine Here!
-72,97,The index value are: 2All Fine Here!
+63,97,The index value are: 2All Fine Here!
+61,93,The index value are: 2All Fine Here!
+6,8,39,56,The index value are: 4All Fine Here!
+9,14,55,67,73,95,The index value are: 6All Fine Here!
+1,The index value are: 1All Fine Here!
+2,The index value are: 1All Fine Here!
+27,53,77,The index value are: 3All Fine Here!
+7,26,The index value are: 2All Fine Here!
+10,25,51,62,65,66,The index value are: 6All Fine Here!
+30,44,84,90,94,96,The index value are: 6All Fine Here!
+36,68,The index value are: 2All Fine Here!
 The index value are: 0All Fine Here!
-11,93,The index value are: 2All Fine Here!
-71,The index value are: 1All Fine Here!
+15,45,47,102,The index value are: 4All Fine Here!
+32,70,72,86,98,The index value are: 5All Fine Here!
+13,20,22,42,74,78,92,The index value are: 7All Fine Here!
+4,37,The index value are: 2All Fine Here!
+59,The index value are: 1All Fine Here!
+85,89,The index value are: 2All Fine Here!
+The index value are: 0All Fine Here!
+48,69,The index value are: 2All Fine Here!
+75,The index value are: 1All Fine Here!
