@@ -10,9 +10,8 @@ using namespace std;
 
 //#define DEBUG
 
-#define AUTO
+//#define AUTO
 
-int ***key_decipher;
 
 const char test_case[5][501] = {"masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp", "wharves locoisms tearjerkers remiss chops duties prolonged inequities minnows itemized thematically scorecard deliverers jokingly semiosis claspers brazenness grateful collarbones stamping bittersweets habilitation endorsers decrepitly tambourine shadowboxes adopting ingenuous disquisitions quietist innovates mingles nationals disparaging exults realtor cockade rubberizing tubercled unremitting sloppiest algin knuckleball disengage domes doltishly encyclics spectroscopically debauched circumsola", "ozonise creosotes disruption neighborly lunier shagging balancing adriatic dick guesstimate storminess jest soberer spun toolbox crochet firebreak parliamentary undismayed lintiest homoeroticism silverfishes cornstalk digest subtler ruck cairns wombat working synapsed diamonding association opalescence crenation bumblebees undetected sandwiching unpeoples polishes schoolwork familarity flaying slued soothers splenification dare hydrology gourami alligators varsity statuettes gainly feeding filme", "autarky sartor terbium synapse herr eugenicists isthmian reembarks spinet dictaphone ecology carinae coeducational carburizing undulated twopenny subscriptions wrigglier scaliness enthrallingly carvers russified rejoice anaconda switzerland sallows devotedly pledgees incongruous miriest nonextraditable extrospection clipping souffle mimicry interrupts reputably reteaches quicksets bankroll hallucinated unzealous invocation winless yacking shinbone tonal vasoconstrictive manioc gourami purling ey", "championships iatrogenic maniacally antonym schoolboy shyly leafhoppers inturned sunbathing overrefined obliterations discus maintain cranked uniters twangled impairer wreakers forewings silesia occupance headroom foresting ornithologists shims lackaday benumbedness gloomy sententious fussing flagrant consonance profligately scutcheons honda swooned headworks zeins intermezzo adaptions elbow ocotillos denim japers thalamic corinthians restraightening kowtowed embarrasses latissimi impoverished s"};
 
@@ -23,7 +22,7 @@ int alphabet_weight[27] = {19,7,1,2,4,10,2,2,5,6,1,1,3,2,6,6,2,1,5,5,7,2,1,2,1,2
 
 string cipher(const char * pt, int length);
 void decipher(int *ct, int length, char *pt);
-string decipher2(int *ct, int length);
+string decipher2(int *ct, int length, int ***key_decipher);
 int filter(int ctx, char test_onex, int **key);
 
 void print_key(int **key) {
@@ -40,6 +39,7 @@ void print_key(int **key) {
 	    count = 0;
 	}
     }
+    cout << "\n";
 #endif
 }
 
@@ -51,9 +51,11 @@ int filter(int ctx, char test_onex, int **key1) {
 	    alphabet=0;
 	else
 	    alphabet = test_onex - 96;
-	//cout << test_onex;
+#ifdef DEBUG
+	cout << test_onex << " ";
+#endif
 	for(j=0;j<KEY_ROW;j++) {
-	    for(k=0;k<alphabet_weight[KEY_ROW];k++) {
+	    for(k=0;k<alphabet_weight[j];k++) {
 		if(key1[j][k] == ctx){
 		    alphabet_row = j;
 		    goto break_loop;
@@ -83,7 +85,7 @@ int filter(int ctx, char test_onex, int **key1) {
 	return 1;
 }
 
-string decipher2(int *ct, int length) {
+string decipher2(int *ct, int length, int ***key_decipher) {
     int i;
     int correct_pt[5]={1,1,1,1,1},final_pt;
     i = 0;
@@ -99,14 +101,19 @@ string decipher2(int *ct, int length) {
 	if(correct_pt[4])
 	    correct_pt[4]=filter(ct[i],test_case[4][i],key_decipher[4]);
 	i++;
-       //final_pt = correct_pt[0]+correct_pt[1]+correct_pt[2]+correct_pt[3]+correct_pt[4];
+       //final_pt = correct_pt[0]+correct_pt[1]*2+correct_pt[2]*3+correct_pt[3]*4+correct_pt[4]*5;
     //}while(final_pt > 1);
     }while(i < length);
     final_pt = correct_pt[0] + correct_pt[1]*2+3*correct_pt[2]+4*correct_pt[3]+5*correct_pt[4];
-    if(final_pt) {
 #ifdef DEBUG
-	print_key(key_decipher[final_pt-1]);
+        cout << "\nlegnth = " << length << " final pt = " << final_pt << "\n";
+	print_key(key_decipher[0]);
+	print_key(key_decipher[1]);
+	print_key(key_decipher[2]);
+	print_key(key_decipher[3]);
+	print_key(key_decipher[4]);
 #endif
+    if(final_pt) {
 	return (string)test_case[final_pt - 1];
     } else {
 	return (string) "No testcase is matached with plaintext.";
@@ -119,6 +126,8 @@ int main()
     string plaintext_2, s, symbol;
     clock_t start,end;
     float seconds;
+
+    int ***key_decipher;
 
     key_decipher = new int**[5];
     for(i=0;i<5;i++) {
@@ -135,14 +144,15 @@ int main()
 #ifdef AUTO    
     srand (time(NULL));
     length = 500;
-    s = cipher(test_case[0], length);
+    s = cipher(test_case[1], length);
 #else
-    cout << "Enter the plain text : ";
-    cin >> s;
+    cout << "Enter the  ciphertext : ";
+//cout << "Maximum size of a string is " << s.max_size() << "\n";
+    getline(cin, s);
 #endif
 
 // Find the length of the plaintext and convert from string to integer
-    length = s.length();
+    //length = s.length();
     for(i=0,j=0; i < s.length(); i++) {
 	if(s[i]==',') {
 	    ct[j++]=atoi(symbol.c_str());
@@ -152,19 +162,21 @@ int main()
 	}
     }
     ct[j++]=atoi(symbol.c_str());
+    length = j;
    
 #ifdef DEBUG
     cout <<"\n\n ct integer = " << i << " " << j << "\n";
     for(i=0;i<500;i++) {
 	cout << ct[i] << " ";
     }
+    cout << "\n\n";
 #endif
 
 // Start the clock
     start = clock();
     
 // Decipher the plaintext
-    plaintext_2 = decipher2(ct, length);
+    plaintext_2 = decipher2(ct, length, key_decipher);
     end = clock();
 
 // Display the result
