@@ -43,26 +43,6 @@ while (current != NULL)
 *head_ref = NULL;  
 }
 
-/*void append(Node*& reference, string str_data) 
-{ 
-   Node* new_node = new Node();
-   //Node* last_node = new Node();
-
-   new_node->data = str_data;
-
-   if(*reference->next != NULL)
-   { 
-	//new_node = reference->next;
-	append(&(reference->next), str_data);
-   }
-   else
-   {
-       	reference->next = new_node;
-   }	
-   return;  
-}*/
-
-
 void append(Node*& p, string d){
     Node* temp = new Node();
     temp->data=d;
@@ -70,11 +50,10 @@ void append(Node*& p, string d){
     else append(p->next, d);
 }
 
-
-
-
 int main()
 {
+  clock_t start, end;
+  double cpu_time_used;
   FILE *dictionary;
   long int n =0;
   long int total_lines=0, flag = 0,i = 0, k =0;
@@ -83,8 +62,8 @@ int main()
   size_t len = 0;
   long int offset = 2;
   //ssize_t nread;
-  dictionary = fopen("copy.txt", "r");
-  string search = "cred";
+  dictionary = fopen("english_words.txt", "r");
+  string search = "ana";
   string copied;
   long int alphabet_array[27];
   long int temp=0, nread;
@@ -107,20 +86,18 @@ int main()
   base->data= "Deepraj";
   base->next = NULL;
 
-
-  //making a ifunction to add the elements in a linked list!
-  //printList(head);
   if(dictionary == NULL)
   {
      perror ("Error opening file.");
   }
   else
-  {  
+  { 
+    start = clock();
     while((nread = getline(&line, &len, dictionary)) != -1)
     {
-	cout<<"The nread value is: "<<nread<<"\n";
+	//cout<<"The nread value is: "<<nread<<"\n";
         temp = temp + nread;
-        printf("length = %ld: \n total length = %ld\n\n\n", nread, temp);
+        //printf("length = %ld: \n total length = %ld\n\n\n", nread, temp);
         if(ct != line[0])
         {
 		flag = 1;
@@ -132,21 +109,18 @@ int main()
 	   cout<<"The number of elements of "<<(char)((int)ct-1)<<" are: "<<alphabet_array[i-1]<<"\n";
 	   flag = 0;
 	}
-        //cout<<"Print this: "<<"";
-        //k = fseek(dictionary,offset,alphabet_array[i-1] );
-        //cout<<"The alphabet is :"<<
-        //printf("%ld", ftell(dictionary));
-        //cout<<","<<k<<",";
-        cout<<len<<"\n";
+        //cout<<len<i<"\n";
         ++total_lines;
 
+
      int counter=0;
-     for(i=0;search[i]!='\0';i++)
+     for(int m=0;search[m]!='\0';m++)
      {
 	counter++;
-	cout<<search[i]<<","<<counter<<"\n";
+	//cout<<search[m]<<","<<counter<<"\n";
      }
-     cout<<line<<"\n";
+     
+     //cout<<line<<"\n";
        i=0;
        int flg = 1;
        int diff = 0, clt=0;
@@ -158,13 +132,12 @@ int main()
 	    if(diff != clt){i=0;}
 	    diff = clt;
             if(flg)i++;
-       	    cout<<counter<<" and "<<i<<"\n";
+       	    //cout<<counter<<" and "<<i<<"\n";
             if(counter == i)
      	    {
 	      flg = 0;
 	      cout<<"found!!\n";
               copied = line;
-              //cout<<"The copied line is: "<<copied<<"\n";
 	      append(head, copied);
 	      i = 0;
             }
@@ -172,7 +145,7 @@ int main()
        }
 
      }   
-    cout<<"The total number of line: "<<total_lines<<'\n';
+    //cout<<"The total number of line: "<<total_lines<<'\n';
 
     if (feof(dictionary))
     {
@@ -187,6 +160,10 @@ int main()
      free(line);
      fclose(dictionary);
   }
+  end = clock();
+  //float seconds = ((float)end-(float)start_n)/CLOCKS_PER_SEC;
+  cpu_time_used = ((double) (end - start)) / CLOCKS_PER_SEC;
+  cout<<"Second is : "<<cpu_time_used<<"\n";
   printList(head);
   deleteList(&head);
   cout<<"After deleting: ";
