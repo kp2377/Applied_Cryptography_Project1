@@ -63,7 +63,7 @@ int main()
   long int offset = 2;
   //ssize_t nread;
   dictionary = fopen("english_words.txt", "r");
-  string search = "ana";
+  string search = "chron";
   string copied;
   long int alphabet_array[27];
   long int temp=0, nread;
@@ -127,7 +127,7 @@ int main()
        for(int j=0;j<nread;j++)
        { 
 	 clt = (j-i);
-      	 if(search[i] == line[j])
+      	 if(search[i] == line[j] && search[0] == line[0])
 	 {
 	    if(diff != clt){i=0;}
 	    diff = clt;
