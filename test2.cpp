@@ -3,6 +3,7 @@
 #include <stdlib.h>     /* srand, rand */
 #include <time.h>       /* time */
 #include "stdc++.h"
+#include <string.h>
 
 using namespace std;
 
@@ -66,7 +67,7 @@ int main()
   int counter=0;
 
   //ssize_t nread;
-  string search = "bana";
+  string search = "banana";
   string copied;
    long int temp=0, nread;
 
@@ -105,6 +106,7 @@ int main()
 
 
   start = clock();
+  int result;
   int initial_letter = search[0];
   int value = (int)search[0]-97;
   nread = 0;
@@ -113,28 +115,21 @@ int main()
   nread = getline(&line, &len, dictionary);
   temp=0;
   temp = temp+nread;
-  while(line[0] == initial_letter)
-  {
-    i=0;
-    int flg = 1;
-    int diff = 0, clt=0;
-    for(int j=0;j<nread;j++)
-    { 
-     clt = (j-i);
-     if(search[i] == line[j])
-     {
-       if(diff != clt){i=0;}
-       diff = clt;
-       if(flg)i++;
-       if(counter == i)
-       {
-         flg = 0;
-         copied = line;
-	 append(head, copied);
-	 i = 0;
-       }
-      } 
-     }
+   while(line[0] == initial_letter)
+  { 
+    
+    result=search.compare(line);
+    if (result == -1)
+    {
+      copied=line;
+      append(head, copied);
+    }
+    if (result < -1)
+    {
+	break;      
+    }
+
+    //cout<<"The result is: "<<result<<"\n";
     fseek(dictionary,jump+temp,SEEK_SET);
     nread = getline(&line, &len, dictionary);
     temp = temp+nread; 
