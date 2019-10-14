@@ -1,1 +1,978 @@
-Enter the  ciphertext : 
+The key in Cipher : 
+ 78  83  70  43  36  16  11  49   2  38  98  32  37   6  26  24  71  93  39  = ` 19
+ 63  53 104  92  64  72  55   0   0   0   0   0   0   0   0   0   0   0   0  = a 7
+ 67   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = b 1
+ 86  88   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = c 2
+ 59  17  62  77   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = d 4
+  9  56  73  81  18  54  80  61  52  15   0   0   0   0   0   0   0   0   0  = e 10
+ 89   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = f 2
+ 79  22   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = g 2
+ 96  14 100  51  57   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = h 5
+102  99  48  94 101  13   0   0   0   0   0   0   0   0   0   0   0   0   0  = i 6
+ 47   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = j 1
+ 35   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = k 1
+  5  90  84   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = l 3
+ 87  25   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = m 2
+ 58  68  75  12 105  23   0   0   0   0   0   0   0   0   0   0   0   0   0  = n 6
+ 69  29  97  85  27  30   0   0   0   0   0   0   0   0   0   0   0   0   0  = o 6
+ 91   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = p 1
+  1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = q 1
+ 21  44  82  45  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = r 5
+ 40  33  50 103  41   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = s 5
+ 76   4   8  66  65  10  34   0   0   0   0   0   0   0   0   0   0   0   0  = t 7
+ 31  46   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = u 2
+ 60   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = v 1
+  7  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = w 2
+ 19   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = x 1
+ 42  74   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = y 2
+ 20   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  = z 1
+
+pt = masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyr
+
+
+ string ct = 13,1,19,20,5,18,23,15,18,11,0,19,23,5,16,20,0,19,17,21,1,14,4,5,18,19,0,7,18,15,21,14,4,5,18,19,0,9,4,15,12,1,20,18,9,5,19,0,19,23,1,16,16,5,18,0,16,1,22,5,0,3,18,15,21,16,9,5,18,0,4,18,1,13,1,20,9,19,20,19,0,13,1,7,14,9,6,9,5,4,0,8,25,16,14,15,19,5,19,0,4,5,12,9,22,5,18,25,0,20,1,19,19,5,12,19,0,13,1,18,17,21,9,19,5,0,5,14,20,1,9,12,13,5,14,20,19,0,3,9,18,3,21,9,20,19,0,3,18,1,13,16,15,14,0,14,1,20,9,15,14,1,12,9,19,13,0,14,9,3,20,9,20,1,20,9,15,14,0,1,14,20,9,3,1,16,9,20,1,12,9,19,20,19,0,4,1,14,3,9,14,7,12,25,0,19,15,15,20,8,12,25,0,16,1,20,18,9,1,18,3,8,19,0,7,15,15,4,9,5,0,23,8,9,3,11,5,18,19,0,2,1,7,7,25,0,15,13,14,9,16,15,20,5,14,20,0,19,1,4,9,19,20,0,1,13,5,2,1,0,16,18,15,3,5,19,19,9,15,14,19,0,2,5,7,7,1,18,25,0,18,5,14,1,13,5,0,14,15,14,1,19,19,5,18,20,9,22,5,12,25,0,13,1,3,5,18,1,20,15,18,19,0,12,5,3,20,21,18,5,19,8,9,16,0,19,8,9,16,23,18,9,7,8,20,19,0,19,1,4,4,5,14,0,2,1,3,11,21,16,19,0,18,8,25,13,5,18,0,15,6,6,19,20,1,7,5,0,19,3,8,9,19,20,15,19,5,0,5,2,2,19,0,18,5,19,20,15,18,5,18,0,7,18,1,5,3,9,26,5,19,0,19,21,2,10,15,9,14,9,14,7,0,12,5,1,20,8,5,18,9,14,7,0,19,13,15,3,11,19,0,12,5,21,11,15,3,25,20,5,0,23,1,12,5,4,0,20,5,13,16,5,18,5,18,0,5,13,2,18,15,7,12,9,15,19,0,2,15,12,9,22,1,18,0,18,5,16,9,14,5,19,0,20,5,12,5,20,25,18
+
+ ct integer = 1255 500
+13 1 19 20 5 18 23 15 18 11 0 19 23 5 16 20 0 19 17 21 1 14 4 5 18 19 0 7 18 15 21 14 4 5 18 19 0 9 4 15 12 1 20 18 9 5 19 0 19 23 1 16 16 5 18 0 16 1 22 5 0 3 18 15 21 16 9 5 18 0 4 18 1 13 1 20 9 19 20 19 0 13 1 7 14 9 6 9 5 4 0 8 25 16 14 15 19 5 19 0 4 5 12 9 22 5 18 25 0 20 1 19 19 5 12 19 0 13 1 18 17 21 9 19 5 0 5 14 20 1 9 12 13 5 14 20 19 0 3 9 18 3 21 9 20 19 0 3 18 1 13 16 15 14 0 14 1 20 9 15 14 1 12 9 19 13 0 14 9 3 20 9 20 1 20 9 15 14 0 1 14 20 9 3 1 16 9 20 1 12 9 19 20 19 0 4 1 14 3 9 14 7 12 25 0 19 15 15 20 8 12 25 0 16 1 20 18 9 1 18 3 8 19 0 7 15 15 4 9 5 0 23 8 9 3 11 5 18 19 0 2 1 7 7 25 0 15 13 14 9 16 15 20 5 14 20 0 19 1 4 9 19 20 0 1 13 5 2 1 0 16 18 15 3 5 19 19 9 15 14 19 0 2 5 7 7 1 18 25 0 18 5 14 1 13 5 0 14 15 14 1 19 19 5 18 20 9 22 5 12 25 0 13 1 3 5 18 1 20 15 18 19 0 12 5 3 20 21 18 5 19 8 9 16 0 19 8 9 16 23 18 9 7 8 20 19 0 19 1 4 4 5 14 0 2 1 3 11 21 16 19 0 18 8 25 13 5 18 0 15 6 6 19 20 1 7 5 0 19 3 8 9 19 20 15 19 5 0 5 2 2 19 0 18 5 19 20 15 18 5 18 0 7 18 1 5 3 9 26 5 19 0 19 21 2 10 15 9 14 9 14 7 0 12 5 1 20 8 5 18 9 14 7 0 19 13 15 3 11 19 0 12 5 21 11 15 3 25 20 5 0 23 1 12 5 4 0 20 5 13 16 5 18 5 18 0 5 13 2 18 15 7 12 9 15 19 0 2 15 12 9 22 1 18 0 18 5 16 9 14 5 19 0 20 5 12 5 20 25 18 
+
+m w o a c a h z u h s a o t a t r n a m e v i r p r e s k i w s e y o o       n r l c s s k   s w e p t   s q u a n d e r s   g r o u n d e r s   i d o l a t r i e s   s w a p p e r   p a v e   c r o u p i e r   d r a m a t i s t s   m a g n i f i e d   h y p n o s e s   d e l i v e r y   t a s s e l s   m a r q u i s e   e n t a i l m e n t s   c i r c u i t s   c r a m p o n   n a t i o n a l i s m   n i c t i t a t i o n   a n t i c a p i t a l i s t s   d a n c i n g l y   s o o t h l y   p a t r i a r c h s   g o o d i e   w h i c k e r s   b a g g y   o m n i p o t e n t   s a d i s t   a m e b a   p r o c e s s i o n s   b e g g a r y   r e n a m e   n o n a s s e r t i v e l y   m a c e r a t o r s   l e c t u r e s h i p   s h i p w r i g h t s   s a d d e n   b a c k u p s   r h y m e r   o f f s t a g e   s c h i s t o s e   e b b s   r e s t o r e r   g r a e c i z e s   s u b j o i n i n g   l e a t h e r i n g   s m o c k s   l e u k o c y t e   w a l e d   t e m p e r e r   e m b r o g l i o s   b o l i v a r   r e p i n e s   t e l e t y p 
+legnth = 500 final pt = 0
+  0 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = ` 0
+  1 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = a 1
+  2 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = b 1
+  3 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = c 1
+  4 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = d 1
+  5 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = e 1
+  6 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = f 1
+  7 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = g 1
+  8 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = h 1
+  9 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = i 1
+ 10 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = j 1
+ 11 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = k 1
+ 12 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = l 1
+ 13 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = m 1
+ 14 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = n 1
+ 15 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = o 1
+ 16 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = p 1
+ 17 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = q 1
+ 18 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = r 1
+ 19 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = s 1
+ 20 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = t 1
+ 21 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = u 1
+ 22 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = v 1
+ 23 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = w 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = x 0
+ 25 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = y 1
+ 26 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = z 1
+
+ 15 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = ` 1
+ 19 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = a 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = b 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = c 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = d 0
+ 18 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = e 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = f 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = g 0
+  1 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = h 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = i 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = j 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = k 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = l 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = m 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = n 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = o 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = p 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = q 0
+ 20 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = r 1
+ 23 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = s 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = t 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = u 0
+  5 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = v 1
+ 13 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = w 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = x 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = y 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = z 0
+
+ 15 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = ` 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = a 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = b 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = c 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = d 0
+ 23 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = e 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = f 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = g 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = h 0
+  5 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = i 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = j 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = k 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = l 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = m 0
+ 20 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = n 1
+ 13  19 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = o 2
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = p 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = q 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = r 0
+ 18 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = s 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = t 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = u 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = v 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = w 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = x 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = y 0
+  1 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = z 1
+
+ 15 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = ` 1
+ 13  20 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = a 2
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = b 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = c 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = d 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = e 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = f 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = g 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = h 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = i 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = j 0
+ 18 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = k 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = l 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = m 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = n 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = o 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = p 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = q 0
+  5 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = r 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = s 0
+ 19 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = t 1
+  1 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = u 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = v 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = w 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = x 0
+ 23 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = y 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = z 0
+
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = ` 0
+ 19 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = a 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = b 0
+ 13 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = c 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = d 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = e 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = f 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = g 0
+  1 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = h 1
+ 18 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = i 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = j 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = k 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = l 0
+ 20 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = m 1
+ 15 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = n 1
+ 23 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = o 1
+  5 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = p 1
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = q 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = r 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = s 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = t 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = u 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = v 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = w 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = x 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = y 0
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150  = z 0
+
+
+
+Guessed plaintext is : No testcase is matched with plaintext.
+
+ Time = 1.417 ms
+
+Entered in decipher3 
+
+alternate alphabet same = 19 at 48
+alternate alphabet same = 1 at 74
+alternate alphabet same = 19 at 79
+alternate alphabet same = 9 at 87
+alternate alphabet same = 19 at 98
+alternate alphabet same = 5 at 126
+alternate alphabet same = 14 at 155
+alternate alphabet same = 20 at 172
+alternate alphabet same = 20 at 174
+alternate alphabet same = 19 at 193
+alternate alphabet same = 14 at 299
+alternate alphabet same = 19 at 347
+alternate alphabet same = 5 at 388
+alternate alphabet same = 18 at 400
+alternate alphabet same = 19 at 412
+alternate alphabet same = 9 at 419
+alternate alphabet same = 14 at 420
+alternate alphabet same = 5 at 463
+alternate alphabet same = 18 at 464
+alternate alphabet same = 18 at 485
+alternate alphabet same = 5 at 496
+same alphabet = 16 at 52
+same alphabet = 19 at 112
+same alphabet = 15 at 207
+same alphabet = 15 at 226
+same alphabet = 7 at 243
+same alphabet = 19 at 276
+same alphabet = 7 at 285
+same alphabet = 19 at 302
+same alphabet = 4 at 350
+same alphabet = 6 at 371
+same alphabet = 2 at 390
+
+ count = `  53, a  37, b  9, c  17, d  12, e  51, f  3, g  14, h  10, i  38, j  1, k  5, l  16, m  15, n  25, o  27, p  16, q  2, r  38, s  48, t  33, u  9, v  4, w  6, x  0, y  10, z  1, {  0, |  0, }  0, ~  0,   0, Ä  0, Å  0, Ç  0, É  0, Ñ  0, Ö  0, Ü  0, á  0, à  0, â  0, ä  0, ã  0, å  0, ç  0, é  0, è  0, ê  0, ë  0, í  0, ì  0, î  0, ï  0, ñ  0, ó  0, ò  0, ô  0, ö  0, õ  0, ú  0, ù  0, û  0, ü  0, †  0, °  0, ¢  0, £  0, §  0, •  0, ¶  0, ß  0, ®  0, ©  0, ™  0, ´  0, ¨  0, ≠  0, Æ  0, Ø  0, ∞  0, ±  0, ≤  0, ≥  0, ¥  0, µ  0, ∂  0, ∑  0, ∏  0, π  0, ∫  0, ª  0, º  0, Ω  0, æ  0, ø  0, ¿  0, ¡  0, ¬  0, √  0, ƒ  0, ≈  0, ∆  0, «  0, »  0, …  0,  Total number of symbols = 26
+
+Distribution = 
+52.44
+ 34.075
+ 8.75568
+ 18.1106
+ 16.4191
+ 51.9616
+ 6.12448
+ 12.8884
+ 9.9351
+ 39.2254
+ 0.841487
+ 3.89966
+ 24.0719
+ 12.2877
+ 31.0647
+ 27.4699
+ 12.6429
+ 0.819469
+ 33.0353
+ 39.8902
+ 29.7474
+ 14.9505
+ 4.65403
+ 3.83791
+ 1.301
+ 7.5844
+ 1.96299
+ diff_count = 15 diff = 0.560001 val_ch = 10
+diff_count = 15 diff = 18.925 val_ch = -35
+diff_count = 15 diff = 44.2443 val_ch = -35
+diff_count = 15 diff = 34.8894 val_ch = -35
+diff_count = 15 diff = 36.5809 val_ch = -35
+diff_count = 15 diff = 1.0384 val_ch = 5
+diff_count = 15 diff = 46.8755 val_ch = -35
+diff_count = 15 diff = 40.1116 val_ch = -35
+diff_count = 15 diff = 43.0649 val_ch = -35
+diff_count = 15 diff = 13.7746 val_ch = -25
+diff_count = 15 diff = 52.1585 val_ch = -35
+diff_count = 15 diff = 49.1003 val_ch = -35
+diff_count = 15 diff = 28.9281 val_ch = -35
+diff_count = 15 diff = 40.7123 val_ch = -35
+diff_count = 15 diff = 21.9353 val_ch = -35
+diff_count = 15 diff = 25.5301 val_ch = -35
+diff_count = 15 diff = 40.3571 val_ch = -35
+diff_count = 15 diff = 52.1805 val_ch = -35
+diff_count = 15 diff = 19.9647 val_ch = -35
+diff_count = 15 diff = 13.1098 val_ch = -25
+diff_count = 15 diff = 23.2526 val_ch = -35
+diff_count = 15 diff = 38.0495 val_ch = -35
+diff_count = 15 diff = 48.346 val_ch = -35
+diff_count = 15 diff = 49.1621 val_ch = -35
+diff_count = 15 diff = 51.699 val_ch = -35
+diff_count = 15 diff = 45.4156 val_ch = -35
+diff_count = 15 diff = 51.037 val_ch = -35
+count = 53 diff2 = -855
+diff_count = 7 diff = 15.44 val_ch = -35
+diff_count = 7 diff = 2.925 val_ch = 2
+diff_count = 7 diff = 28.2443 val_ch = -35
+diff_count = 7 diff = 18.8894 val_ch = -35
+diff_count = 7 diff = 20.5809 val_ch = -35
+diff_count = 7 diff = 14.9616 val_ch = -25
+diff_count = 7 diff = 30.8755 val_ch = -35
+diff_count = 7 diff = 24.1116 val_ch = -35
+diff_count = 7 diff = 27.0649 val_ch = -35
+diff_count = 7 diff = 2.2254 val_ch = 2
+diff_count = 7 diff = 36.1585 val_ch = -35
+diff_count = 7 diff = 33.1003 val_ch = -35
+diff_count = 7 diff = 12.9281 val_ch = -25
+diff_count = 7 diff = 24.7123 val_ch = -35
+diff_count = 7 diff = 5.9353 val_ch = 0
+diff_count = 7 diff = 9.5301 val_ch = -5
+diff_count = 7 diff = 24.3571 val_ch = -35
+diff_count = 7 diff = 36.1805 val_ch = -35
+diff_count = 7 diff = 3.9647 val_ch = 1
+diff_count = 7 diff = 2.8902 val_ch = 2
+diff_count = 7 diff = 7.2526 val_ch = -5
+diff_count = 7 diff = 22.0495 val_ch = -35
+diff_count = 7 diff = 32.346 val_ch = -35
+diff_count = 7 diff = 33.1621 val_ch = -35
+diff_count = 7 diff = 35.699 val_ch = -35
+diff_count = 7 diff = 29.4156 val_ch = -35
+diff_count = 7 diff = 35.037 val_ch = -35
+count = 37 diff2 = -690
+diff_count = 30 diff = 43.44 val_ch = -35
+diff_count = 30 diff = 25.075 val_ch = -35
+diff_count = 30 diff = 0.24432 val_ch = 10
+diff_count = 30 diff = 9.1106 val_ch = -5
+diff_count = 30 diff = 7.4191 val_ch = -5
+diff_count = 30 diff = 42.9616 val_ch = -35
+diff_count = 30 diff = 2.87552 val_ch = 2
+diff_count = 30 diff = 3.8884 val_ch = 1
+diff_count = 30 diff = 0.9351 val_ch = 10
+diff_count = 30 diff = 30.2254 val_ch = -35
+diff_count = 30 diff = 8.15851 val_ch = -5
+diff_count = 30 diff = 5.10034 val_ch = 0
+diff_count = 30 diff = 15.0719 val_ch = -35
+diff_count = 30 diff = 3.2877 val_ch = 1
+diff_count = 30 diff = 22.0647 val_ch = -35
+diff_count = 30 diff = 18.4699 val_ch = -35
+diff_count = 30 diff = 3.6429 val_ch = 1
+diff_count = 30 diff = 8.18053 val_ch = -5
+diff_count = 30 diff = 24.0353 val_ch = -35
+diff_count = 30 diff = 30.8902 val_ch = -35
+diff_count = 30 diff = 20.7474 val_ch = -35
+diff_count = 30 diff = 5.9505 val_ch = 0
+diff_count = 30 diff = 4.34597 val_ch = 0
+diff_count = 30 diff = 5.16209 val_ch = 0
+diff_count = 30 diff = 7.699 val_ch = -5
+diff_count = 30 diff = 1.4156 val_ch = 5
+diff_count = 30 diff = 7.03701 val_ch = -5
+count = 9 diff2 = -380
+diff_count = 17 diff = 35.44 val_ch = -35
+diff_count = 17 diff = 17.075 val_ch = -35
+diff_count = 17 diff = 8.24432 val_ch = -5
+diff_count = 17 diff = 1.1106 val_ch = 5
+diff_count = 17 diff = 0.5809 val_ch = 10
+diff_count = 17 diff = 34.9616 val_ch = -35
+diff_count = 17 diff = 10.8755 val_ch = -25
+diff_count = 17 diff = 4.1116 val_ch = 0
+diff_count = 17 diff = 7.0649 val_ch = -5
+diff_count = 17 diff = 22.2254 val_ch = -35
+diff_count = 17 diff = 16.1585 val_ch = -35
+diff_count = 17 diff = 13.1003 val_ch = -25
+diff_count = 17 diff = 7.0719 val_ch = -5
+diff_count = 17 diff = 4.7123 val_ch = 0
+diff_count = 17 diff = 14.0647 val_ch = -25
+diff_count = 17 diff = 10.4699 val_ch = -25
+diff_count = 17 diff = 4.3571 val_ch = 0
+diff_count = 17 diff = 16.1805 val_ch = -35
+diff_count = 17 diff = 16.0353 val_ch = -35
+diff_count = 17 diff = 22.8902 val_ch = -35
+diff_count = 17 diff = 12.7474 val_ch = -25
+diff_count = 17 diff = 2.0495 val_ch = 2
+diff_count = 17 diff = 12.346 val_ch = -25
+diff_count = 17 diff = 13.1621 val_ch = -25
+diff_count = 17 diff = 15.699 val_ch = -35
+diff_count = 17 diff = 9.4156 val_ch = -5
+diff_count = 17 diff = 15.037 val_ch = -35
+count = 17 diff2 = -545
+diff_count = 35 diff = 40.44 val_ch = -35
+diff_count = 35 diff = 22.075 val_ch = -35
+diff_count = 35 diff = 3.24432 val_ch = 1
+diff_count = 35 diff = 6.1106 val_ch = 0
+diff_count = 35 diff = 4.4191 val_ch = 0
+diff_count = 35 diff = 39.9616 val_ch = -35
+diff_count = 35 diff = 5.87552 val_ch = 0
+diff_count = 35 diff = 0.8884 val_ch = 10
+diff_count = 35 diff = 2.0649 val_ch = 2
+diff_count = 35 diff = 27.2254 val_ch = -35
+diff_count = 35 diff = 11.1585 val_ch = -25
+diff_count = 35 diff = 8.10034 val_ch = -5
+diff_count = 35 diff = 12.0719 val_ch = -25
+diff_count = 35 diff = 0.2877 val_ch = 10
+diff_count = 35 diff = 19.0647 val_ch = -35
+diff_count = 35 diff = 15.4699 val_ch = -35
+diff_count = 35 diff = 0.6429 val_ch = 10
+diff_count = 35 diff = 11.1805 val_ch = -25
+diff_count = 35 diff = 21.0353 val_ch = -35
+diff_count = 35 diff = 27.8902 val_ch = -35
+diff_count = 35 diff = 17.7474 val_ch = -35
+diff_count = 35 diff = 2.9505 val_ch = 2
+diff_count = 35 diff = 7.34597 val_ch = -5
+diff_count = 35 diff = 8.16209 val_ch = -5
+diff_count = 35 diff = 10.699 val_ch = -25
+diff_count = 35 diff = 4.4156 val_ch = 0
+diff_count = 35 diff = 10.037 val_ch = -25
+count = 12 diff2 = -455
+diff_count = 15 diff = 1.44 val_ch = 5
+diff_count = 15 diff = 16.925 val_ch = -35
+diff_count = 15 diff = 42.2443 val_ch = -35
+diff_count = 15 diff = 32.8894 val_ch = -35
+diff_count = 15 diff = 34.5809 val_ch = -35
+diff_count = 15 diff = 0.961601 val_ch = 10
+diff_count = 15 diff = 44.8755 val_ch = -35
+diff_count = 15 diff = 38.1116 val_ch = -35
+diff_count = 15 diff = 41.0649 val_ch = -35
+diff_count = 15 diff = 11.7746 val_ch = -25
+diff_count = 15 diff = 50.1585 val_ch = -35
+diff_count = 15 diff = 47.1003 val_ch = -35
+diff_count = 15 diff = 26.9281 val_ch = -35
+diff_count = 15 diff = 38.7123 val_ch = -35
+diff_count = 15 diff = 19.9353 val_ch = -35
+diff_count = 15 diff = 23.5301 val_ch = -35
+diff_count = 15 diff = 38.3571 val_ch = -35
+diff_count = 15 diff = 50.1805 val_ch = -35
+diff_count = 15 diff = 17.9647 val_ch = -35
+diff_count = 15 diff = 11.1098 val_ch = -25
+diff_count = 15 diff = 21.2526 val_ch = -35
+diff_count = 15 diff = 36.0495 val_ch = -35
+diff_count = 15 diff = 46.346 val_ch = -35
+diff_count = 15 diff = 47.1621 val_ch = -35
+diff_count = 15 diff = 49.699 val_ch = -35
+diff_count = 15 diff = 43.4156 val_ch = -35
+diff_count = 15 diff = 49.037 val_ch = -35
+count = 51 diff2 = -855
+diff_count = 40 diff = 49.44 val_ch = -35
+diff_count = 40 diff = 31.075 val_ch = -35
+diff_count = 40 diff = 5.75568 val_ch = 0
+diff_count = 40 diff = 15.1106 val_ch = -35
+diff_count = 40 diff = 13.4191 val_ch = -25
+diff_count = 40 diff = 48.9616 val_ch = -35
+diff_count = 40 diff = 3.12448 val_ch = 1
+diff_count = 40 diff = 9.8884 val_ch = -5
+diff_count = 40 diff = 6.9351 val_ch = 0
+diff_count = 40 diff = 36.2254 val_ch = -35
+diff_count = 40 diff = 2.15851 val_ch = 2
+diff_count = 40 diff = 0.89966 val_ch = 10
+diff_count = 40 diff = 21.0719 val_ch = -35
+diff_count = 40 diff = 9.2877 val_ch = -5
+diff_count = 40 diff = 28.0647 val_ch = -35
+diff_count = 40 diff = 24.4699 val_ch = -35
+diff_count = 40 diff = 9.6429 val_ch = -5
+diff_count = 40 diff = 2.18053 val_ch = 2
+diff_count = 40 diff = 30.0353 val_ch = -35
+diff_count = 40 diff = 36.8902 val_ch = -35
+diff_count = 40 diff = 26.7474 val_ch = -35
+diff_count = 40 diff = 11.9505 val_ch = -25
+diff_count = 40 diff = 1.65403 val_ch = 5
+diff_count = 40 diff = 0.83791 val_ch = 10
+diff_count = 40 diff = 1.699 val_ch = 5
+diff_count = 40 diff = 4.5844 val_ch = 0
+diff_count = 40 diff = 1.03701 val_ch = 5
+count = 3 diff2 = -450
+diff_count = 27 diff = 38.44 val_ch = -35
+diff_count = 27 diff = 20.075 val_ch = -35
+diff_count = 27 diff = 5.24432 val_ch = 0
+diff_count = 27 diff = 4.1106 val_ch = 0
+diff_count = 27 diff = 2.4191 val_ch = 2
+diff_count = 27 diff = 37.9616 val_ch = -35
+diff_count = 27 diff = 7.87552 val_ch = -5
+diff_count = 27 diff = 1.1116 val_ch = 5
+diff_count = 27 diff = 4.0649 val_ch = 0
+diff_count = 27 diff = 25.2254 val_ch = -35
+diff_count = 27 diff = 13.1585 val_ch = -25
+diff_count = 27 diff = 10.1003 val_ch = -25
+diff_count = 27 diff = 10.0719 val_ch = -25
+diff_count = 27 diff = 1.7123 val_ch = 5
+diff_count = 27 diff = 17.0647 val_ch = -35
+diff_count = 27 diff = 13.4699 val_ch = -25
+diff_count = 27 diff = 1.3571 val_ch = 5
+diff_count = 27 diff = 13.1805 val_ch = -25
+diff_count = 27 diff = 19.0353 val_ch = -35
+diff_count = 27 diff = 25.8902 val_ch = -35
+diff_count = 27 diff = 15.7474 val_ch = -35
+diff_count = 27 diff = 0.9505 val_ch = 10
+diff_count = 27 diff = 9.34597 val_ch = -5
+diff_count = 27 diff = 10.1621 val_ch = -25
+diff_count = 27 diff = 12.699 val_ch = -25
+diff_count = 27 diff = 6.4156 val_ch = 0
+diff_count = 27 diff = 12.037 val_ch = -25
+count = 14 diff2 = -490
+diff_count = 24 diff = 42.44 val_ch = -35
+diff_count = 24 diff = 24.075 val_ch = -35
+diff_count = 24 diff = 1.24432 val_ch = 5
+diff_count = 24 diff = 8.1106 val_ch = -5
+diff_count = 24 diff = 6.4191 val_ch = 0
+diff_count = 24 diff = 41.9616 val_ch = -35
+diff_count = 24 diff = 3.87552 val_ch = 1
+diff_count = 24 diff = 2.8884 val_ch = 2
+diff_count = 24 diff = 0.0649004 val_ch = 10
+diff_count = 24 diff = 29.2254 val_ch = -35
+diff_count = 24 diff = 9.15851 val_ch = -5
+diff_count = 24 diff = 6.10034 val_ch = 0
+diff_count = 24 diff = 14.0719 val_ch = -25
+diff_count = 24 diff = 2.2877 val_ch = 2
+diff_count = 24 diff = 21.0647 val_ch = -35
+diff_count = 24 diff = 17.4699 val_ch = -35
+diff_count = 24 diff = 2.6429 val_ch = 2
+diff_count = 24 diff = 9.18053 val_ch = -5
+diff_count = 24 diff = 23.0353 val_ch = -35
+diff_count = 24 diff = 29.8902 val_ch = -35
+diff_count = 24 diff = 19.7474 val_ch = -35
+diff_count = 24 diff = 4.9505 val_ch = 0
+diff_count = 24 diff = 5.34597 val_ch = 0
+diff_count = 24 diff = 6.16209 val_ch = 0
+diff_count = 24 diff = 8.699 val_ch = -5
+diff_count = 24 diff = 2.4156 val_ch = 2
+diff_count = 24 diff = 8.03701 val_ch = -5
+count = 10 diff2 = -365
+diff_count = 11 diff = 14.44 val_ch = -25
+diff_count = 11 diff = 3.925 val_ch = 1
+diff_count = 11 diff = 29.2443 val_ch = -35
+diff_count = 11 diff = 19.8894 val_ch = -35
+diff_count = 11 diff = 21.5809 val_ch = -35
+diff_count = 11 diff = 13.9616 val_ch = -25
+diff_count = 11 diff = 31.8755 val_ch = -35
+diff_count = 11 diff = 25.1116 val_ch = -35
+diff_count = 11 diff = 28.0649 val_ch = -35
+diff_count = 11 diff = 1.2254 val_ch = 5
+diff_count = 11 diff = 37.1585 val_ch = -35
+diff_count = 11 diff = 34.1003 val_ch = -35
+diff_count = 11 diff = 13.9281 val_ch = -25
+diff_count = 11 diff = 25.7123 val_ch = -35
+diff_count = 11 diff = 6.9353 val_ch = 0
+diff_count = 11 diff = 10.5301 val_ch = -25
+diff_count = 11 diff = 25.3571 val_ch = -35
+diff_count = 11 diff = 37.1805 val_ch = -35
+diff_count = 11 diff = 4.9647 val_ch = 0
+diff_count = 11 diff = 1.8902 val_ch = 5
+diff_count = 11 diff = 8.2526 val_ch = -5
+diff_count = 11 diff = 23.0495 val_ch = -35
+diff_count = 11 diff = 33.346 val_ch = -35
+diff_count = 11 diff = 34.1621 val_ch = -35
+diff_count = 11 diff = 36.699 val_ch = -35
+diff_count = 11 diff = 30.4156 val_ch = -35
+diff_count = 11 diff = 36.037 val_ch = -35
+count = 38 diff2 = -700
+diff_count = 45 diff = 51.44 val_ch = -35
+diff_count = 45 diff = 33.075 val_ch = -35
+diff_count = 45 diff = 7.75568 val_ch = -5
+diff_count = 45 diff = 17.1106 val_ch = -35
+diff_count = 45 diff = 15.4191 val_ch = -35
+diff_count = 45 diff = 50.9616 val_ch = -35
+diff_count = 45 diff = 5.12448 val_ch = 0
+diff_count = 45 diff = 11.8884 val_ch = -25
+diff_count = 45 diff = 8.9351 val_ch = -5
+diff_count = 45 diff = 38.2254 val_ch = -35
+diff_count = 45 diff = 0.158513 val_ch = 10
+diff_count = 45 diff = 2.89966 val_ch = 2
+diff_count = 45 diff = 23.0719 val_ch = -35
+diff_count = 45 diff = 11.2877 val_ch = -25
+diff_count = 45 diff = 30.0647 val_ch = -35
+diff_count = 45 diff = 26.4699 val_ch = -35
+diff_count = 45 diff = 11.6429 val_ch = -25
+diff_count = 45 diff = 0.180531 val_ch = 10
+diff_count = 45 diff = 32.0353 val_ch = -35
+diff_count = 45 diff = 38.8902 val_ch = -35
+diff_count = 45 diff = 28.7474 val_ch = -35
+diff_count = 45 diff = 13.9505 val_ch = -25
+diff_count = 45 diff = 3.65403 val_ch = 1
+diff_count = 45 diff = 2.83791 val_ch = 2
+diff_count = 45 diff = 0.301 val_ch = 10
+diff_count = 45 diff = 6.5844 val_ch = 0
+diff_count = 45 diff = 0.96299 val_ch = 10
+count = 1 diff2 = -530
+diff_count = 30 diff = 47.44 val_ch = -35
+diff_count = 30 diff = 29.075 val_ch = -35
+diff_count = 30 diff = 3.75568 val_ch = 1
+diff_count = 30 diff = 13.1106 val_ch = -25
+diff_count = 30 diff = 11.4191 val_ch = -25
+diff_count = 30 diff = 46.9616 val_ch = -35
+diff_count = 30 diff = 1.12448 val_ch = 5
+diff_count = 30 diff = 7.8884 val_ch = -5
+diff_count = 30 diff = 4.9351 val_ch = 0
+diff_count = 30 diff = 34.2254 val_ch = -35
+diff_count = 30 diff = 4.15851 val_ch = 0
+diff_count = 30 diff = 1.10034 val_ch = 5
+diff_count = 30 diff = 19.0719 val_ch = -35
+diff_count = 30 diff = 7.2877 val_ch = -5
+diff_count = 30 diff = 26.0647 val_ch = -35
+diff_count = 30 diff = 22.4699 val_ch = -35
+diff_count = 30 diff = 7.6429 val_ch = -5
+diff_count = 30 diff = 4.18053 val_ch = 0
+diff_count = 30 diff = 28.0353 val_ch = -35
+diff_count = 30 diff = 34.8902 val_ch = -35
+diff_count = 30 diff = 24.7474 val_ch = -35
+diff_count = 30 diff = 9.9505 val_ch = -5
+diff_count = 30 diff = 0.34597 val_ch = 10
+diff_count = 30 diff = 1.16209 val_ch = 5
+diff_count = 30 diff = 3.699 val_ch = 1
+diff_count = 30 diff = 2.5844 val_ch = 2
+diff_count = 30 diff = 3.03701 val_ch = 1
+count = 5 diff2 = -420
+diff_count = 20 diff = 36.44 val_ch = -35
+diff_count = 20 diff = 18.075 val_ch = -35
+diff_count = 20 diff = 7.24432 val_ch = -5
+diff_count = 20 diff = 2.1106 val_ch = 2
+diff_count = 20 diff = 0.4191 val_ch = 10
+diff_count = 20 diff = 35.9616 val_ch = -35
+diff_count = 20 diff = 9.87552 val_ch = -5
+diff_count = 20 diff = 3.1116 val_ch = 1
+diff_count = 20 diff = 6.0649 val_ch = 0
+diff_count = 20 diff = 23.2254 val_ch = -35
+diff_count = 20 diff = 15.1585 val_ch = -35
+diff_count = 20 diff = 12.1003 val_ch = -25
+diff_count = 20 diff = 8.0719 val_ch = -5
+diff_count = 20 diff = 3.7123 val_ch = 1
+diff_count = 20 diff = 15.0647 val_ch = -35
+diff_count = 20 diff = 11.4699 val_ch = -25
+diff_count = 20 diff = 3.3571 val_ch = 1
+diff_count = 20 diff = 15.1805 val_ch = -35
+diff_count = 20 diff = 17.0353 val_ch = -35
+diff_count = 20 diff = 23.8902 val_ch = -35
+diff_count = 20 diff = 13.7474 val_ch = -25
+diff_count = 20 diff = 1.0495 val_ch = 5
+diff_count = 20 diff = 11.346 val_ch = -25
+diff_count = 20 diff = 12.1621 val_ch = -25
+diff_count = 20 diff = 14.699 val_ch = -25
+diff_count = 20 diff = 8.4156 val_ch = -5
+diff_count = 20 diff = 14.037 val_ch = -25
+count = 16 diff2 = -510
+diff_count = 22 diff = 37.44 val_ch = -35
+diff_count = 22 diff = 19.075 val_ch = -35
+diff_count = 22 diff = 6.24432 val_ch = 0
+diff_count = 22 diff = 3.1106 val_ch = 1
+diff_count = 22 diff = 1.4191 val_ch = 5
+diff_count = 22 diff = 36.9616 val_ch = -35
+diff_count = 22 diff = 8.87552 val_ch = -5
+diff_count = 22 diff = 2.1116 val_ch = 2
+diff_count = 22 diff = 5.0649 val_ch = 0
+diff_count = 22 diff = 24.2254 val_ch = -35
+diff_count = 22 diff = 14.1585 val_ch = -25
+diff_count = 22 diff = 11.1003 val_ch = -25
+diff_count = 22 diff = 9.0719 val_ch = -5
+diff_count = 22 diff = 2.7123 val_ch = 2
+diff_count = 22 diff = 16.0647 val_ch = -35
+diff_count = 22 diff = 12.4699 val_ch = -25
+diff_count = 22 diff = 2.3571 val_ch = 2
+diff_count = 22 diff = 14.1805 val_ch = -25
+diff_count = 22 diff = 18.0353 val_ch = -35
+diff_count = 22 diff = 24.8902 val_ch = -35
+diff_count = 22 diff = 14.7474 val_ch = -25
+diff_count = 22 diff = 0.0495005 val_ch = 10
+diff_count = 22 diff = 10.346 val_ch = -25
+diff_count = 22 diff = 11.1621 val_ch = -25
+diff_count = 22 diff = 13.699 val_ch = -25
+diff_count = 22 diff = 7.4156 val_ch = -5
+diff_count = 22 diff = 13.037 val_ch = -25
+count = 15 diff2 = -485
+diff_count = 12 diff = 27.44 val_ch = -35
+diff_count = 12 diff = 9.075 val_ch = -5
+diff_count = 12 diff = 16.2443 val_ch = -35
+diff_count = 12 diff = 6.8894 val_ch = 0
+diff_count = 12 diff = 8.5809 val_ch = -5
+diff_count = 12 diff = 26.9616 val_ch = -35
+diff_count = 12 diff = 18.8755 val_ch = -35
+diff_count = 12 diff = 12.1116 val_ch = -25
+diff_count = 12 diff = 15.0649 val_ch = -35
+diff_count = 12 diff = 14.2254 val_ch = -25
+diff_count = 12 diff = 24.1585 val_ch = -35
+diff_count = 12 diff = 21.1003 val_ch = -35
+diff_count = 12 diff = 0.928101 val_ch = 10
+diff_count = 12 diff = 12.7123 val_ch = -25
+diff_count = 12 diff = 6.0647 val_ch = 0
+diff_count = 12 diff = 2.4699 val_ch = 2
+diff_count = 12 diff = 12.3571 val_ch = -25
+diff_count = 12 diff = 24.1805 val_ch = -35
+diff_count = 12 diff = 8.0353 val_ch = -5
+diff_count = 12 diff = 14.8902 val_ch = -25
+diff_count = 12 diff = 4.7474 val_ch = 0
+diff_count = 12 diff = 10.0495 val_ch = -25
+diff_count = 12 diff = 20.346 val_ch = -35
+diff_count = 12 diff = 21.1621 val_ch = -35
+diff_count = 12 diff = 23.699 val_ch = -35
+diff_count = 12 diff = 17.4156 val_ch = -35
+diff_count = 12 diff = 23.037 val_ch = -35
+count = 25 diff2 = -620
+diff_count = 14 diff = 25.44 val_ch = -35
+diff_count = 14 diff = 7.075 val_ch = -5
+diff_count = 14 diff = 18.2443 val_ch = -35
+diff_count = 14 diff = 8.8894 val_ch = -5
+diff_count = 14 diff = 10.5809 val_ch = -25
+diff_count = 14 diff = 24.9616 val_ch = -35
+diff_count = 14 diff = 20.8755 val_ch = -35
+diff_count = 14 diff = 14.1116 val_ch = -25
+diff_count = 14 diff = 17.0649 val_ch = -35
+diff_count = 14 diff = 12.2254 val_ch = -25
+diff_count = 14 diff = 26.1585 val_ch = -35
+diff_count = 14 diff = 23.1003 val_ch = -35
+diff_count = 14 diff = 2.9281 val_ch = 2
+diff_count = 14 diff = 14.7123 val_ch = -25
+diff_count = 14 diff = 4.0647 val_ch = 0
+diff_count = 14 diff = 0.4699 val_ch = 10
+diff_count = 14 diff = 14.3571 val_ch = -25
+diff_count = 14 diff = 26.1805 val_ch = -35
+diff_count = 14 diff = 6.0353 val_ch = 0
+diff_count = 14 diff = 12.8902 val_ch = -25
+diff_count = 14 diff = 2.7474 val_ch = 2
+diff_count = 14 diff = 12.0495 val_ch = -25
+diff_count = 14 diff = 22.346 val_ch = -35
+diff_count = 14 diff = 23.1621 val_ch = -35
+diff_count = 14 diff = 25.699 val_ch = -35
+diff_count = 14 diff = 19.4156 val_ch = -35
+diff_count = 14 diff = 25.037 val_ch = -35
+count = 27 diff2 = -640
+diff_count = 20 diff = 36.44 val_ch = -35
+diff_count = 20 diff = 18.075 val_ch = -35
+diff_count = 20 diff = 7.24432 val_ch = -5
+diff_count = 20 diff = 2.1106 val_ch = 2
+diff_count = 20 diff = 0.4191 val_ch = 10
+diff_count = 20 diff = 35.9616 val_ch = -35
+diff_count = 20 diff = 9.87552 val_ch = -5
+diff_count = 20 diff = 3.1116 val_ch = 1
+diff_count = 20 diff = 6.0649 val_ch = 0
+diff_count = 20 diff = 23.2254 val_ch = -35
+diff_count = 20 diff = 15.1585 val_ch = -35
+diff_count = 20 diff = 12.1003 val_ch = -25
+diff_count = 20 diff = 8.0719 val_ch = -5
+diff_count = 20 diff = 3.7123 val_ch = 1
+diff_count = 20 diff = 15.0647 val_ch = -35
+diff_count = 20 diff = 11.4699 val_ch = -25
+diff_count = 20 diff = 3.3571 val_ch = 1
+diff_count = 20 diff = 15.1805 val_ch = -35
+diff_count = 20 diff = 17.0353 val_ch = -35
+diff_count = 20 diff = 23.8902 val_ch = -35
+diff_count = 20 diff = 13.7474 val_ch = -25
+diff_count = 20 diff = 1.0495 val_ch = 5
+diff_count = 20 diff = 11.346 val_ch = -25
+diff_count = 20 diff = 12.1621 val_ch = -25
+diff_count = 20 diff = 14.699 val_ch = -25
+diff_count = 20 diff = 8.4156 val_ch = -5
+diff_count = 20 diff = 14.037 val_ch = -25
+count = 16 diff2 = -510
+diff_count = 42 diff = 50.44 val_ch = -35
+diff_count = 42 diff = 32.075 val_ch = -35
+diff_count = 42 diff = 6.75568 val_ch = 0
+diff_count = 42 diff = 16.1106 val_ch = -35
+diff_count = 42 diff = 14.4191 val_ch = -25
+diff_count = 42 diff = 49.9616 val_ch = -35
+diff_count = 42 diff = 4.12448 val_ch = 0
+diff_count = 42 diff = 10.8884 val_ch = -25
+diff_count = 42 diff = 7.9351 val_ch = -5
+diff_count = 42 diff = 37.2254 val_ch = -35
+diff_count = 42 diff = 1.15851 val_ch = 5
+diff_count = 42 diff = 1.89966 val_ch = 5
+diff_count = 42 diff = 22.0719 val_ch = -35
+diff_count = 42 diff = 10.2877 val_ch = -25
+diff_count = 42 diff = 29.0647 val_ch = -35
+diff_count = 42 diff = 25.4699 val_ch = -35
+diff_count = 42 diff = 10.6429 val_ch = -25
+diff_count = 42 diff = 1.18053 val_ch = 5
+diff_count = 42 diff = 31.0353 val_ch = -35
+diff_count = 42 diff = 37.8902 val_ch = -35
+diff_count = 42 diff = 27.7474 val_ch = -35
+diff_count = 42 diff = 12.9505 val_ch = -25
+diff_count = 42 diff = 2.65403 val_ch = 2
+diff_count = 42 diff = 1.83791 val_ch = 5
+diff_count = 42 diff = 0.699 val_ch = 10
+diff_count = 42 diff = 5.5844 val_ch = 0
+diff_count = 42 diff = 0.03701 val_ch = 10
+count = 2 diff2 = -515
+diff_count = 11 diff = 14.44 val_ch = -25
+diff_count = 11 diff = 3.925 val_ch = 1
+diff_count = 11 diff = 29.2443 val_ch = -35
+diff_count = 11 diff = 19.8894 val_ch = -35
+diff_count = 11 diff = 21.5809 val_ch = -35
+diff_count = 11 diff = 13.9616 val_ch = -25
+diff_count = 11 diff = 31.8755 val_ch = -35
+diff_count = 11 diff = 25.1116 val_ch = -35
+diff_count = 11 diff = 28.0649 val_ch = -35
+diff_count = 11 diff = 1.2254 val_ch = 5
+diff_count = 11 diff = 37.1585 val_ch = -35
+diff_count = 11 diff = 34.1003 val_ch = -35
+diff_count = 11 diff = 13.9281 val_ch = -25
+diff_count = 11 diff = 25.7123 val_ch = -35
+diff_count = 11 diff = 6.9353 val_ch = 0
+diff_count = 11 diff = 10.5301 val_ch = -25
+diff_count = 11 diff = 25.3571 val_ch = -35
+diff_count = 11 diff = 37.1805 val_ch = -35
+diff_count = 11 diff = 4.9647 val_ch = 0
+diff_count = 11 diff = 1.8902 val_ch = 5
+diff_count = 11 diff = 8.2526 val_ch = -5
+diff_count = 11 diff = 23.0495 val_ch = -35
+diff_count = 11 diff = 33.346 val_ch = -35
+diff_count = 11 diff = 34.1621 val_ch = -35
+diff_count = 11 diff = 36.699 val_ch = -35
+diff_count = 11 diff = 30.4156 val_ch = -35
+diff_count = 11 diff = 36.037 val_ch = -35
+count = 38 diff2 = -700
+diff_count = 1 diff = 4.44 val_ch = 0
+diff_count = 1 diff = 13.925 val_ch = -25
+diff_count = 1 diff = 39.2443 val_ch = -35
+diff_count = 1 diff = 29.8894 val_ch = -35
+diff_count = 1 diff = 31.5809 val_ch = -35
+diff_count = 1 diff = 3.9616 val_ch = 1
+diff_count = 1 diff = 41.8755 val_ch = -35
+diff_count = 1 diff = 35.1116 val_ch = -35
+diff_count = 1 diff = 38.0649 val_ch = -35
+diff_count = 1 diff = 8.7746 val_ch = -5
+diff_count = 1 diff = 47.1585 val_ch = -35
+diff_count = 1 diff = 44.1003 val_ch = -35
+diff_count = 1 diff = 23.9281 val_ch = -35
+diff_count = 1 diff = 35.7123 val_ch = -35
+diff_count = 1 diff = 16.9353 val_ch = -35
+diff_count = 1 diff = 20.5301 val_ch = -35
+diff_count = 1 diff = 35.3571 val_ch = -35
+diff_count = 1 diff = 47.1805 val_ch = -35
+diff_count = 1 diff = 14.9647 val_ch = -25
+diff_count = 1 diff = 8.1098 val_ch = -5
+diff_count = 1 diff = 18.2526 val_ch = -35
+diff_count = 1 diff = 33.0495 val_ch = -35
+diff_count = 1 diff = 43.346 val_ch = -35
+diff_count = 1 diff = 44.1621 val_ch = -35
+diff_count = 1 diff = 46.699 val_ch = -35
+diff_count = 1 diff = 40.4156 val_ch = -35
+diff_count = 1 diff = 46.037 val_ch = -35
+count = 48 diff2 = -795
+diff_count = 21 diff = 19.44 val_ch = -35
+diff_count = 21 diff = 1.075 val_ch = 5
+diff_count = 21 diff = 24.2443 val_ch = -35
+diff_count = 21 diff = 14.8894 val_ch = -25
+diff_count = 21 diff = 16.5809 val_ch = -35
+diff_count = 21 diff = 18.9616 val_ch = -35
+diff_count = 21 diff = 26.8755 val_ch = -35
+diff_count = 21 diff = 20.1116 val_ch = -35
+diff_count = 21 diff = 23.0649 val_ch = -35
+diff_count = 21 diff = 6.2254 val_ch = 0
+diff_count = 21 diff = 32.1585 val_ch = -35
+diff_count = 21 diff = 29.1003 val_ch = -35
+diff_count = 21 diff = 8.9281 val_ch = -5
+diff_count = 21 diff = 20.7123 val_ch = -35
+diff_count = 21 diff = 1.9353 val_ch = 5
+diff_count = 21 diff = 5.5301 val_ch = 0
+diff_count = 21 diff = 20.3571 val_ch = -35
+diff_count = 21 diff = 32.1805 val_ch = -35
+diff_count = 21 diff = 0.0353012 val_ch = 10
+diff_count = 21 diff = 6.8902 val_ch = 0
+diff_count = 21 diff = 3.2526 val_ch = 1
+diff_count = 21 diff = 18.0495 val_ch = -35
+diff_count = 21 diff = 28.346 val_ch = -35
+diff_count = 21 diff = 29.1621 val_ch = -35
+diff_count = 21 diff = 31.699 val_ch = -35
+diff_count = 21 diff = 25.4156 val_ch = -35
+diff_count = 21 diff = 31.037 val_ch = -35
+count = 33 diff2 = -660
+diff_count = 30 diff = 43.44 val_ch = -35
+diff_count = 30 diff = 25.075 val_ch = -35
+diff_count = 30 diff = 0.24432 val_ch = 10
+diff_count = 30 diff = 9.1106 val_ch = -5
+diff_count = 30 diff = 7.4191 val_ch = -5
+diff_count = 30 diff = 42.9616 val_ch = -35
+diff_count = 30 diff = 2.87552 val_ch = 2
+diff_count = 30 diff = 3.8884 val_ch = 1
+diff_count = 30 diff = 0.9351 val_ch = 10
+diff_count = 30 diff = 30.2254 val_ch = -35
+diff_count = 30 diff = 8.15851 val_ch = -5
+diff_count = 30 diff = 5.10034 val_ch = 0
+diff_count = 30 diff = 15.0719 val_ch = -35
+diff_count = 30 diff = 3.2877 val_ch = 1
+diff_count = 30 diff = 22.0647 val_ch = -35
+diff_count = 30 diff = 18.4699 val_ch = -35
+diff_count = 30 diff = 3.6429 val_ch = 1
+diff_count = 30 diff = 8.18053 val_ch = -5
+diff_count = 30 diff = 24.0353 val_ch = -35
+diff_count = 30 diff = 30.8902 val_ch = -35
+diff_count = 30 diff = 20.7474 val_ch = -35
+diff_count = 30 diff = 5.9505 val_ch = 0
+diff_count = 30 diff = 4.34597 val_ch = 0
+diff_count = 30 diff = 5.16209 val_ch = 0
+diff_count = 30 diff = 7.699 val_ch = -5
+diff_count = 30 diff = 1.4156 val_ch = 5
+diff_count = 30 diff = 7.03701 val_ch = -5
+count = 9 diff2 = -380
+diff_count = 39 diff = 48.44 val_ch = -35
+diff_count = 39 diff = 30.075 val_ch = -35
+diff_count = 39 diff = 4.75568 val_ch = 0
+diff_count = 39 diff = 14.1106 val_ch = -25
+diff_count = 39 diff = 12.4191 val_ch = -25
+diff_count = 39 diff = 47.9616 val_ch = -35
+diff_count = 39 diff = 2.12448 val_ch = 2
+diff_count = 39 diff = 8.8884 val_ch = -5
+diff_count = 39 diff = 5.9351 val_ch = 0
+diff_count = 39 diff = 35.2254 val_ch = -35
+diff_count = 39 diff = 3.15851 val_ch = 1
+diff_count = 39 diff = 0.10034 val_ch = 10
+diff_count = 39 diff = 20.0719 val_ch = -35
+diff_count = 39 diff = 8.2877 val_ch = -5
+diff_count = 39 diff = 27.0647 val_ch = -35
+diff_count = 39 diff = 23.4699 val_ch = -35
+diff_count = 39 diff = 8.6429 val_ch = -5
+diff_count = 39 diff = 3.18053 val_ch = 1
+diff_count = 39 diff = 29.0353 val_ch = -35
+diff_count = 39 diff = 35.8902 val_ch = -35
+diff_count = 39 diff = 25.7474 val_ch = -35
+diff_count = 39 diff = 10.9505 val_ch = -25
+diff_count = 39 diff = 0.65403 val_ch = 10
+diff_count = 39 diff = 0.16209 val_ch = 10
+diff_count = 39 diff = 2.699 val_ch = 2
+diff_count = 39 diff = 3.5844 val_ch = 1
+diff_count = 39 diff = 2.03701 val_ch = 2
+count = 4 diff2 = -440
+diff_count = 27 diff = 46.44 val_ch = -35
+diff_count = 27 diff = 28.075 val_ch = -35
+diff_count = 27 diff = 2.75568 val_ch = 2
+diff_count = 27 diff = 12.1106 val_ch = -25
+diff_count = 27 diff = 10.4191 val_ch = -25
+diff_count = 27 diff = 45.9616 val_ch = -35
+diff_count = 27 diff = 0.12448 val_ch = 10
+diff_count = 27 diff = 6.8884 val_ch = 0
+diff_count = 27 diff = 3.9351 val_ch = 1
+diff_count = 27 diff = 33.2254 val_ch = -35
+diff_count = 27 diff = 5.15851 val_ch = 0
+diff_count = 27 diff = 2.10034 val_ch = 2
+diff_count = 27 diff = 18.0719 val_ch = -35
+diff_count = 27 diff = 6.2877 val_ch = 0
+diff_count = 27 diff = 25.0647 val_ch = -35
+diff_count = 27 diff = 21.4699 val_ch = -35
+diff_count = 27 diff = 6.6429 val_ch = 0
+diff_count = 27 diff = 5.18053 val_ch = 0
+diff_count = 27 diff = 27.0353 val_ch = -35
+diff_count = 27 diff = 33.8902 val_ch = -35
+diff_count = 27 diff = 23.7474 val_ch = -35
+diff_count = 27 diff = 8.9505 val_ch = -5
+diff_count = 27 diff = 1.34597 val_ch = 5
+diff_count = 27 diff = 2.16209 val_ch = 2
+diff_count = 27 diff = 4.699 val_ch = 0
+diff_count = 27 diff = 1.5844 val_ch = 5
+diff_count = 27 diff = 4.03701 val_ch = 0
+count = 6 diff2 = -405
+diff_count = 24 diff = 42.44 val_ch = -35
+diff_count = 24 diff = 24.075 val_ch = -35
+diff_count = 24 diff = 1.24432 val_ch = 5
+diff_count = 24 diff = 8.1106 val_ch = -5
+diff_count = 24 diff = 6.4191 val_ch = 0
+diff_count = 24 diff = 41.9616 val_ch = -35
+diff_count = 24 diff = 3.87552 val_ch = 1
+diff_count = 24 diff = 2.8884 val_ch = 2
+diff_count = 24 diff = 0.0649004 val_ch = 10
+diff_count = 24 diff = 29.2254 val_ch = -35
+diff_count = 24 diff = 9.15851 val_ch = -5
+diff_count = 24 diff = 6.10034 val_ch = 0
+diff_count = 24 diff = 14.0719 val_ch = -25
+diff_count = 24 diff = 2.2877 val_ch = 2
+diff_count = 24 diff = 21.0647 val_ch = -35
+diff_count = 24 diff = 17.4699 val_ch = -35
+diff_count = 24 diff = 2.6429 val_ch = 2
+diff_count = 24 diff = 9.18053 val_ch = -5
+diff_count = 24 diff = 23.0353 val_ch = -35
+diff_count = 24 diff = 29.8902 val_ch = -35
+diff_count = 24 diff = 19.7474 val_ch = -35
+diff_count = 24 diff = 4.9505 val_ch = 0
+diff_count = 24 diff = 5.34597 val_ch = 0
+diff_count = 24 diff = 6.16209 val_ch = 0
+diff_count = 24 diff = 8.699 val_ch = -5
+diff_count = 24 diff = 2.4156 val_ch = 2
+diff_count = 24 diff = 8.03701 val_ch = -5
+count = 10 diff2 = -365
+diff_count = 45 diff = 51.44 val_ch = -35
+diff_count = 45 diff = 33.075 val_ch = -35
+diff_count = 45 diff = 7.75568 val_ch = -5
+diff_count = 45 diff = 17.1106 val_ch = -35
+diff_count = 45 diff = 15.4191 val_ch = -35
+diff_count = 45 diff = 50.9616 val_ch = -35
+diff_count = 45 diff = 5.12448 val_ch = 0
+diff_count = 45 diff = 11.8884 val_ch = -25
+diff_count = 45 diff = 8.9351 val_ch = -5
+diff_count = 45 diff = 38.2254 val_ch = -35
+diff_count = 45 diff = 0.158513 val_ch = 10
+diff_count = 45 diff = 2.89966 val_ch = 2
+diff_count = 45 diff = 23.0719 val_ch = -35
+diff_count = 45 diff = 11.2877 val_ch = -25
+diff_count = 45 diff = 30.0647 val_ch = -35
+diff_count = 45 diff = 26.4699 val_ch = -35
+diff_count = 45 diff = 11.6429 val_ch = -25
+diff_count = 45 diff = 0.180531 val_ch = 10
+diff_count = 45 diff = 32.0353 val_ch = -35
+diff_count = 45 diff = 38.8902 val_ch = -35
+diff_count = 45 diff = 28.7474 val_ch = -35
+diff_count = 45 diff = 13.9505 val_ch = -25
+diff_count = 45 diff = 3.65403 val_ch = 1
+diff_count = 45 diff = 2.83791 val_ch = 2
+diff_count = 45 diff = 0.301 val_ch = 10
+diff_count = 45 diff = 6.5844 val_ch = 0
+diff_count = 45 diff = 0.96299 val_ch = 10
+count = 1 diff2 = -530
