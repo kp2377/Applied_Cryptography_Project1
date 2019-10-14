@@ -9,11 +9,11 @@ using namespace std;
 #define KEY_ROW 27
 #define KEY_COLUMN 19
 
-#define TESTCASE2
+//#define TESTCASE2
 
-#define DEBUG
+//#define DEBUG
 
-#define AUTO
+//#define AUTO
 
 const char no_output[] = {"No testcase is matched with plaintext."};
 
@@ -25,8 +25,6 @@ const char test_case[5][501] = {"masterwork swept squanders grounders idolatries
 int random_array[106] = {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105};
 #endif
 float actual_weight[27]={11.11,7.22389,1.8562,3.83946,3.48084,11.0159,1.29839,2.73235,2.10624,8.31578,0.178395,0.826727,5.10324,2.605,6.58571,5.82362,2.68029,0.173727,7.00349,8.45673,6.30645,3.16951,0.986654,0.813637,0.275813,1.60789,0.416154};
-//Actual Weight ' 11.1179, a 7.22389,b 1.8562,c 3.83946,d 3.48084,e 11.0159,f 1.29839,g 2.73235,h 2.10624,i 8.31578,j 0.178395,k 0.826727,l 5.10324,m 2.605,n 6.58571,o 5.82362,p 2.68029,q 0.173727,r 7.00349,s 8.45673,t 6.30645,u 3.16951,v 0.986654,w 0.813637,x 0.275813,y 1.60789,z 0.416154, 
-                       //{" ",a,b,c,d,e ,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z};
 int alphabet_weight[27] = {19,7,1,2,4,10,2,2,5,6,1,1,3,2,6,6,2,1,5,5,7,2,1,2,1,2,1};
 int alphabet_weight_orig[27] = {11,7,2,4,3,11,1,3,2,8,0,1,5,3,7,6,3,0,7,8,6,3,1,1,0,2,0};
 string cipher(const char * pt, int length);
@@ -56,7 +54,14 @@ void print_key(int **key) {
 void print_key2(int **key) {
 #ifdef DEBUG
     int count = 0, count2 = 96, k;
-    for(int j=0;j<107;j++)
+
+    for(int j=0;j<27;j++)
+    {
+	cout.width(4);
+	cout << (char)(96+j) << " ";
+    }
+    cout << endl;
+    for(int j=0;j<27;j++)
     {
     	for(int k=0;k<27;k++)
     	{
@@ -117,6 +122,7 @@ string decipher2(int *ct, int length, int ***key_decipher) {
     int i;
     int correct_pt[5]={1,1,1,1,1},final_pt;
     i = 0;
+    cout << "\nFor testcase1\n";
     do {
 	if(correct_pt[0])
 	    correct_pt[0]=filter(ct[i],test_case[0][i],key_decipher[0]);
@@ -146,129 +152,6 @@ string decipher2(int *ct, int length, int ***key_decipher) {
     } else {
 	return (string) no_output;
     }
-}
-
-string decipher3(int *ct, int length, int **key_d) {
-	string s;
-	int diff_count;
-	int val_ch[27];
-	int i, j, count_sum = 0, prev_ct = 150, prev2_ct = 150;
-	const int rep_2[27] = {0,1,27,26,27,100,47,33,1,2,0,1,200,43,43,97,55,0,60,225,78,1,1,1,1,0,10};
-	const int rep_3[27] = {0,0,0,0,0,180,0,0,0,720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,180,0,0};
-	const int rep_a2[27] = {1,14,2,26,99,70,2,46,7,10,2,2,15,13,18,8,8,2,74,596,47,5,2,2,2,5,2};
-const int first_char[27] = {0, 42,42,42,42,42,42,41,41,42,41,42,41,41,41,41,41,41,42,41,42,42,42,42,41,42,41};
-	const float min_dist[27]={2.76, 4.86786, 8.75568, 9.0553, 4.10477, 5.19616, 3.06224, 6.4442, 1.98702, 6.53757, 0.841487, 3.89966, 8.02397, 6.14385, 5.17745, 4.57832, 6.32145, 0.819469, 6.60706, 7.97804, 4.24963, 7.47525, 4.65403, 1.91895, 1.301, 3.7922, 1.96299};
-//2.92368, 5.15992, 9.281, 9.59865, 4.35105, 5.50795, 3.24598, 6.83088, 2.10624, 6.92982, 0.891975, 4.13364, 8.5054, 6.5125, 5.48809, 4.85302, 6.70073, 0.868635, 7.00349, 8.45673, 4.50461, 7.92377, 4.93327, 2.03409, 1.37907, 4.01972, 2.08077};
-	const float max_dist[27]={ 52.44, 34.075,8.75568,18.1106,16.4191,51.9616,6.12448,12.8884,9.9351,39.2254,0.841487,3.89966,24.0719,12.2877,31.0647,27.4699,12.6429,0.819469,33.0353,39.8902,29.7474,14.9505,4.65403,3.83791,1.301,7.5844,1.96299};
-	float dist[27];
-	float diff2, diff[27];
-	cout << "Entered in decipher3 \n\n";
-	
-	int *count = new int[106];
-	for(j=0;j < 106;j++) {
-		count[j] = 0;
-	}
-	for(j=0;j<27;j++) {
-		key_d[106][j] += first_char[j] - 40;
-		key_d[ct[i]][j] = first_char[j];
-	}
-
-	for(i =0;i < length ;i++) {
-		count[ct[i]]++;
-		if(prev2_ct == ct[i]) {
-			cout << "alternate alphabet same = " <<ct[i] << " at " << i << "\n";
-			for(j=0;j<27;j++) {
-				key_d[106][j] += rep_a2[j] - key_d[ct[i]][j];
-				key_d[ct[i]][j] = rep_a2[j];
-			}
-		}
-		prev2_ct = prev_ct;
-		prev_ct = ct[i];
-	}
-	for(i =0;i < length ;i++) {
-		if(prev_ct == ct[i]) {
-			cout << "same alphabet = " <<ct[i] << " at " << i << "\n";
-			for(j=0;j<27;j++) {
-				key_d[106][j] += rep_2[j] - key_d[prev_ct][j];
-				key_d[prev_ct][j] = rep_2[j];
-			}
-		}
-		prev_ct = ct[i];
-	}
-
-	for(i =0;i < length ;i++) {
-		if(prev_ct == ct[i] && prev_ct == prev2_ct) {
-			cout << "alphabet repeated three times = " <<ct[i] << " at " << i << "\n";
-			for(j=0;j<27;j++) {
-				key_d[106][j] += rep_3[j] - key_d[prev_ct][j];
-				key_d[prev_ct][j] = rep_3[j];
-			}
-		}
-		prev2_ct = prev_ct;
-		prev_ct = ct[i];
-	}
-	cout << "\n";
-	cout << " count = ";
-	count_sum = 0;
-	for(i =0;i < 106 ;i++) {
-		//cout << (float)count[i]*106/count_sum << " ";
-		cout << (char)(96+i) << "  " << count[i] << ", ";
-		if(count[i]) count_sum++;
-		
-	}
-	cout << " Total number of symbols = " << count_sum << endl;
-	cout << endl;
-	//for(i =0;i < 27 ;i++) {
-	//	cout << max_dist[i]/alphabet_weight[i] << "\n ";
-	//}
-	for(i=0;i<27;i++) {
-		dist[i] = count_sum > 27 ? (max_dist[i] - (max_dist[i] - min_dist[i])/78*(count_sum-27)) : max_dist[i];
-	}
-	cout <<"Distribution = " << endl;
-	for(i =0;i < 27 ;i++) {
-		cout << dist[i] << "\n ";
-	}
-
-	for(i=0;i<27;i++) {
-		if(count[i]) {
-			diff2 = 0;
-			diff_count = 0;
-			for(j=0;j<27;j++)
-				val_ch[j] = 0;
-			for(j=0;j<27;j++) {
-			    diff[j] = abs(count[i] - dist[j]);
-			    if(diff[j] < 1) {
-				val_ch[j] += 10;
-				diff_count = diff_count + 10;
-			    } else if(diff[j] < 2) {
-				val_ch[j] += 5;
-				diff_count = diff_count + 5;
-			    } else if(diff[j] < 3) {
-				val_ch[j] += 2;
-				diff_count = diff_count + 2;
-			    }else if(diff[j] < 4) {
-				val_ch[j] += 1;
-				diff_count++;
-			    } else if(diff[j] < 7) {
-				diff_count = diff_count;
-			    } else if(diff[j] < 10) {
-				val_ch[j] = -5;
-				diff2 -= 5;
-			   } else if(diff[j] < 15) {
-				val_ch[j] = -25;
-				diff2 -= 25;
-			    } else {
-				val_ch[j] = -35;
-				diff2 -= 35;
-			    }
-			}
-			for(j=0;j<27;j++) {
-				cout << "diff_count = " << diff_count << " diff = " << diff[j] << " val_ch = " <<val_ch[j]<< endl;
-			}
-			cout <<"count = " << count[i] << " diff2 = " << diff2 << endl;
-		}
-	}
-	return s;
 }
 
 int main()
@@ -355,8 +238,10 @@ int main()
     }
     delete[] key_decipher;
     cout << "\n\n";
+    // if plaintext is not found by testcase1. Go to testcase2.
     if(plaintext_2 == no_output) {
 	plaintext_2 = decipher3(ct, length, key_d);
+	cout << "Guessed plaintext is : " << plaintext_2 << endl;	
     }
     for(i = 0; i < 106; ++i)
         delete[] key_d[i];
@@ -373,7 +258,6 @@ int random_generator()  // random generator function that excludes 76 to 94
     {
         rg = random_generator();
     }
-    //cout<<"The randomly generated number is :"<<rg<<"\n";
     return rg;
 }
 
@@ -463,5 +347,152 @@ string cipher(const char *pt, int length) {
 
 }
 #endif
+
+string decipher3(int *ct, int length, int **key_d) {
+	string s;
+	int diff_count;
+	int val_ch[27];
+	int i, j, count_sum = 0, prev_ct = 150, prev2_ct = 150;
+	const int rep_2[27] = {0,1,27,26,27,100,47,33,1,2,0,1,200,43,43,97,55,0,60,225,78,1,1,1,1,0,10};
+	const int rep_3[27] = {0,0,0,0,0,180,0,0,0,720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,180,0,0};
+	const int rep_a2[27] = {1,14,2,26,99,70,2,46,7,10,2,2,15,13,18,8,8,2,74,596,47,5,2,2,2,5,2};
+const int first_char[27] = {0, 42,42,42,42,42,42,41,41,42,41,42,41,41,41,41,41,41,42,41,42,42,42,42,41,42,41};
+	const float min_dist[27]={2.76, 4.86786, 8.75568, 9.0553, 4.10477, 5.19616, 3.06224, 6.4442, 1.98702, 6.53757, 0.841487, 3.89966, 8.02397, 6.14385, 5.17745, 4.57832, 6.32145, 0.819469, 6.60706, 7.97804, 4.24963, 7.47525, 4.65403, 1.91895, 1.301, 3.7922, 1.96299};
+//2.92368, 5.15992, 9.281, 9.59865, 4.35105, 5.50795, 3.24598, 6.83088, 2.10624, 6.92982, 0.891975, 4.13364, 8.5054, 6.5125, 5.48809, 4.85302, 6.70073, 0.868635, 7.00349, 8.45673, 4.50461, 7.92377, 4.93327, 2.03409, 1.37907, 4.01972, 2.08077};
+	const float max_dist[27]={ 52.44, 34.075,8.75568,18.1106,16.4191,51.9616,6.12448,12.8884,9.9351,39.2254,0.841487,3.89966,24.0719,12.2877,31.0647,27.4699,12.6429,0.819469,33.0353,39.8902,29.7474,14.9505,4.65403,3.83791,1.301,7.5844,1.96299};
+	float dist[27];
+	int diff2, diff[27];
+	cout << "For testcase2 \n\n";
+	
+	int *count = new int[106];
+	for(j=0;j < 106;j++) {
+		count[j] = 0;
+	}
+	for(j=0;j<27;j++) {
+		key_d[106][j] += first_char[j] - 40;
+		key_d[ct[i]][j] = first_char[j];
+	}
+
+	for(i =0;i < length ;i++) {
+		if(prev2_ct == ct[i]) {
+#ifdef DEBUG
+			cout << "alternate alphabet same = " <<ct[i] << " at " << i << "\n";
+#endif
+			for(j=0;j<27;j++) {
+				key_d[106][j] += rep_a2[j] - key_d[ct[i]][j];
+				key_d[ct[i]][j] = rep_a2[j];
+			}
+		}
+		prev2_ct = prev_ct;
+		prev_ct = ct[i];
+	}
+	for(i =0;i < length ;i++) {
+		if(prev_ct == ct[i]) {
+#ifdef DEBUG
+			cout << "same alphabet = " <<ct[i] << " at " << i << "\n";
+#endif
+			for(j=0;j<27;j++) {
+				key_d[106][j] += rep_2[j] - key_d[prev_ct][j];
+				key_d[prev_ct][j] = rep_2[j];
+			}
+		}
+		prev_ct = ct[i];
+	}
+
+	for(i =0;i < length ;i++) {
+		count[ct[i]]++;
+		if(prev_ct == ct[i] && prev_ct == prev2_ct) {
+#ifdef DEBUG
+			cout << "alphabet repeated three times = " <<ct[i] << " at " << i << "\n";
+#endif
+			for(j=0;j<27;j++) {
+				key_d[106][j] += rep_3[j] - key_d[prev_ct][j];
+				key_d[prev_ct][j] = rep_3[j];
+			}
+		}
+		prev2_ct = prev_ct;
+		prev_ct = ct[i];
+	}
+	count_sum = 0;
+	for(i =0;i < 106 ;i++) {
+		//cout << (float)count[i]*106/count_sum << " ";
+#ifdef DEBUG
+		cout << " count = ";
+		cout << (char)(96+i) << "  " << count[i] << ", ";
+#endif
+		if(count[i]) count_sum++;
+		
+	}
+	//cout << " Total number of symbols = " << count_sum << endl;
+	//cout << endl;
+	//for(i =0;i < 27 ;i++) {
+	//	cout << max_dist[i]/alphabet_weight[i] << "\n ";
+	//}
+	for(i=0;i<27;i++) {
+		dist[i] = count_sum > 27 ? (max_dist[i] - (max_dist[i] - min_dist[i])/78*(count_sum-27)) : max_dist[i];
+	}
+	//cout <<"Distribution = " << endl;
+	//for(i =0;i < 27 ;i++) {
+	//	cout << dist[i] << "\n ";
+	//}
+
+//Possibility allocation depending upon the symbol distribution.
+	for(i=0;i<27;i++) {
+		if(count[i]) {
+			diff2 = 0;
+			diff_count = 0;
+			for(j=0;j<27;j++)
+				val_ch[j] = 0;
+			for(j=0;j<27;j++) {
+			    diff[j] = abs(count[i] - dist[j]);
+			    if(diff[j] < 1) {
+				val_ch[j] += 10;
+				diff_count = diff_count + 10;
+			    } else if(diff[j] < 2) {
+				val_ch[j] += 5;
+				diff_count = diff_count + 5;
+			    } else if(diff[j] < 3) {
+				val_ch[j] += 2;
+				diff_count = diff_count + 2;
+			    }else if(diff[j] < 4) {
+				val_ch[j] += 1;
+				diff_count++;
+			    } else if(diff[j] < 7) {
+				diff_count = diff_count;
+			    } else if(diff[j] < 10) {
+				val_ch[j] = (key_d[i][j] > 1) ? (int) -5 +(40 - key_d[i][j])/8 : 0;
+				diff2 += (key_d[i][j] > 1) ? (int) 5  - (40 - key_d[i][j])/8 : 0;
+			   } else if(diff[j] < 15) {
+				val_ch[j] = (key_d[i][j] > 1) ? (int) -20 +(40 - key_d[i][j])/2 : 0;
+				diff2 += (key_d[i][j] > 1) ? (int) 20 - (40 - key_d[i][j])/2 : 0;
+			    } else {
+				val_ch[j] = (key_d[i][j] > 1) ? (int) - 35 +(40 - key_d[i][j])*7/8 : 0;
+				diff2 += (key_d[i][j] > 1) ? (int) 35  -(40 - key_d[i][j])*7/8 : 0;
+			    }
+			}
+			prev_ct = diff2/diff_count;
+			prev2_ct = diff2%diff_count;	
+			for(j=0;j<27;j++) {
+				if(val_ch[j]>4) {
+				        val_ch[j] = val_ch[j]*prev_ct;
+					val_ch[j] += prev2_ct;
+					prev2_ct = 0;
+				}
+				else if(val_ch[j]>0) {
+				   val_ch[j] = val_ch[j]*prev_ct;
+				}
+				//cout << "diff_count = " << diff_count << " diff = " << diff[j] << " val_ch = " <<val_ch[j]<< "     ";
+			}
+			//cout <<" mul factor = " << prev_ct << "reminder = " << prev2_ct << " count = " << count[i] << " diff2 = " << diff2 << endl;
+			for(j=0;j<27;j++) {
+				key_d[i][j] += val_ch[j];
+			}
+		}
+	print_key2(key_d);
+		
+	}
+	s = (string) no_output;
+	return s;
+}
 
 
