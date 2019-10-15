@@ -13,12 +13,12 @@ using namespace std;
 
 //#define DEBUG
 
-//#define AUTO
+#define AUTO
 
 const char no_output[] = {"No testcase is matched with plaintext."};
 
-const char test_case2[5][501] = {"masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyr", "wharves locoisms tearjerkers remiss chops duties prolonged inequities minnows itemized thematically scorecard deliverers jokingly semiosis claspers brazenness grateful collarbones stamping bittersweets habilitation endorsers decrepitly tambourine shadowboxes adopting ingenuous disquisitions quietist innovates mingles nationals disparaging exults realtor cockade rubberizing tubercled unremitting sloppiest algin knuckleball disengage domes doltishly encyclics spectroscopically debauched circumsola", "ozonise creosotes disruption neighborly lunier shagging balancing adriatic dick guesstimate storminess jest soberer spun toolbox crochet firebreak parliamentary undismayed lintiest homoeroticism silverfishes cornstalk digest subtler ruck cairns wombat working synapsed diamonding association opalescence crenation bumblebees undetected sandwiching unpeoples polishes schoolwork familarity flaying slued soothers splenification dare hydrology gourami alligators varsity statuettes gainly feeding filme", "autarky sartor terbium synapse herr eugenicists isthmian reembarks spinet dictaphone ecology carinae coeducational carburizing undulated twopenny subscriptions wrigglier scaliness enthrallingly carvers russified rejoice anaconda switzerland sallows devotedly pledgees incongruous miriest nonextraditable extrospection clipping souffle mimicry interrupts reputably reteaches quicksets bankroll hallucinated unzealous invocation winless yacking shinbone tonal vasoconstrictive manioc gourami purling ey", "championships iatrogenic maniacally antonym schoolboy shyly leafhoppers inturned sunbathing overrefined obliterations discus maintain cranked uniters twangled impairer wreakers forewings silesia occupance headroom foresting ornithologists shims lackaday benumbedness gloomy sententious fussing flagrant consonance profligately scutcheons honda swooned headworks zeins intermezzo adaptions elbow ocotillos denim japers thalamic corinthians restraightening kowtowed embarrasses latissimi impoverished s"};
 
+const char test_case2[5][501] = {"masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp", "wharves locoisms tearjerkers remiss chops duties prolonged inequities minnows itemized thematically scorecard deliverers jokingly semiosis claspers brazenness grateful collarbones stamping bittersweets habilitation endorsers decrepitly tambourine shadowboxes adopting ingenuous disquisitions quietist innovates mingles nationals disparaging exults realtor cockade rubberizing tubercled unremitting sloppiest algin knuckleball disengage domes doltishly encyclics spectroscopically debauched circumsola", "ozonise creosotes disruption neighborly lunier shagging balancing adriatic dick guesstimate storminess jest soberer spun toolbox crochet firebreak parliamentary undismayed lintiest homoeroticism silverfishes cornstalk digest subtler ruck cairns wombat working synapsed diamonding association opalescence crenation bumblebees undetected sandwiching unpeoples polishes schoolwork familarity flaying slued soothers splenification dare hydrology gourami alligators varsity statuettes gainly feeding filme", "autarky sartor terbium synapse herr eugenicists isthmian reembarks spinet dictaphone ecology carinae coeducational carburizing undulated twopenny subscriptions wrigglier scaliness enthrallingly carvers russified rejoice anaconda switzerland sallows devotedly pledgees incongruous miriest nonextraditable extrospection clipping souffle mimicry interrupts reputably reteaches quicksets bankroll hallucinated unzealous invocation winless yacking shinbone tonal vasoconstrictive manioc gourami purling ey", "championships iatrogenic maniacally antonym schoolboy shyly leafhoppers inturned sunbathing overrefined obliterations discus maintain cranked uniters twangled impairer wreakers forewings silesia occupance headroom foresting ornithologists shims lackaday benumbedness gloomy sententious fussing flagrant consonance profligately scutcheons honda swooned headworks zeins intermezzo adaptions elbow ocotillos denim japers thalamic corinthians restraightening kowtowed embarrasses latissimi impoverished s"};
 const char test_case[5][501] = {"masterwork swept squanders grounders idolatries swapper pave croupier dramatists magnified hypnoses delivery tassels marquise entailments circuits crampon nationalism nictitation anticapitalists dancingly soothly patriarchs goodie whickers baggy omnipotent sadist ameba processions beggary rename nonassertively macerators lectureship shipwrights sadden backups rhymer offstage schistose ebbs restorer graecizes subjoining leathering smocks leukocyte waled temperer embroglios bolivar repines teletyp", "wharves locoisms tearjerkers remiss chops duties prolonged inequities minnows itemized thematically scorecard deliverers jokingly semiosis claspers brazenness grateful collarbones stamping bittersweets habilitation endorsers decrepitly tambourine shadowboxes adopting ingenuous disquisitions quietist innovates mingles nationals disparaging exults realtor cockade rubberizing tubercled unremitting sloppiest algin knuckleball disengage domes doltishly encyclics spectroscopically debauched circumsola", "ozonise creosotes disruption neighborly lunier shagging balancing adriatic dick guesstimate storminess jest soberer spun toolbox crochet firebreak parliamentary undismayed lintiest homoeroticism silverfishes cornstalk digest subtler ruck cairns wombat working synapsed diamonding association opalescence crenation bumblebees undetected sandwiching unpeoples polishes schoolwork familarity flaying slued soothers splenification dare hydrology gourami alligators varsity statuettes gainly feeding filme", "autarky sartor terbium synapse herr eugenicists isthmian reembarks spinet dictaphone ecology carinae coeducational carburizing undulated twopenny subscriptions wrigglier scaliness enthrallingly carvers russified rejoice anaconda switzerland sallows devotedly pledgees incongruous miriest nonextraditable extrospection clipping souffle mimicry interrupts reputably reteaches quicksets bankroll hallucinated unzealous invocation winless yacking shinbone tonal vasoconstrictive manioc gourami purling ey", "championships iatrogenic maniacally antonym schoolboy shyly leafhoppers inturned sunbathing overrefined obliterations discus maintain cranked uniters twangled impairer wreakers forewings silesia occupance headroom foresting ornithologists shims lackaday benumbedness gloomy sententious fussing flagrant consonance profligately scutcheons honda swooned headworks zeins intermezzo adaptions elbow ocotillos denim japers thalamic corinthians restraightening kowtowed embarrasses latissimi impoverished s"};
 
 #ifdef AUTO
@@ -122,7 +122,6 @@ string decipher2(int *ct, int length, int ***key_decipher) {
     int i;
     int correct_pt[5]={1,1,1,1,1},final_pt;
     i = 0;
-    cout << "\nFor testcase1\n";
     do {
 	if(correct_pt[0])
 	    correct_pt[0]=filter(ct[i],test_case[0][i],key_decipher[0]);
@@ -139,6 +138,7 @@ string decipher2(int *ct, int length, int ***key_decipher) {
     //}while(final_pt > 1);
     }while(i < length);
     final_pt = correct_pt[0] + correct_pt[1]*2+3*correct_pt[2]+4*correct_pt[3]+5*correct_pt[4];
+
 #ifdef DEBUG
         cout << "\nlegnth = " << length << " final pt = " << final_pt << "\n";
 	print_key(key_decipher[0]);
@@ -147,7 +147,7 @@ string decipher2(int *ct, int length, int ***key_decipher) {
 	print_key(key_decipher[3]);
 	print_key(key_decipher[4]);
 #endif
-    if(final_pt) {
+    if(final_pt < 6 && final_pt > 0) {
 	return (string)test_case[final_pt - 1];
     } else {
 	return (string) no_output;
@@ -156,7 +156,7 @@ string decipher2(int *ct, int length, int ***key_decipher) {
 
 int main()
 {
-    int i,j,k,length,ct[500], count = 0;
+    int i,j,k,length,ct[500],loop;
     string plaintext_2, s, symbol;
     clock_t start,end;
     float seconds;
@@ -175,12 +175,25 @@ int main()
 	}
     }
     key_d = new int *[107];
-        key_d[106] = new int[27];
-        for(j=0;j<27;j++) {
-	    key_d[106][j] = 0;
-        }
     for(i=0;i<106;i++) {
         key_d[i] = new int[27];
+    }
+    key_d[106] = new int[27];
+#ifdef AUTO
+for(loop=0;loop<1;loop++)
+#endif
+{
+    for(i=0;i<5;i++) {
+	for(j=0;j<KEY_ROW;j++) {
+	    for(k=0;k<KEY_COLUMN;k++) {
+	        key_decipher[i][j][k] = 150;
+	    }
+	}
+    }
+    for(j=0;j<27;j++) {
+	key_d[106][j] = 0;
+    }
+    for(i=0;i<106;i++) {
         for(j=0;j<27;j++) {
             key_d[i][j] = 40;
 	    key_d[106][j] += 40;
@@ -188,10 +201,12 @@ int main()
     }
     
 // Enter the plaintext
-#ifdef AUTO    
-    //srand (time(NULL));
+#ifdef AUTO   
+    if(loop == 0) 
+    	srand (time(NULL));
     length = 500;
-    s = cipher(test_case2[0], length);
+    s.clear();
+    s = cipher(test_case2[rand()%5], length);
 #else
     cout << "Enter the  ciphertext : ";
 //cout << "Maximum size of a string is " << s.max_size() << "\n";
@@ -209,6 +224,7 @@ int main()
 	}
     }
     ct[j++]=atoi(symbol.c_str());
+    symbol.clear();
     length = j;
    
 #ifdef DEBUG
@@ -230,6 +246,13 @@ int main()
     cout << "\n\nGuessed plaintext is : " << plaintext_2; 
     seconds = (float)(end - start)*1000 / CLOCKS_PER_SEC;
     cout << "\n\n Time = " << seconds << " ms";
+    cout << "\n\n";
+    // if plaintext is not found by testcase1. Go to testcase2.
+    if(plaintext_2 == no_output) {
+	plaintext_2 = decipher3(ct, length, key_d);
+	cout << "Guessed plaintext is : " << plaintext_2 << endl;	
+    }
+}
     for(i=0;i<5;i++) {
 	for(j=0;j<KEY_ROW;j++) {
 	    delete[] key_decipher[i][j];
@@ -237,12 +260,6 @@ int main()
 	delete[] key_decipher[i];
     }
     delete[] key_decipher;
-    cout << "\n\n";
-    // if plaintext is not found by testcase1. Go to testcase2.
-    if(plaintext_2 == no_output) {
-	plaintext_2 = decipher3(ct, length, key_d);
-	cout << "Guessed plaintext is : " << plaintext_2 << endl;	
-    }
     for(i = 0; i < 106; ++i)
         delete[] key_d[i];
     delete[] key_d;
@@ -470,8 +487,10 @@ const int first_char[27] = {0, 42,42,42,42,42,42,41,41,42,41,42,41,41,41,41,41,4
 				diff2 += (key_d[i][j] > 1) ? (int) 35  -(40 - key_d[i][j])*7/8 : 0;
 			    }
 			}
+			if(diff_count > 0) {
 			prev_ct = diff2/diff_count;
 			prev2_ct = diff2%diff_count;	
+			}
 			for(j=0;j<27;j++) {
 				if(val_ch[j]>4) {
 				        val_ch[j] = val_ch[j]*prev_ct;
@@ -492,6 +511,7 @@ const int first_char[27] = {0, 42,42,42,42,42,42,41,41,42,41,42,41,41,41,41,41,4
 		
 	}
 	s = (string) no_output;
+	delete[] count;
 	return s;
 }
 
